@@ -86,7 +86,7 @@ be `/var/log/pdtt-john.log`.
 
 - Map names: descriptive, snake_case (e.g., `user_data_stats`)
 - Program sections: use SEC() macro with descriptive names
-- Struct names: snake_case with _t suffix for typedefs
+- Struct names: snake_case with_t suffix for typedefs
 
 ### Security
 

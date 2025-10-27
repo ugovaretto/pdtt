@@ -24,9 +24,7 @@
  * - conn_stats_map: Per-connection detailed statistics
  */
 
-#include <bpf/bpf_endian.h>
-#include <bpf/bpf_helpers.h>
-#include <bpf/bpf_tracing.h>
+#include <linux/types.h>
 #include <linux/bpf.h>
 #include <linux/if_ether.h>
 #include <linux/in.h>
@@ -35,8 +33,10 @@
 #include <linux/ptrace.h>
 #include <linux/socket.h>
 #include <linux/tcp.h>
-#include <linux/types.h>
 #include <linux/udp.h>
+#include <bpf/bpf_endian.h>
+#include <bpf/bpf_helpers.h>
+#include <bpf/bpf_tracing.h>
 
 #define XDP_ACT_PASS 2
 #define MAX_USERS 1024

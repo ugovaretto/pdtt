@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: BSD-3-Clause
+# Copyright (c) 2025 Ugo Varetto <ugo.varetto@pawsey.org.au>
 #!/bin/bash
 
 set -e
@@ -5,9 +7,9 @@ set -e
 echo "=== Testing Per-User Data Transfer Tracker ==="
 echo
 
-if [ "$EUID" -ne 0 ]; then 
-    echo "Please run as root (sudo)"
-    exit 1
+if [ "$EUID" -ne 0 ]; then
+  echo "Please run as root (sudo)"
+  exit 1
 fi
 
 LOG_FILE="/tmp/pdtt_test_$$.log"
@@ -17,11 +19,11 @@ echo "Using interface: $INTERFACE"
 echo "Log file: $LOG_FILE"
 echo
 
-if ! ip link show "$INTERFACE" > /dev/null 2>&1; then
-    echo "Error: Interface $INTERFACE not found"
-    echo "Available interfaces:"
-    ip -brief link show
-    exit 1
+if ! ip link show "$INTERFACE" >/dev/null 2>&1; then
+  echo "Error: Interface $INTERFACE not found"
+  echo "Available interfaces:"
+  ip -brief link show
+  exit 1
 fi
 
 echo "Building the tool..."
@@ -35,18 +37,18 @@ PID=$!
 sleep 2
 
 echo "Generating some network traffic..."
-ping -c 5 127.0.0.1 > /dev/null 2>&1 || true
-curl -s http://example.com > /dev/null 2>&1 || true
+ping -c 5 127.0.0.1 >/dev/null 2>&1 || true
+curl -s http://example.com >/dev/null 2>&1 || true
 
 wait $PID || true
 
 echo
 echo "=== Log file contents ==="
 if [ -f "$LOG_FILE" ]; then
-    cat "$LOG_FILE"
-    echo
-    echo "Test completed successfully!"
-    rm -f "$LOG_FILE"
+  cat "$LOG_FILE"
+  echo
+  echo "Test completed successfully!"
+  rm -f "$LOG_FILE"
 else
-    echo "Warning: Log file not created"
+  echo "Warning: Log file not created"
 fi

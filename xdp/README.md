@@ -1,4 +1,4 @@
-# Per-User Data Transfer Tracker (XDP Version)
+# Pawsey Data Transfer Tracker
 
 An eBPF-based tool to track network traffic per user in real-time, with
 support for specifying the network interface to monitor. Logs source and

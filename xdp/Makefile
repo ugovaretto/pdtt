@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: BSD-3-Clause
+# Copyright (c) 2025 Ugo Varetto <ugo.varetto@pawsey.org.au>
+
 CC = clang
 CFLAGS = -O2 -g -Wall -Wextra
 LDFLAGS = -lbpf -lelf -lz
