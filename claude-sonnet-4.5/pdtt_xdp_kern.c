@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: BSD-3-Clause
+// Copyright (c) 2025 Ugo Varetto <ugo.varetto@pawsey.org.au>
+
 #include <linux/bpf.h>
 #include <linux/if_ether.h>
 #include <linux/ip.h>
@@ -6,8 +9,10 @@
 #include <linux/udp.h>
 #include <linux/in.h>
 #include <linux/socket.h>
+#include <linux/ptrace.h>
 #include <bpf/bpf_helpers.h>
 #include <bpf/bpf_endian.h>
+#include <bpf/bpf_tracing.h>
 #include <linux/types.h>
 
 #define XDP_ACT_PASS 2
@@ -367,6 +372,118 @@ int cgroup_skb_egress(struct __sk_buff *skb)
     }
     
     return 1;
+}
+
+SEC("kprobe/tcp_sendmsg")
+int kprobe_tcp_sendmsg(struct pt_regs *ctx)
+{
+        __u32 uid = bpf_get_current_uid_gid() & 0xFFFFFFFF;
+        __u64 size = PT_REGS_PARM3(ctx);
+        
+        if (uid == 0 || uid == 0xFFFFFFFF)
+                return 0;
+        
+        struct user_data_stats *stats = bpf_map_lookup_elem(&user_stats_map, &uid);
+        if (!stats) {
+                struct user_data_stats new_stats = {
+                        .uid = uid,
+                        .tx_bytes = size,
+                        .rx_bytes = 0,
+                        .tx_packets = 1,
+                        .rx_packets = 0,
+                };
+                bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
+                bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
+        } else {
+                __sync_fetch_and_add(&stats->tx_bytes, size);
+                __sync_fetch_and_add(&stats->tx_packets, 1);
+        }
+        
+        return 0;
+}
+
+SEC("kprobe/tcp_cleanup_rbuf")
+int kprobe_tcp_cleanup_rbuf(struct pt_regs *ctx)
+{
+        __u32 uid = bpf_get_current_uid_gid() & 0xFFFFFFFF;
+        __u64 copied = PT_REGS_PARM2(ctx);
+        
+        if (uid == 0 || uid == 0xFFFFFFFF || copied <= 0)
+                return 0;
+        
+        struct user_data_stats *stats = bpf_map_lookup_elem(&user_stats_map, &uid);
+        if (!stats) {
+                struct user_data_stats new_stats = {
+                        .uid = uid,
+                        .tx_bytes = 0,
+                        .rx_bytes = copied,
+                        .tx_packets = 0,
+                        .rx_packets = 1,
+                };
+                bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
+                bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
+        } else {
+                __sync_fetch_and_add(&stats->rx_bytes, copied);
+                __sync_fetch_and_add(&stats->rx_packets, 1);
+        }
+        
+        return 0;
+}
+
+SEC("kprobe/udp_sendmsg")
+int kprobe_udp_sendmsg(struct pt_regs *ctx)
+{
+        __u32 uid = bpf_get_current_uid_gid() & 0xFFFFFFFF;
+        __u64 len = PT_REGS_PARM3(ctx);
+        
+        if (uid == 0 || uid == 0xFFFFFFFF)
+                return 0;
+        
+        struct user_data_stats *stats = bpf_map_lookup_elem(&user_stats_map, &uid);
+        if (!stats) {
+                struct user_data_stats new_stats = {
+                        .uid = uid,
+                        .tx_bytes = len,
+                        .rx_bytes = 0,
+                        .tx_packets = 1,
+                        .rx_packets = 0,
+                };
+                bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
+                bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
+        } else {
+                __sync_fetch_and_add(&stats->tx_bytes, len);
+                __sync_fetch_and_add(&stats->tx_packets, 1);
+        }
+        
+        return 0;
+}
+
+SEC("kprobe/udp_recvmsg")
+int kprobe_udp_recvmsg(struct pt_regs *ctx)
+{
+        __u32 uid = bpf_get_current_uid_gid() & 0xFFFFFFFF;
+        __u64 len = PT_REGS_PARM3(ctx);
+        
+        if (uid == 0 || uid == 0xFFFFFFFF)
+                return 0;
+        
+        struct user_data_stats *stats = bpf_map_lookup_elem(&user_stats_map, &uid);
+        if (!stats) {
+                struct user_data_stats new_stats = {
+                        .uid = uid,
+                        .tx_bytes = 0,
+                        .rx_bytes = len,
+                        .tx_packets = 0,
+                        .rx_packets = 1,
+                };
+                bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
+                bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
+        } else {
+                __sync_fetch_and_add(&stats->rx_bytes, len);
+                __sync_fetch_and_add(&stats->rx_packets, 1);
+        }
+        
+        return 0;
 }
 
 char _license[] SEC("license") = "GPL";

@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: BSD-3-Clause
+// Copyright (c) 2025 Ugo Varetto <ugo.varetto@pawsey.org.au>
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
