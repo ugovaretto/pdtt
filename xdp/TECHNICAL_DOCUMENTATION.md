@@ -1,4 +1,4 @@
-# Per-User Data Transfer Tracker (PDTT) - Technical Documentation
+# Pawsey Data Traffic Tracker (pdtt)
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@
 
 ## Overview
 
-The Per-User Data Transfer Tracker (PDTT) is an eBPF-based network
+The Pawsey Data Transfer Tracker (PDTT) is an eBPF-based network
 monitoring tool that tracks network traffic per user in real-time. It
 uses multiple eBPF program types (XDP, cgroup programs, kprobes, and
 sockops) to intercept network packets at different stages of the
@@ -338,6 +338,7 @@ struct {
 ```
 
 **Design Rationale**:
+
 - `user_stats_map`: Regular hash table since user count is bounded
 - `conn_uid_map` and `conn_stats_map`: LRU hash tables to
   automatically evict old connections
@@ -354,6 +355,7 @@ int xdp_tracker_func(struct xdp_md *ctx)
 **Execution Flow**:
 
 1. **Packet Bounds Checking**:
+
    ```c
    void *data = (void *)(long)ctx->data;
    void *data_end = (void *)(long)ctx->data_end;
@@ -362,18 +364,22 @@ int xdp_tracker_func(struct xdp_md *ctx)
    if ((void *)(eth + 1) > data_end)
        return XDP_ACT_PASS;  // Invalid packet
    ```
+
    - eBPF verifier requires bounds checking before memory access
    - Prevents buffer overflow attacks
 
 2. **Protocol Filtering**:
+
    ```c
    if (eth->h_proto != bpf_htons(ETH_P_IP))
        return XDP_ACT_PASS;  // Only process IPv4
    ```
+
    - XDP processes raw Ethernet frames
    - Filter for IPv4 packets only
 
 3. **IP Header Parsing**:
+
    ```c
    struct iphdr *iph = (struct iphdr *)(eth + 1);
    if ((void *)(iph + 1) > data_end)
@@ -381,6 +387,7 @@ int xdp_tracker_func(struct xdp_md *ctx)
    ```
 
 4. **TCP/UDP Port Extraction**:
+
    ```c
    if (iph->protocol == IPPROTO_TCP) {
        struct tcphdr *tcph = (struct tcphdr *)(iph + 1);
@@ -390,9 +397,11 @@ int xdp_tracker_func(struct xdp_md *ctx)
        key.dport = tcph->dest;
    }
    ```
+
    - Extract layer 4 information for connection tracking
 
 5. **UID Lookup and Statistics Update**:
+
    ```c
    __u32 *uid_ptr = bpf_map_lookup_elem(&conn_uid_map, &key);
    if (uid_ptr) {
@@ -405,10 +414,12 @@ int xdp_tracker_func(struct xdp_md *ctx)
        }
    }
    ```
+
    - Atomic operations prevent race conditions
    - `__sync_fetch_and_add` ensures thread-safe updates
 
 **Limitations**:
+
 - XDP programs cannot directly access socket information
 - Rely on `conn_uid_map` populated by other programs
 - Only track ingress (received) packets
@@ -426,6 +437,7 @@ int cgroup_skb_egress(struct __sk_buff *skb)
 **Key Features**:
 
 1. **UID Extraction**:
+
    ```c
    __u64 uid_gid = bpf_get_socket_cookie(skb);
    __u32 uid = (uid_gid >> 32) & 0xFFFFFFFF;
@@ -433,10 +445,12 @@ int cgroup_skb_egress(struct __sk_buff *skb)
    if (!uid)
        uid = bpf_get_socket_uid(skb);
    ```
+
    - Two methods to get UID for reliability
    - Socket cookie embeds UID in upper 32 bits
 
 2. **Direction-Aware Key Construction**:
+
    ```c
    // Ingress: swap source/dest since packet is incoming
    struct sock_key key = {
@@ -446,13 +460,16 @@ int cgroup_skb_egress(struct __sk_buff *skb)
        .dport = tcph->source // Remote port
    };
    ```
+
    - Ensures consistent connection keys for bidirectional traffic
 
 3. **Atomic Statistics Updates**:
+
    ```c
    __sync_fetch_and_add(&stats->rx_bytes, bytes);
    __sync_fetch_and_add(&stats->rx_packets, 1);
    ```
+
    - Thread-safe counters for multi-CPU systems
 
 #### Sockops Program (sockops_tracker)
@@ -465,21 +482,25 @@ int sockops_tracker(struct bpf_sock_ops *skops)
 **Purpose**: Create UID→connection mapping when sockets connect
 
 **Operation Types Handled**:
+
 - `BPF_SOCK_OPS_ACTIVE_ESTABLISHED_CB`: Outgoing connection
   established
 - `BPF_SOCK_OPS_PASSIVE_ESTABLISHED_CB`: Incoming connection
   accepted
 
 **What It Does**:
+
 1. Gets UID of process creating connection
 2. Creates connection key from socket 4-tuple
 3. Stores UID in `conn_uid_map`
 4. Initializes entries in `conn_stats_map` and `user_stats_map`
 
 **Port Number Handling**:
+
 ```c
 .dport = bpf_htonl(skops->remote_port) >> 16
 ```
+
 - Remote port is in host byte order
 - Convert to network byte order for consistency
 - Shift right 16 bits because `bpf_htonl` returns 32-bit value
@@ -490,6 +511,7 @@ These programs instrument kernel network functions to track data
 transfer:
 
 1. **tcp_sendmsg**: TCP transmission
+
    ```c
    SEC("kprobe/tcp_sendmsg")
    int kprobe_tcp_sendmsg(struct pt_regs *ctx)
@@ -502,6 +524,7 @@ transfer:
 
 2. **tcp_cleanup_rbuf**: TCP receive buffer cleanup (indicates data
    read)
+
    ```c
    __u64 copied = PT_REGS_PARM2(ctx);  // Bytes copied
    ```
@@ -509,6 +532,7 @@ transfer:
 3. **udp_sendmsg / udp_recvmsg**: UDP send/receive
 
 **Why These Functions?**:
+
 - Called for every send/receive operation
 - Have size parameter easily accessible
 - Stable across kernel versions (mostly)
@@ -529,6 +553,7 @@ pdtt_xdp_kern__load(skel);
 ```
 
 **Skeleton Advantages**:
+
 - Type-safe access to maps and programs
 - Automatic resource management
 - Cleaner code vs. raw libbpf API
@@ -569,6 +594,7 @@ void log_user_stats(int map_fd)
 ```
 
 **Iteration Pattern**:
+
 - `bpf_map_get_next_key()`: Get next key in map
 - Returns -1 when no more keys
 - Two-step lookup to handle concurrent modifications
@@ -617,6 +643,7 @@ struct sock_key {
 **Purpose**: Uniquely identifies a network connection (4-tuple)
 
 **Why This Design?**:
+
 - Fixed size for efficient hashing
 - Network byte order for consistency across programs
 - Covers both TCP and UDP connections
@@ -637,6 +664,7 @@ struct user_data_stats {
 **Purpose**: Aggregate per-user network statistics
 
 **Fields**:
+
 - 64-bit counters to prevent overflow
 - Username cached to avoid repeated lookups
 - Separate TX/RX for bidirectional tracking
@@ -815,10 +843,10 @@ Clean shutdown, all resources released
 3. **eBPF Verifier**:
    - All programs verified before loading
    - Prevents:
-     * Invalid memory access
-     * Kernel crashes
-     * Infinite loops
-     * Privilege escalation
+     - Invalid memory access
+     - Kernel crashes
+     - Infinite loops
+     - Privilege escalation
 
 4. **Resource Limits**:
    - Map sizes bounded (1024 users, 65536 connections)
@@ -834,9 +862,11 @@ Clean shutdown, all resources released
    - JIT compilation to native code
 
 2. **Atomic Operations**:
+
    ```c
    __sync_fetch_and_add(&stats->tx_bytes, size);
    ```
+
    - Thread-safe without locks
    - CPU-level atomicity
    - Minimal overhead

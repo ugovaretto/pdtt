@@ -4,7 +4,7 @@
 
 set -e
 
-echo "=== Testing Per-User Data Transfer Tracker ==="
+echo "=== Testing  Pawsey Data Traffic Tracker (pdtt) ==="
 echo
 
 if [ "$EUID" -ne 0 ]; then

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WebSocket Test</title>
+</head>
+<body>
+    <h1>WebSocket Test</h1>
+    <div id="messages"></div>
+    
+    <script>
+        let ws;
+        
+        function connect() {
+            const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsUrl = `${protocol}//${window.location.host}/ws`;
+            
+            console.log('Connecting to:', wsUrl);
+            
+            ws = new WebSocket(wsUrl);
+            
+            ws.onopen = function() {
+                console.log('WebSocket connected');
+                addMessage('Connected to WebSocket');
+            };
+            
+            ws.onmessage = function(event) {
+                console.log('Message received:', event.data);
+                addMessage('Received: ' + event.data);
+            };
+            
+            ws.onclose = function(event) {
+                console.log('WebSocket closed:', event.code, event.reason);
+                addMessage('Connection closed: ' + event.code + ' ' + event.reason);
+            };
+            
+            ws.onerror = function(error) {
+                console.error('WebSocket error:', error);
+                addMessage('Error: ' + error);
+            };
+        }
+        
+        function addMessage(text) {
+            const messages = document.getElementById('messages');
+            const div = document.createElement('div');
+            div.textContent = new Date().toLocaleTimeString() + ': ' + text;
+            messages.appendChild(div);
+        }
+        
+        connect();
+    </script>
+</body>
+</html>

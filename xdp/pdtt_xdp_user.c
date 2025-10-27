@@ -374,7 +374,7 @@ int main(int argc, char **argv) {
   }
 
   /* Print configuration */
-  printf("Per-User Data Transfer Tracker\n");
+  printf("Pawsey Data Transfer Tracker\n");
   printf("Interface: %s (index: %d)\n", ifname, ifindex);
   printf("Log file prefix: %s\n", log_prefix);
   printf("Statistics interval: %d seconds\n", stats_interval);
