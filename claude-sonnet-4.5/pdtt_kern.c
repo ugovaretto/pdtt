@@ -20,6 +20,10 @@ struct user_data_stats {
     __u64 tx_packets;
     __u64 rx_packets;
     char username[16];
+    __u32 saddr;
+    __u32 daddr;
+    __u16 sport;
+    __u16 dport;
 };
 
 struct {
@@ -40,6 +44,22 @@ static __always_inline void update_user_stats(struct __sk_buff *skb, __u32 uid, 
     struct user_data_stats *stats;
     struct user_data_stats new_stats = {};
     __u64 bytes = skb->len;
+    void *data = (void *)(long)skb->data;
+    void *data_end = (void *)(long)skb->data_end;
+    struct ethhdr *eth = data;
+    struct iphdr *iph;
+    struct tcphdr *tcph;
+    struct udphdr *udph;
+    
+    if ((void *)(eth + 1) > data_end)
+        return;
+    
+    if (eth->h_proto != bpf_htons(ETH_P_IP))
+        return;
+    
+    iph = (struct iphdr *)(eth + 1);
+    if ((void *)(iph + 1) > data_end)
+        return;
     
     stats = bpf_map_lookup_elem(&user_stats_map, &uid);
     if (!stats) {
@@ -49,6 +69,23 @@ static __always_inline void update_user_stats(struct __sk_buff *skb, __u32 uid, 
         new_stats.tx_packets = is_tx ? 1 : 0;
         new_stats.rx_packets = is_tx ? 0 : 1;
         bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
+        new_stats.saddr = iph->saddr;
+        new_stats.daddr = iph->daddr;
+        
+        if (iph->protocol == IPPROTO_TCP) {
+            tcph = (struct tcphdr *)((void *)iph + (iph->ihl * 4));
+            if ((void *)(tcph + 1) <= data_end) {
+                new_stats.sport = tcph->source;
+                new_stats.dport = tcph->dest;
+            }
+        } else if (iph->protocol == IPPROTO_UDP) {
+            udph = (struct udphdr *)((void *)iph + (iph->ihl * 4));
+            if ((void *)(udph + 1) <= data_end) {
+                new_stats.sport = udph->source;
+                new_stats.dport = udph->dest;
+            }
+        }
+        
         bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
     } else {
         if (is_tx) {
@@ -61,20 +98,32 @@ static __always_inline void update_user_stats(struct __sk_buff *skb, __u32 uid, 
     }
 }
 
-SEC("socket")
-int socket_filter(struct __sk_buff *skb)
+SEC("cgroup_skb/ingress")
+int cgroup_skb_ingress(struct __sk_buff *skb)
 {
     __u32 uid = bpf_get_socket_uid(skb);
     
     if (uid == 0xFFFFFFFF) {
-        return 0;
+        return 1;
     }
     
-    bool is_tx = (skb->mark & 0x1000000) ? false : true;
+    update_user_stats(skb, uid, false); // RX traffic
     
-    update_user_stats(skb, uid, is_tx);
+    return 1;
+}
+
+SEC("cgroup_skb/egress")
+int cgroup_skb_egress(struct __sk_buff *skb)
+{
+    __u32 uid = bpf_get_socket_uid(skb);
     
-    return 0;
+    if (uid == 0xFFFFFFFF) {
+        return 1;
+    }
+    
+    update_user_stats(skb, uid, true); // TX traffic
+    
+    return 1;
 }
 
 char _license[] SEC("license") = "GPL";

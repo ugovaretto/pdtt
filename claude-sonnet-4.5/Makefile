@@ -2,7 +2,7 @@ CC = clang
 CFLAGS = -O2 -g -Wall -Wextra
 LDFLAGS = -lbpf -lelf -lz
 
-all: pdtt_user
+all: pdtt_user pdtt_user_tc pdtt_xdp_user
 
 # Generate skeleton header from eBPF program
 pdtt_kern.skel.h: pdtt_kern.o
@@ -25,14 +25,28 @@ pdtt_kern.o: pdtt_kern.c
 pdtt_kern_tc.o: pdtt_kern_tc.c
 	$(CC) $(CFLAGS) -target bpf -c pdtt_kern_tc.c -o pdtt_kern_tc.o
 
+# Generate XDP skeleton
+pdtt_xdp_kern.skel.h: pdtt_xdp_kern.o
+	bpftool gen skeleton pdtt_xdp_kern.o > pdtt_xdp_kern.skel.h
+
+# Compile XDP userspace program
+pdtt_xdp_user: pdtt_xdp_user.c pdtt_xdp_kern.skel.h
+	$(CC) $(CFLAGS) -o pdtt_xdp_user pdtt_xdp_user.c $(LDFLAGS)
+
+# Compile XDP eBPF program
+pdtt_xdp_kern.o: pdtt_xdp_kern.c
+	$(CC) $(CFLAGS) -target bpf -c pdtt_xdp_kern.c -o pdtt_xdp_kern.o
+
 # Build everything
 build: pdtt_kern.o pdtt_user
 
 build-tc: pdtt_kern_tc.o pdtt_user_tc
 
+build-xdp: pdtt_xdp_kern.o pdtt_xdp_user
+
 # Clean build artifacts
 clean:
-	rm -f *.o *.skel.h pdtt_user pdtt_user_tc
+	rm -f *.o *.skel.h pdtt_user pdtt_user_tc pdtt_xdp_user
 
 # Install (requires root)
 install: build
@@ -66,16 +80,17 @@ test-single: build
 	fi
 	sudo ./run_test.sh $(TEST)
 
-# Load and test eBPF program
-test-load: build
+# Load and test eBPF TC program
+test-load: build-tc
 	sudo ip link set dev lo up
+	sudo tc qdisc del dev lo clsact 2>/dev/null || true
 	sudo tc qdisc add dev lo clsact
-	sudo tc filter add dev lo ingress bpf da obj pdtt_kern_tc.o sec ingress_tracker
-	sudo tc filter add dev lo egress bpf da obj pdtt_kern_tc.o sec egress_tracker
-	@echo "eBPF program loaded. Run 'sudo tc filter show dev lo' to verify."
+	sudo tc filter add dev lo ingress bpf da obj pdtt_kern_tc.o sec ingress
+	sudo tc filter add dev lo egress bpf da obj pdtt_kern_tc.o sec egress
+	@echo "eBPF TC program loaded. Run 'sudo tc filter show dev lo' to verify."
 
 # Unload eBPF program
 unload:
 	sudo tc qdisc del dev lo clsact 2>/dev/null || true
 
-.PHONY: all build build-tc clean install install-tc test test-tc test-single test-load unload
+.PHONY: all build build-tc build-xdp clean install install-tc test test-tc test-single test-load unload

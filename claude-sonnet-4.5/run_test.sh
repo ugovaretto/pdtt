@@ -26,15 +26,21 @@ case $TEST_NAME in
     
     "network_traffic")
         echo "Testing network traffic tracking..."
-        make test-load
+        make build
         sleep 1
+        
+        # Start the userspace daemon to collect statistics
+        sudo ./pdtt_user &
+        DAEMON_PID=$!
+        sleep 2
         
         # Generate some network traffic
         ping -c 3 127.0.0.1 > /dev/null 2>&1
         curl -s http://127.0.0.1 > /dev/null 2>&1 || true
         
-        sleep 2
-        make unload
+        sleep 3
+        sudo kill $DAEMON_PID 2>/dev/null || true
+        wait $DAEMON_PID 2>/dev/null || true
         
         if [ -f "$LOG_FILE" ]; then
             echo "✓ Log file created"
@@ -48,7 +54,6 @@ case $TEST_NAME in
     
     "cleanup")
         echo "Cleaning up test environment..."
-        make unload
         make clean
         rm -f "$LOG_FILE"
         echo "✓ Cleanup complete"

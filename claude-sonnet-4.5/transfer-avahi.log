@@ -1,0 +1,452 @@
+
+=== Network Statistics Report [2025-10-27 18:00:03] ===
+UID: 70 | Username: avahi
+  Total: 81861 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:03] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.17:5353
+  TX: 0 bytes (0 packets)
+  RX: 17316 bytes (58 packets)
+  Total: 17316 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:03] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.8:5353
+  TX: 0 bytes (0 packets)
+  RX: 864 bytes (8 packets)
+  Total: 864 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:03] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.5:5353
+  TX: 0 bytes (0 packets)
+  RX: 7324 bytes (5 packets)
+  Total: 7324 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:03] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.6:5353
+  TX: 0 bytes (0 packets)
+  RX: 924 bytes (12 packets)
+  Total: 924 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:03] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.15:5353
+  TX: 0 bytes (0 packets)
+  RX: 10733 bytes (47 packets)
+  Total: 10733 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:03] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.20:5353
+  TX: 0 bytes (0 packets)
+  RX: 1892 bytes (14 packets)
+  Total: 1892 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:03] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.86.116:5353
+  TX: 0 bytes (0 packets)
+  RX: 5461 bytes (41 packets)
+  Total: 5461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:03] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.4:5353
+  TX: 0 bytes (0 packets)
+  RX: 13565 bytes (20 packets)
+  Total: 13565 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:03] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.19:5353
+  TX: 0 bytes (0 packets)
+  RX: 688 bytes (8 packets)
+  Total: 688 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:03] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.9:5353
+  TX: 0 bytes (0 packets)
+  RX: 138 bytes (1 packets)
+  Total: 138 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:03] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.39:5353
+  TX: 0 bytes (0 packets)
+  RX: 1798 bytes (14 packets)
+  Total: 1798 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:03] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.2:5353
+  TX: 0 bytes (0 packets)
+  RX: 21158 bytes (27 packets)
+  Total: 21158 bytes
+---
+
+=== Network Statistics Report [2025-10-27 18:00:13] ===
+UID: 70 | Username: avahi
+  Total: 97777 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:13] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.17:5353
+  TX: 0 bytes (0 packets)
+  RX: 26938 bytes (76 packets)
+  Total: 26938 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:13] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.8:5353
+  TX: 0 bytes (0 packets)
+  RX: 864 bytes (8 packets)
+  Total: 864 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:13] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.5:5353
+  TX: 0 bytes (0 packets)
+  RX: 7324 bytes (5 packets)
+  Total: 7324 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:13] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.6:5353
+  TX: 0 bytes (0 packets)
+  RX: 924 bytes (12 packets)
+  Total: 924 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:13] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.15:5353
+  TX: 0 bytes (0 packets)
+  RX: 10733 bytes (47 packets)
+  Total: 10733 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:13] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.20:5353
+  TX: 0 bytes (0 packets)
+  RX: 1892 bytes (14 packets)
+  Total: 1892 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:13] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.86.116:5353
+  TX: 0 bytes (0 packets)
+  RX: 5461 bytes (41 packets)
+  Total: 5461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:13] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.4:5353
+  TX: 0 bytes (0 packets)
+  RX: 16793 bytes (26 packets)
+  Total: 16793 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:13] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.19:5353
+  TX: 0 bytes (0 packets)
+  RX: 688 bytes (8 packets)
+  Total: 688 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:13] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.9:5353
+  TX: 0 bytes (0 packets)
+  RX: 3204 bytes (14 packets)
+  Total: 3204 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:13] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.39:5353
+  TX: 0 bytes (0 packets)
+  RX: 1798 bytes (14 packets)
+  Total: 1798 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:13] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.2:5353
+  TX: 0 bytes (0 packets)
+  RX: 21158 bytes (27 packets)
+  Total: 21158 bytes
+---
+
+=== Network Statistics Report [2025-10-27 18:00:23] ===
+UID: 70 | Username: avahi
+  Total: 98551 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:23] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.17:5353
+  TX: 0 bytes (0 packets)
+  RX: 27118 bytes (78 packets)
+  Total: 27118 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:23] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.8:5353
+  TX: 0 bytes (0 packets)
+  RX: 864 bytes (8 packets)
+  Total: 864 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:23] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.5:5353
+  TX: 0 bytes (0 packets)
+  RX: 7324 bytes (5 packets)
+  Total: 7324 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:23] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.6:5353
+  TX: 0 bytes (0 packets)
+  RX: 924 bytes (12 packets)
+  Total: 924 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:23] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.15:5353
+  TX: 0 bytes (0 packets)
+  RX: 10733 bytes (47 packets)
+  Total: 10733 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:23] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.20:5353
+  TX: 0 bytes (0 packets)
+  RX: 1892 bytes (14 packets)
+  Total: 1892 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:23] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.86.116:5353
+  TX: 0 bytes (0 packets)
+  RX: 5461 bytes (41 packets)
+  Total: 5461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:23] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.4:5353
+  TX: 0 bytes (0 packets)
+  RX: 16793 bytes (26 packets)
+  Total: 16793 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:23] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.19:5353
+  TX: 0 bytes (0 packets)
+  RX: 688 bytes (8 packets)
+  Total: 688 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:23] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.9:5353
+  TX: 0 bytes (0 packets)
+  RX: 3798 bytes (16 packets)
+  Total: 3798 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:23] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.39:5353
+  TX: 0 bytes (0 packets)
+  RX: 1798 bytes (14 packets)
+  Total: 1798 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:23] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.2:5353
+  TX: 0 bytes (0 packets)
+  RX: 21158 bytes (27 packets)
+  Total: 21158 bytes
+---
+
+=== Network Statistics Report [2025-10-27 18:00:33] ===
+UID: 70 | Username: avahi
+  Total: 100165 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:33] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.17:5353
+  TX: 0 bytes (0 packets)
+  RX: 27118 bytes (78 packets)
+  Total: 27118 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:33] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.8:5353
+  TX: 0 bytes (0 packets)
+  RX: 864 bytes (8 packets)
+  Total: 864 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:33] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.5:5353
+  TX: 0 bytes (0 packets)
+  RX: 7324 bytes (5 packets)
+  Total: 7324 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:33] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.6:5353
+  TX: 0 bytes (0 packets)
+  RX: 924 bytes (12 packets)
+  Total: 924 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:33] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.15:5353
+  TX: 0 bytes (0 packets)
+  RX: 10733 bytes (47 packets)
+  Total: 10733 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:33] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.20:5353
+  TX: 0 bytes (0 packets)
+  RX: 1892 bytes (14 packets)
+  Total: 1892 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:33] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.86.116:5353
+  TX: 0 bytes (0 packets)
+  RX: 5461 bytes (41 packets)
+  Total: 5461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:33] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.4:5353
+  TX: 0 bytes (0 packets)
+  RX: 18407 bytes (29 packets)
+  Total: 18407 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:33] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.19:5353
+  TX: 0 bytes (0 packets)
+  RX: 688 bytes (8 packets)
+  Total: 688 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:33] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.9:5353
+  TX: 0 bytes (0 packets)
+  RX: 3798 bytes (16 packets)
+  Total: 3798 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:33] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.39:5353
+  TX: 0 bytes (0 packets)
+  RX: 1798 bytes (14 packets)
+  Total: 1798 bytes
+---
+
+=== Per-Connection Statistics [2025-10-27 18:00:33] ===
+UID: 70 | Username: avahi
+  Source: 224.0.0.251:5353
+  Destination: 192.168.1.2:5353
+  TX: 0 bytes (0 packets)
+  RX: 21158 bytes (27 packets)
+  Total: 21158 bytes
+---

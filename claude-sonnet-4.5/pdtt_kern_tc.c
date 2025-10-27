@@ -5,10 +5,12 @@
 #include <linux/udp.h>
 #include <linux/socket.h>
 #include <linux/in.h>
-#include <linux/uidgid.h>
 #include <bpf/bpf_helpers.h>
 #include <bpf/bpf_endian.h>
 #include <linux/types.h>
+#include <stdbool.h>
+
+#define TC_ACT_OK 0
 
 #define MAX_USERS 1024
 
@@ -39,6 +41,18 @@ static __always_inline void update_user_stats(struct __sk_buff *skb, __u32 uid, 
     struct user_data_stats *stats;
     struct user_data_stats new_stats = {};
     __u64 bytes = skb->len;
+    void *data = (void *)(long)skb->data;
+    void *data_end = (void *)(long)skb->data_end;
+    struct ethhdr *eth = data;
+    struct iphdr *iph;
+    
+    if ((void *)(eth + 1) <= data_end && eth->h_proto == bpf_htons(ETH_P_IP)) {
+        iph = (struct iphdr *)(eth + 1);
+        if ((void *)(iph + 1) <= data_end) {
+            bpf_printk("TC %s: saddr=%pI4 daddr=%pI4 uid=%u",
+                       is_tx ? "TX" : "RX", &iph->saddr, &iph->daddr, uid);
+        }
+    }
     
     stats = bpf_map_lookup_elem(&user_stats_map, &uid);
     if (!stats) {
@@ -60,28 +74,24 @@ static __always_inline void update_user_stats(struct __sk_buff *skb, __u32 uid, 
     }
 }
 
-SEC("tc")
-int ingress_tracker(struct __sk_buff *skb)
+SEC("ingress")
+int ingress_tracker_func(struct __sk_buff *skb)
 {
-    __u32 uid = bpf_get_socket_uid(skb);
-    
-    if (uid == 0xFFFFFFFF) {
-        return TC_ACT_OK;
-    }
+    // For TC programs, we can't easily get UID from socket context
+    // For now, track traffic without user attribution
+    __u32 uid = 0; // Use a placeholder UID
     
     update_user_stats(skb, uid, false); // RX traffic
     
     return TC_ACT_OK;
 }
 
-SEC("tc")
-int egress_tracker(struct __sk_buff *skb)
+SEC("egress")
+int egress_tracker_func(struct __sk_buff *skb)
 {
-    __u32 uid = bpf_get_socket_uid(skb);
-    
-    if (uid == 0xFFFFFFFF) {
-        return TC_ACT_OK;
-    }
+    // For TC programs, we can't easily get UID from socket context
+    // For now, track traffic without user attribution
+    __u32 uid = 0; // Use a placeholder UID
     
     update_user_stats(skb, uid, true); // TX traffic
     

@@ -1,0 +1,296 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <string.h>
+#include <errno.h>
+#include <signal.h>
+#include <time.h>
+#include <sys/resource.h>
+#include <fcntl.h>
+#include <bpf/libbpf.h>
+#include <bpf/bpf.h>
+#include <linux/types.h>
+#include <net/if.h>
+#include <pwd.h>
+#include <arpa/inet.h>
+#include "pdtt_xdp_kern.skel.h"
+
+struct user_data_stats {
+    __u32 uid;
+    __u64 tx_bytes;
+    __u64 rx_bytes;
+    __u64 tx_packets;
+    __u64 rx_packets;
+    char username[16];
+};
+
+struct sock_key {
+    __u32 saddr;
+    __u32 daddr;
+    __u16 sport;
+    __u16 dport;
+};
+
+struct conn_stats {
+    __u32 uid;
+    __u32 saddr;
+    __u32 daddr;
+    __u16 sport;
+    __u16 dport;
+    __u64 tx_bytes;
+    __u64 rx_bytes;
+    __u64 tx_packets;
+    __u64 rx_packets;
+};
+
+#define DEFAULT_LOG_PREFIX "/var/log/pdtt"
+#define STATS_INTERVAL 10
+
+static volatile bool running = true;
+static char *log_prefix = NULL;
+
+void sig_handler(int sig __attribute__((unused)))
+{
+    running = false;
+}
+
+const char* get_username(uid_t uid)
+{
+    struct passwd *pw = getpwuid(uid);
+    if (pw) {
+        return pw->pw_name;
+    }
+    return "unknown";
+}
+
+void log_user_stats(int map_fd)
+{
+    __u32 key = 0, next_key;
+    struct user_data_stats stats;
+    FILE *log_file;
+    time_t now;
+    char timestamp[64];
+    char user_log_path[512];
+    
+    time(&now);
+    strftime(timestamp, sizeof(timestamp), "%Y-%m-%d %H:%M:%S", localtime(&now));
+    
+    while (bpf_map_get_next_key(map_fd, &key, &next_key) == 0) {
+        if (bpf_map_lookup_elem(map_fd, &next_key, &stats) == 0) {
+            const char *username = get_username(stats.uid);
+            __u64 total_bytes = stats.tx_bytes + stats.rx_bytes;
+            
+            snprintf(user_log_path, sizeof(user_log_path), "%s-%s.log", log_prefix, username);
+            
+            log_file = fopen(user_log_path, "a");
+            if (!log_file) {
+                fprintf(stderr, "Failed to open log file %s: %s\n", user_log_path, strerror(errno));
+                key = next_key;
+                continue;
+            }
+            
+            fprintf(log_file, "\n=== Network Statistics Report [%s] ===\n", timestamp);
+            fprintf(log_file, "UID: %u | Username: %s\n", stats.uid, username);
+            fprintf(log_file, "  Total: %llu bytes\n", total_bytes);
+            fprintf(log_file, "---\n");
+            
+            fclose(log_file);
+            
+            printf("\rUID: %u (%s) - Total: %llu bytes", stats.uid, username, total_bytes);
+            fflush(stdout);
+        }
+        key = next_key;
+    }
+}
+
+void log_connection_stats(int conn_map_fd)
+{
+    struct sock_key key = {0}, next_key;
+    struct conn_stats stats;
+    FILE *log_file;
+    time_t now;
+    char timestamp[64];
+    char saddr_str[INET_ADDRSTRLEN];
+    char daddr_str[INET_ADDRSTRLEN];
+    char user_log_path[512];
+    
+    time(&now);
+    strftime(timestamp, sizeof(timestamp), "%Y-%m-%d %H:%M:%S", localtime(&now));
+    
+    while (bpf_map_get_next_key(conn_map_fd, &key, &next_key) == 0) {
+        if (bpf_map_lookup_elem(conn_map_fd, &next_key, &stats) == 0) {
+            const char *username = get_username(stats.uid);
+            
+            snprintf(user_log_path, sizeof(user_log_path), "%s-%s.log", log_prefix, username);
+            
+            log_file = fopen(user_log_path, "a");
+            if (!log_file) {
+                fprintf(stderr, "Failed to open log file %s: %s\n", user_log_path, strerror(errno));
+                key = next_key;
+                continue;
+            }
+            
+            inet_ntop(AF_INET, &stats.saddr, saddr_str, INET_ADDRSTRLEN);
+            inet_ntop(AF_INET, &stats.daddr, daddr_str, INET_ADDRSTRLEN);
+            
+            fprintf(log_file, "\n=== Per-Connection Statistics [%s] ===\n", timestamp);
+            fprintf(log_file, "UID: %u | Username: %s\n", stats.uid, username);
+            fprintf(log_file, "  Source: %s:%u\n", saddr_str, ntohs(stats.sport));
+            fprintf(log_file, "  Destination: %s:%u\n", daddr_str, ntohs(stats.dport));
+            fprintf(log_file, "  TX: %llu bytes (%llu packets)\n", stats.tx_bytes, stats.tx_packets);
+            fprintf(log_file, "  RX: %llu bytes (%llu packets)\n", stats.rx_bytes, stats.rx_packets);
+            fprintf(log_file, "  Total: %llu bytes\n", stats.tx_bytes + stats.rx_bytes);
+            fprintf(log_file, "---\n");
+            
+            fclose(log_file);
+        }
+        key = next_key;
+    }
+}
+
+void usage(const char *prog)
+{
+    fprintf(stderr, "Usage: %s -i <interface> [-p <prefix>] [-t <interval>]\n", prog);
+    fprintf(stderr, "  -i <interface>  Network interface to monitor (required)\n");
+    fprintf(stderr, "  -p <prefix>     Log file prefix (default: %s)\n", DEFAULT_LOG_PREFIX);
+    fprintf(stderr, "                  Log files will be named <prefix>-<username>.log\n");
+    fprintf(stderr, "  -t <interval>   Statistics interval in seconds (default: %d)\n", STATS_INTERVAL);
+    fprintf(stderr, "  -h              Display this help message\n");
+    fprintf(stderr, "\nExample:\n");
+    fprintf(stderr, "  sudo %s -i eth0\n", prog);
+    fprintf(stderr, "  sudo %s -i wlan0 -p /var/log/network -t 5\n", prog);
+}
+
+int main(int argc, char **argv)
+{
+    struct pdtt_xdp_kern *skel;
+    int map_fd, conn_map_fd;
+    int err;
+    char *ifname = NULL;
+    int ifindex;
+    int stats_interval = STATS_INTERVAL;
+    int opt;
+    int cgroup_fd = -1;
+    
+    log_prefix = DEFAULT_LOG_PREFIX;
+    
+    while ((opt = getopt(argc, argv, "i:p:t:h")) != -1) {
+        switch (opt) {
+        case 'i':
+            ifname = optarg;
+            break;
+        case 'p':
+            log_prefix = optarg;
+            break;
+        case 't':
+            stats_interval = atoi(optarg);
+            if (stats_interval <= 0) {
+                fprintf(stderr, "Invalid interval: %s\n", optarg);
+                return 1;
+            }
+            break;
+        case 'h':
+        default:
+            usage(argv[0]);
+            return opt == 'h' ? 0 : 1;
+        }
+    }
+    
+    if (!ifname) {
+        fprintf(stderr, "Error: Network interface not specified\n\n");
+        usage(argv[0]);
+        return 1;
+    }
+    
+    ifindex = if_nametoindex(ifname);
+    if (!ifindex) {
+        fprintf(stderr, "Error: Invalid interface '%s': %s\n", ifname, strerror(errno));
+        return 1;
+    }
+    
+    printf("Per-User Data Transfer Tracker\n");
+    printf("Interface: %s (index: %d)\n", ifname, ifindex);
+    printf("Log file prefix: %s\n", log_prefix);
+    printf("Statistics interval: %d seconds\n", stats_interval);
+    printf("\n");
+    
+    signal(SIGINT, sig_handler);
+    signal(SIGTERM, sig_handler);
+    
+    skel = pdtt_xdp_kern__open();
+    if (!skel) {
+        fprintf(stderr, "Failed to open BPF skeleton\n");
+        return 1;
+    }
+    
+    err = pdtt_xdp_kern__load(skel);
+    if (err) {
+        fprintf(stderr, "Failed to load BPF program: %d\n", err);
+        pdtt_xdp_kern__destroy(skel);
+        return 1;
+    }
+    
+    cgroup_fd = open("/sys/fs/cgroup", O_RDONLY);
+    if (cgroup_fd < 0) {
+        fprintf(stderr, "Warning: Failed to open cgroup directory: %s\n", strerror(errno));
+    } else {
+        int prog_fd = bpf_program__fd(skel->progs.cgroup_skb_ingress);
+        if (bpf_prog_attach(prog_fd, cgroup_fd, BPF_CGROUP_INET_INGRESS, BPF_F_ALLOW_MULTI) < 0) {
+            fprintf(stderr, "Warning: Failed to attach ingress program to cgroup: %s\n", strerror(errno));
+        } else {
+            printf("Attached cgroup ingress program\n");
+        }
+        
+        prog_fd = bpf_program__fd(skel->progs.cgroup_skb_egress);
+        if (bpf_prog_attach(prog_fd, cgroup_fd, BPF_CGROUP_INET_EGRESS, BPF_F_ALLOW_MULTI) < 0) {
+            fprintf(stderr, "Warning: Failed to attach egress program to cgroup: %s\n", strerror(errno));
+        } else {
+            printf("Attached cgroup egress program\n");
+        }
+    }
+    
+    map_fd = bpf_map__fd(skel->maps.user_stats_map);
+    if (map_fd < 0) {
+        fprintf(stderr, "Failed to get map file descriptor\n");
+        if (cgroup_fd >= 0)
+            close(cgroup_fd);
+        pdtt_xdp_kern__destroy(skel);
+        return 1;
+    }
+    
+    conn_map_fd = bpf_map__fd(skel->maps.conn_stats_map);
+    if (conn_map_fd < 0) {
+        fprintf(stderr, "Failed to get connection stats map file descriptor\n");
+        if (cgroup_fd >= 0)
+            close(cgroup_fd);
+        pdtt_xdp_kern__destroy(skel);
+        return 1;
+    }
+    
+    printf("BPF program loaded successfully\n");
+    printf("Tracking per-user network traffic...\n\n");
+    
+    while (running) {
+        sleep(stats_interval);
+        if (running) {
+            log_user_stats(map_fd);
+            log_connection_stats(conn_map_fd);
+        }
+    }
+    
+    printf("\n\nFinal statistics report:\n");
+    log_user_stats(map_fd);
+    log_connection_stats(conn_map_fd);
+    printf("\n");
+    
+    if (cgroup_fd >= 0) {
+        bpf_prog_detach2(bpf_program__fd(skel->progs.cgroup_skb_ingress), cgroup_fd, BPF_CGROUP_INET_INGRESS);
+        bpf_prog_detach2(bpf_program__fd(skel->progs.cgroup_skb_egress), cgroup_fd, BPF_CGROUP_INET_EGRESS);
+        close(cgroup_fd);
+    }
+    
+    pdtt_xdp_kern__destroy(skel);
+    
+    printf("Tracker stopped\n");
+    return 0;
+}
