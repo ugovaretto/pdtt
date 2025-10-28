@@ -307,6 +307,22 @@ By combining all approaches, PDTT ensures no traffic is missed.
 
 ## Implementation Details
 
+Note: it's not possible to maintain the same functionality with only XDP. Here's why:
+
+1. XDP alone cannot track user identities (UIDs) - It operates at the earliest point in the network stack (NIC driver
+level) before packets are associated with user processes.
+2. The multi-layered approach is essential:
+• Sockops programs create the mapping between network connections and user IDs in  conn_uid_map
+• Cgroup programs provide socket-level context with UID information
+• Kprobes instrument kernel functions to track TCP/UDP syscalls
+3. Critical dependency: The XDP program looks up UIDs from  conn_uid_map  which is populated by the sockops program.
+Without this, XDP cannot associate packets with users.
+4. Per-user tracking requires process context that XDP doesn't have access to.
+
+The current design is necessary to achieve per-user network traffic tracking with source/destination IP addresses. XDP
+alone can only track packet counts and bytes by IP addresses, but cannot determine which user/process sent those
+packets.
+
 ### Kernel Space (pdtt_xdp_kern.c)
 
 #### Map Definitions
