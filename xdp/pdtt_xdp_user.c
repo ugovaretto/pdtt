@@ -172,6 +172,7 @@ void log_user_stats(int map_fd) {
               timestamp);
       fprintf(log_file, "UID: %u | Username: %s\n", stats.uid,
               username);
+      fprintf(log_file, "Process: %s\n", stats.username);
       fprintf(log_file, "  Total: %llu bytes\n", total_bytes);
       fprintf(log_file, "---\n");
 

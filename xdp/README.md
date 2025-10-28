@@ -2,7 +2,7 @@
 
 An eBPF-based tool to track network traffic per user in real-time, with
 support for specifying the network interface to monitor. Logs source and
-destination IP addresses for each connection.
+destination IP addresses for each connection along with process names.
 
 ## Features
 
@@ -10,6 +10,7 @@ destination IP addresses for each connection.
 - Monitor specific network interfaces via command line
 - Log source and destination IP addresses for each connection
 - Log total bytes transferred for each user
+- Include process names in log entries
 - Per-user log files with configurable prefix
 - Real-time statistics with configurable intervals
 - Minimal performance overhead using eBPF
@@ -17,20 +18,20 @@ destination IP addresses for each connection.
 ## Building
 
 ```bash
-make build-xdp
+make build
 ```
 
 ## Usage
 
 ```bash
-sudo ./pdtt_xdp_user -i <interface> [-l <prefix>] [-t <interval>]
+sudo ./pdtt_xdp_user -i <interface> [-p <prefix>] [-t <interval>]
 ```
 
 ### Options
 
 - `-i <interface>` - Network interface to monitor (required, e.g., eth0,
   wlan0, lo)
-- `-l <prefix>` - Log file prefix (default: /var/log/pdtt). Log files are
+- `-p <prefix>` - Log file prefix (default: /var/log/pdtt). Log files are
   created as `<prefix>-<username>.log`
 - `-t <interval>` - Statistics logging interval in seconds (default: 10)
 - `-h` - Show help message
@@ -46,7 +47,7 @@ sudo ./pdtt_xdp_user -i eth0
 Monitor wlan0 with custom log prefix and 5-second interval:
 
 ```bash
-sudo ./pdtt_xdp_user -i wlan0 -l /tmp/traffic -t 5
+sudo ./pdtt_xdp_user -i wlan0 -p /tmp/traffic -t 5
 ```
 
 Monitor loopback interface:
@@ -61,18 +62,27 @@ The tool creates separate log files for each user with the format
 `<prefix>-<username>.log`. For example, with the default prefix
 `/var/log/pdtt`, user `john` would have `/var/log/pdtt-john.log`.
 
-Each log file contains entries with source/destination IP addresses and
-byte counts:
+Each log file contains two types of entries:
 
+1. Per-user aggregate statistics:
 ```
 === Network Statistics Report [2024-01-15 10:30:00] ===
-Connection: 192.168.1.100 -> 93.184.216.34
-  TX: 524288 bytes | RX: 1048576 bytes | Total: 1572864 bytes
+UID: 1000 | Username: john
+Process: firefox
+  Total: 1572864 bytes
 ---
-Connection: 192.168.1.100 -> 8.8.8.8
-  TX: 262144 bytes | RX: 131072 bytes | Total: 393216 bytes
+```
+
+2. Per-connection detailed statistics:
+```
+=== Per-Connection Statistics [2024-01-15 10:30:00] ===
+UID: 1000 | Username: john
+  Source: 192.168.1.100:54321
+  Destination: 93.184.216.34:80
+  TX: 524288 bytes (1234 packets)
+  RX: 1048576 bytes (5678 packets)
+  Total: 1572864 bytes
 ---
-Total traffic: 1966080 bytes
 ```
 
 Statistics are also displayed on the console in real-time.
@@ -87,14 +97,17 @@ Statistics are also displayed on the console in real-time.
 
 ## How It Works
 
-The tool uses eBPF XDP filters to track network traffic:
+The tool uses multiple eBPF program types to track network traffic:
 
-1. Attaches to the specified network interface using XDP
-2. Extracts source and destination IP addresses from packets
-3. Maps socket connections to user IDs
-4. Tracks ingress (RX) and egress (TX) traffic per connection
-5. Maintains hash maps of statistics indexed by connection and UID
-6. Periodically logs per-connection statistics to per-user log files
+1. XDP programs: Early packet processing at NIC driver level
+2. Cgroup programs: Socket-level tracking with UID context
+3. Sockops programs: Connection establishment tracking
+4. Kprobes: Kernel function instrumentation for TCP/UDP syscalls
+
+All programs share data through three eBPF maps:
+- user_stats_map: Per-user aggregate statistics
+- conn_uid_map: Maps network connections to user IDs
+- conn_stats_map: Per-connection detailed statistics
 
 ## Stopping the Tool
 

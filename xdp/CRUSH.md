@@ -38,7 +38,7 @@ sudo ./test_xdp.sh [interface]
 sudo ./pdtt_xdp_user -i eth0
 
 # Run with custom log prefix and interval
-sudo ./pdtt_xdp_user -i wlan0 -l /tmp/traffic -t 5
+sudo ./pdtt_xdp_user -i wlan0 -p /tmp/traffic -t 5
 
 # Monitor loopback interface
 sudo ./pdtt_xdp_user -i lo
