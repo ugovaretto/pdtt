@@ -1,11 +1,11 @@
 
-=== Network Statistics Report [2025-10-28 22:03:10] ===
+=== Network Statistics Report [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: swapper/0
   Total: 133417155 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:48136
@@ -15,7 +15,7 @@ Process:
   Total: 9340 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33834
@@ -25,7 +25,7 @@ Process:
   Total: 8394 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:50944
@@ -35,7 +35,7 @@ Process:
   Total: 9458 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36108
@@ -45,7 +45,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46550
@@ -55,7 +55,7 @@ Process:
   Total: 6760 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56168
@@ -65,7 +65,7 @@ Process:
   Total: 9458 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33614
@@ -75,7 +75,7 @@ Process:
   Total: 9461 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:45699
@@ -85,7 +85,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47076
@@ -95,7 +95,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34588
@@ -105,7 +105,7 @@ Process:
   Total: 13980 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:41934
@@ -115,7 +115,7 @@ Process:
   Total: 9821 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37042
@@ -125,7 +125,7 @@ Process:
   Total: 9478 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56218
@@ -135,7 +135,7 @@ Process:
   Total: 7139 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:33759
@@ -145,7 +145,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37028
@@ -155,7 +155,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59584
@@ -165,7 +165,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37898
@@ -175,7 +175,7 @@ Process:
   Total: 25712 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33976
@@ -185,7 +185,7 @@ Process:
   Total: 8781 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33794
@@ -195,7 +195,7 @@ Process:
   Total: 14206 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47112
@@ -205,7 +205,7 @@ Process:
   Total: 9562 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:53976
@@ -215,7 +215,7 @@ Process:
   Total: 6783 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:35270
@@ -225,7 +225,7 @@ Process:
   Total: 8753 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37022
@@ -235,7 +235,7 @@ Process:
   Total: 9513 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46206
@@ -245,7 +245,7 @@ Process:
   Total: 9211 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:42944
@@ -255,7 +255,7 @@ Process:
   Total: 7602 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47114
@@ -265,7 +265,7 @@ Process:
   Total: 9671 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:50394
@@ -275,7 +275,7 @@ Process:
   Total: 15037 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46342
@@ -285,7 +285,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:43622
@@ -295,7 +295,7 @@ Process:
   Total: 9451 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36120
@@ -305,7 +305,7 @@ Process:
   Total: 9354 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56152
@@ -315,7 +315,7 @@ Process:
   Total: 9562 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33796
@@ -325,7 +325,7 @@ Process:
   Total: 12790 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:43274
@@ -335,7 +335,7 @@ Process:
   Total: 8806 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56286
@@ -345,7 +345,7 @@ Process:
   Total: 9458 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33874
@@ -355,7 +355,7 @@ Process:
   Total: 9497 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46386
@@ -365,7 +365,7 @@ Process:
   Total: 9461 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59468
@@ -375,7 +375,7 @@ Process:
   Total: 9461 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38166
@@ -385,7 +385,7 @@ Process:
   Total: 9701 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34738
@@ -395,7 +395,7 @@ Process:
   Total: 9406 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36870
@@ -405,7 +405,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59984
@@ -415,7 +415,7 @@ Process:
   Total: 9594 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38852
@@ -425,7 +425,7 @@ Process:
   Total: 9492 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33930
@@ -435,7 +435,7 @@ Process:
   Total: 7939 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37074
@@ -445,7 +445,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59554
@@ -455,7 +455,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:41090
@@ -465,7 +465,7 @@ Process:
   Total: 20860830 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33746
@@ -475,7 +475,7 @@ Process:
   Total: 22734 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38850
@@ -485,7 +485,7 @@ Process:
   Total: 9406 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59466
@@ -495,7 +495,7 @@ Process:
   Total: 11693 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:32810
@@ -505,7 +505,7 @@ Process:
   Total: 259 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60330
@@ -515,7 +515,7 @@ Process:
   Total: 9406 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46858
@@ -525,7 +525,7 @@ Process:
   Total: 7252 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36952
@@ -535,7 +535,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59536
@@ -545,7 +545,7 @@ Process:
   Total: 9548 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47908
@@ -555,7 +555,7 @@ Process:
   Total: 9354 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59668
@@ -565,7 +565,7 @@ Process:
   Total: 9496 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:42932
@@ -575,7 +575,7 @@ Process:
   Total: 9722 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38698
@@ -585,7 +585,7 @@ Process:
   Total: 11372 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47038
@@ -595,7 +595,7 @@ Process:
   Total: 9461 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:34113
@@ -605,7 +605,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60842
@@ -615,7 +615,7 @@ Process:
   Total: 7230 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:49978
@@ -625,7 +625,7 @@ Process:
   Total: 9468 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51444
@@ -635,7 +635,7 @@ Process:
   Total: 8090 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:35318
@@ -645,7 +645,7 @@ Process:
   Total: 9211 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47956
@@ -655,7 +655,7 @@ Process:
   Total: 9458 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59552
@@ -665,7 +665,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46168
@@ -675,7 +675,7 @@ Process:
   Total: 8939 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46374
@@ -685,7 +685,7 @@ Process:
   Total: 9513 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37098
@@ -695,7 +695,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36954
@@ -705,7 +705,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59506
@@ -715,7 +715,7 @@ Process:
   Total: 9461 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:50016
@@ -725,7 +725,7 @@ Process:
   Total: 8983 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36762
@@ -735,7 +735,7 @@ Process:
   Total: 6813 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34748
@@ -745,7 +745,7 @@ Process:
   Total: 9614 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51298
@@ -755,7 +755,7 @@ Process:
   Total: 15153 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51248
@@ -765,7 +765,7 @@ Process:
   Total: 10394 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:44093
@@ -775,7 +775,7 @@ Process:
   Total: 182 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51346
@@ -785,7 +785,7 @@ Process:
   Total: 14622 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38174
@@ -795,7 +795,7 @@ Process:
   Total: 9380 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51410
@@ -805,7 +805,7 @@ Process:
   Total: 12369 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51314
@@ -815,7 +815,7 @@ Process:
   Total: 14171 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59730
@@ -825,7 +825,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:43244
@@ -835,7 +835,7 @@ Process:
   Total: 8753 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:35284
@@ -845,7 +845,7 @@ Process:
   Total: 8391 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:43896
@@ -855,7 +855,7 @@ Process:
   Total: 8602 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:50916
@@ -865,7 +865,7 @@ Process:
   Total: 9340 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:57290
@@ -875,7 +875,7 @@ Process:
   Total: 9209 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59524
@@ -885,7 +885,7 @@ Process:
   Total: 9496 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:57390
@@ -895,7 +895,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51208
@@ -905,7 +905,7 @@ Process:
   Total: 8930 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56176
@@ -915,7 +915,7 @@ Process:
   Total: 9388 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36864
@@ -925,7 +925,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:41992
@@ -935,7 +935,7 @@ Process:
   Total: 9439 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33900
@@ -945,7 +945,7 @@ Process:
   Total: 15126 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60536
@@ -955,7 +955,7 @@ Process:
   Total: 9340 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33918
@@ -965,7 +965,7 @@ Process:
   Total: 8702 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:47775
@@ -975,7 +975,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46520
@@ -985,7 +985,7 @@ Process:
   Total: 7046 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33640
@@ -995,7 +995,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:60588
@@ -1005,7 +1005,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51484
@@ -1015,7 +1015,7 @@ Process:
   Total: 11093 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37222
@@ -1025,7 +1025,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51260
@@ -1035,7 +1035,7 @@ Process:
   Total: 8996 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60358
@@ -1045,7 +1045,7 @@ Process:
   Total: 9562 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:48074
@@ -1055,7 +1055,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46436
@@ -1065,7 +1065,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33772
@@ -1075,7 +1075,7 @@ Process:
   Total: 10392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:40406
@@ -1085,7 +1085,7 @@ Process:
   Total: 36654 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37128
@@ -1095,7 +1095,7 @@ Process:
   Total: 9426 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:48568
@@ -1105,7 +1105,7 @@ Process:
   Total: 108444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56762
@@ -1115,7 +1115,7 @@ Process:
   Total: 7928 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:43640
@@ -1125,7 +1125,7 @@ Process:
   Total: 9562 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33760
@@ -1135,7 +1135,7 @@ Process:
   Total: 7760 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:35330
@@ -1145,7 +1145,7 @@ Process:
   Total: 8910 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33936
@@ -1155,7 +1155,7 @@ Process:
   Total: 7904 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37050
@@ -1165,7 +1165,7 @@ Process:
   Total: 9530 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59540
@@ -1175,7 +1175,7 @@ Process:
   Total: 9458 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:57330
@@ -1185,7 +1185,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:52402
@@ -1195,7 +1195,7 @@ Process:
   Total: 16259 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59712
@@ -1205,7 +1205,7 @@ Process:
   Total: 9426 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:49960
@@ -1215,7 +1215,7 @@ Process:
   Total: 9503 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56142
@@ -1225,7 +1225,7 @@ Process:
   Total: 9600 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:53098
@@ -1235,7 +1235,7 @@ Process:
   Total: 60 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47892
@@ -1245,7 +1245,7 @@ Process:
   Total: 9346 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56162
@@ -1255,7 +1255,7 @@ Process:
   Total: 9671 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33794
@@ -1265,7 +1265,7 @@ Process:
   Total: 6764 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33656
@@ -1275,7 +1275,7 @@ Process:
   Total: 9478 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:53850
@@ -1285,7 +1285,7 @@ Process:
   Total: 11348 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36910
@@ -1295,7 +1295,7 @@ Process:
   Total: 9513 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56232
@@ -1305,7 +1305,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47088
@@ -1315,7 +1315,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:49120
@@ -1325,7 +1325,7 @@ Process:
   Total: 14163 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:57845
@@ -1335,7 +1335,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59702
@@ -1345,7 +1345,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:50002
@@ -1355,7 +1355,7 @@ Process:
   Total: 10274 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60578
@@ -1365,7 +1365,7 @@ Process:
   Total: 9374 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:41948
@@ -1375,7 +1375,7 @@ Process:
   Total: 9502 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34336
@@ -1385,7 +1385,7 @@ Process:
   Total: 421278 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59582
@@ -1395,7 +1395,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36046
@@ -1405,7 +1405,7 @@ Process:
   Total: 13488 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:45716
@@ -1415,7 +1415,7 @@ Process:
   Total: 11632 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36126
@@ -1425,7 +1425,7 @@ Process:
   Total: 18164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:47367
@@ -1435,7 +1435,7 @@ Process:
   Total: 532 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:53858
@@ -1445,7 +1445,7 @@ Process:
   Total: 36359 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59690
@@ -1455,7 +1455,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36756
@@ -1465,7 +1465,7 @@ Process:
   Total: 9458 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51198
@@ -1475,7 +1475,7 @@ Process:
   Total: 7840 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38844
@@ -1485,7 +1485,7 @@ Process:
   Total: 9728 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:50702
@@ -1495,7 +1495,7 @@ Process:
   Total: 22037 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34074
@@ -1505,7 +1505,7 @@ Process:
   Total: 7945 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:40198
@@ -1515,7 +1515,7 @@ Process:
   Total: 9731 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:53198
@@ -1525,7 +1525,7 @@ Process:
   Total: 142565 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34058
@@ -1535,7 +1535,7 @@ Process:
   Total: 9722 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37374
@@ -1545,7 +1545,7 @@ Process:
   Total: 107688 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60316
@@ -1555,7 +1555,7 @@ Process:
   Total: 9718 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:35266
@@ -1565,7 +1565,7 @@ Process:
   Total: 9376 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33884
@@ -1575,7 +1575,7 @@ Process:
   Total: 8219 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46328
@@ -1585,7 +1585,7 @@ Process:
   Total: 9832 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51480
@@ -1595,7 +1595,7 @@ Process:
   Total: 8028 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51224
@@ -1605,7 +1605,7 @@ Process:
   Total: 9808 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:50454
@@ -1615,7 +1615,7 @@ Process:
   Total: 7338 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33966
@@ -1625,7 +1625,7 @@ Process:
   Total: 8928 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33682
@@ -1635,7 +1635,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60470
@@ -1645,7 +1645,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46170
@@ -1655,7 +1655,7 @@ Process:
   Total: 8805 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36110
@@ -1665,7 +1665,7 @@ Process:
   Total: 9478 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:52539
@@ -1675,7 +1675,7 @@ Process:
   Total: 182 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47890
@@ -1685,7 +1685,7 @@ Process:
   Total: 9649 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59738
@@ -1695,7 +1695,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34010
@@ -1705,7 +1705,7 @@ Process:
   Total: 8236 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:52194
@@ -1715,7 +1715,7 @@ Process:
   Total: 4138 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:44922
@@ -1725,7 +1725,7 @@ Process:
   Total: 15418 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59562
@@ -1735,7 +1735,7 @@ Process:
   Total: 9340 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33524
@@ -1745,7 +1745,7 @@ Process:
   Total: 20255 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:40394
@@ -1755,7 +1755,7 @@ Process:
   Total: 11372 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59858
@@ -1765,7 +1765,7 @@ Process:
   Total: 228705 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:57496
@@ -1775,7 +1775,7 @@ Process:
   Total: 7045 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:41360
@@ -1785,7 +1785,7 @@ Process:
   Total: 6553 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:53518
@@ -1795,7 +1795,7 @@ Process:
   Total: 9027 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37036
@@ -1805,7 +1805,7 @@ Process:
   Total: 9634 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:48592
@@ -1815,7 +1815,7 @@ Process:
   Total: 42247 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36118
@@ -1825,7 +1825,7 @@ Process:
   Total: 9670 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59652
@@ -1835,7 +1835,7 @@ Process:
   Total: 349466 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59498
@@ -1845,7 +1845,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46408
@@ -1855,7 +1855,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46414
@@ -1865,7 +1865,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33868
@@ -1875,7 +1875,7 @@ Process:
   Total: 10193 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51288
@@ -1885,7 +1885,7 @@ Process:
   Total: 8499 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36866
@@ -1895,7 +1895,7 @@ Process:
   Total: 9461 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38200
@@ -1905,7 +1905,7 @@ Process:
   Total: 9346 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51430
@@ -1915,7 +1915,7 @@ Process:
   Total: 8251 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:48582
@@ -1925,7 +1925,7 @@ Process:
   Total: 9877 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37156
@@ -1935,7 +1935,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51426
@@ -1945,7 +1945,7 @@ Process:
   Total: 8498 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:35304
@@ -1955,7 +1955,7 @@ Process:
   Total: 9306 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59756
@@ -1965,7 +1965,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47934
@@ -1975,7 +1975,7 @@ Process:
   Total: 9440 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51354
@@ -1985,7 +1985,7 @@ Process:
   Total: 7731 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37318
@@ -1995,7 +1995,7 @@ Process:
   Total: 9686 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60300
@@ -2005,7 +2005,7 @@ Process:
   Total: 9380 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:40214
@@ -2015,7 +2015,7 @@ Process:
   Total: 9472 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47130
@@ -2025,7 +2025,7 @@ Process:
   Total: 9374 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51470
@@ -2035,7 +2035,7 @@ Process:
   Total: 10452 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47064
@@ -2045,7 +2045,7 @@ Process:
   Total: 9391 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33288
@@ -2055,7 +2055,7 @@ Process:
   Total: 128949 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46438
@@ -2065,7 +2065,7 @@ Process:
   Total: 9461 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46186
@@ -2075,7 +2075,7 @@ Process:
   Total: 8701 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:43980
@@ -2085,7 +2085,7 @@ Process:
   Total: 104968 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34070
@@ -2095,7 +2095,7 @@ Process:
   Total: 8705 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33770
@@ -2105,7 +2105,7 @@ Process:
   Total: 7756 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56472
@@ -2115,7 +2115,7 @@ Process:
   Total: 7206 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37246
@@ -2125,7 +2125,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59456
@@ -2135,7 +2135,7 @@ Process:
   Total: 9461 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33950
@@ -2145,7 +2145,7 @@ Process:
   Total: 7891 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:45936
@@ -2155,7 +2155,7 @@ Process:
   Total: 9388 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:48762
@@ -2165,7 +2165,7 @@ Process:
   Total: 9316 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34762
@@ -2175,7 +2175,7 @@ Process:
   Total: 7268 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:33317
@@ -2185,7 +2185,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47912
@@ -2195,7 +2195,7 @@ Process:
   Total: 9354 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38176
@@ -2205,7 +2205,7 @@ Process:
   Total: 9458 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:53332
@@ -2215,7 +2215,7 @@ Process:
   Total: 7068 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33712
@@ -2225,7 +2225,7 @@ Process:
   Total: 15433 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:40006
@@ -2235,7 +2235,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:39690
@@ -2245,7 +2245,7 @@ Process:
   Total: 7069 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:48120
@@ -2255,7 +2255,7 @@ Process:
   Total: 9670 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:42696
@@ -2265,7 +2265,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33994
@@ -2275,7 +2275,7 @@ Process:
   Total: 11144 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:49072
@@ -2285,7 +2285,7 @@ Process:
   Total: 185351 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46454
@@ -2295,7 +2295,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38136
@@ -2305,7 +2305,7 @@ Process:
   Total: 8929 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37362
@@ -2315,7 +2315,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56470
@@ -2325,7 +2325,7 @@ Process:
   Total: 6779 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:48144
@@ -2335,7 +2335,7 @@ Process:
   Total: 9510 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46164
@@ -2345,7 +2345,7 @@ Process:
   Total: 10285 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:50932
@@ -2355,7 +2355,7 @@ Process:
   Total: 267858 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:45658
@@ -2365,7 +2365,7 @@ Process:
   Total: 7643 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47970
@@ -2375,7 +2375,7 @@ Process:
   Total: 9653 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:39674
@@ -2385,7 +2385,7 @@ Process:
   Total: 6789 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51258
@@ -2395,7 +2395,7 @@ Process:
   Total: 10810 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:39676
@@ -2405,7 +2405,7 @@ Process:
   Total: 107817 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:35996
@@ -2415,7 +2415,7 @@ Process:
   Total: 11397 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36140
@@ -2425,7 +2425,7 @@ Process:
   Total: 9458 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:49990
@@ -2435,7 +2435,7 @@ Process:
   Total: 9614 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47976
@@ -2445,7 +2445,7 @@ Process:
   Total: 9346 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37232
@@ -2455,7 +2455,7 @@ Process:
   Total: 9478 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37134
@@ -2465,7 +2465,7 @@ Process:
   Total: 9530 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37002
@@ -2475,7 +2475,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37172
@@ -2485,7 +2485,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33740
@@ -2495,7 +2495,7 @@ Process:
   Total: 10519 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56662
@@ -2505,7 +2505,7 @@ Process:
   Total: 6505 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34054
@@ -2515,7 +2515,7 @@ Process:
   Total: 9510 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:46638
@@ -2525,7 +2525,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34724
@@ -2535,7 +2535,7 @@ Process:
   Total: 9672 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37086
@@ -2545,7 +2545,7 @@ Process:
   Total: 9582 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37160
@@ -2555,7 +2555,7 @@ Process:
   Total: 9582 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37006
@@ -2565,7 +2565,7 @@ Process:
   Total: 9461 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:42646
@@ -2575,7 +2575,7 @@ Process:
   Total: 75073 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60512
@@ -2585,7 +2585,7 @@ Process:
   Total: 7291 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:43246
@@ -2595,7 +2595,7 @@ Process:
   Total: 9285 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51362
@@ -2605,7 +2605,7 @@ Process:
   Total: 9133 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47018
@@ -2615,7 +2615,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51402
@@ -2625,7 +2625,7 @@ Process:
   Total: 8658 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60480
@@ -2635,7 +2635,7 @@ Process:
   Total: 9426 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:55546
@@ -2645,7 +2645,7 @@ Process:
   Total: 14004 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59700
@@ -2655,7 +2655,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60284
@@ -2665,7 +2665,7 @@ Process:
   Total: 9718 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:57316
@@ -2675,7 +2675,7 @@ Process:
   Total: 9673 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:50528
@@ -2685,7 +2685,7 @@ Process:
   Total: 6668 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46172
@@ -2695,7 +2695,7 @@ Process:
   Total: 124695 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37220
@@ -2705,7 +2705,7 @@ Process:
   Total: 9582 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46458
@@ -2715,7 +2715,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:37518
@@ -2725,7 +2725,7 @@ Process:
   Total: 228 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59868
@@ -2735,7 +2735,7 @@ Process:
   Total: 240160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36968
@@ -2745,7 +2745,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33814
@@ -2755,7 +2755,7 @@ Process:
   Total: 7566 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47944
@@ -2765,7 +2765,7 @@ Process:
   Total: 9388 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33704
@@ -2775,7 +2775,7 @@ Process:
   Total: 9510 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59632
@@ -2785,7 +2785,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38840
@@ -2795,7 +2795,7 @@ Process:
   Total: 22860 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59766
@@ -2805,7 +2805,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47032
@@ -2815,7 +2815,7 @@ Process:
   Total: 9461 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51428
@@ -2825,7 +2825,7 @@ Process:
   Total: 11068 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36066
@@ -2835,7 +2835,7 @@ Process:
   Total: 36770 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60484
@@ -2845,7 +2845,7 @@ Process:
   Total: 9510 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60540
@@ -2855,7 +2855,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33844
@@ -2865,7 +2865,7 @@ Process:
   Total: 10021 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60294
@@ -2875,7 +2875,7 @@ Process:
   Total: 9346 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47010
@@ -2885,7 +2885,7 @@ Process:
   Total: 9726 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36946
@@ -2895,7 +2895,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:42598
@@ -2905,7 +2905,7 @@ Process:
   Total: 8932 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51386
@@ -2915,7 +2915,7 @@ Process:
   Total: 7866 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56118
@@ -2925,7 +2925,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51158
@@ -2935,7 +2935,7 @@ Process:
   Total: 9365 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:43240
@@ -2945,7 +2945,7 @@ Process:
   Total: 8339 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36990
@@ -2955,7 +2955,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59564
@@ -2965,7 +2965,7 @@ Process:
   Total: 9426 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:57272
@@ -2975,7 +2975,7 @@ Process:
   Total: 11629 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33932
@@ -2985,7 +2985,7 @@ Process:
   Total: 9603 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:49004
@@ -2995,7 +2995,7 @@ Process:
   Total: 9316 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:49966
@@ -3005,7 +3005,7 @@ Process:
   Total: 1192229 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56216
@@ -3015,7 +3015,7 @@ Process:
   Total: 9340 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:45948
@@ -3025,7 +3025,7 @@ Process:
   Total: 9458 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:57742
@@ -3035,7 +3035,7 @@ Process:
   Total: 7563 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36924
@@ -3045,7 +3045,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:33204
@@ -3055,7 +3055,7 @@ Process:
   Total: 182 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:50900
@@ -3065,7 +3065,7 @@ Process:
   Total: 9775 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51306
@@ -3075,7 +3075,7 @@ Process:
   Total: 9773 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56184
@@ -3085,7 +3085,7 @@ Process:
   Total: 9510 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59618
@@ -3095,7 +3095,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47922
@@ -3105,7 +3105,7 @@ Process:
   Total: 9432 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51324
@@ -3115,7 +3115,7 @@ Process:
   Total: 32455 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51454
@@ -3125,7 +3125,7 @@ Process:
   Total: 10605 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46196
@@ -3135,7 +3135,7 @@ Process:
   Total: 9218 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38748
@@ -3145,7 +3145,7 @@ Process:
   Total: 6453 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:39470
@@ -3155,7 +3155,7 @@ Process:
   Total: 8224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33938
@@ -3165,7 +3165,7 @@ Process:
   Total: 8153 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47070
@@ -3175,7 +3175,7 @@ Process:
   Total: 9726 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51382
@@ -3185,7 +3185,7 @@ Process:
   Total: 8233 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36970
@@ -3195,7 +3195,7 @@ Process:
   Total: 9461 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60344
@@ -3205,7 +3205,7 @@ Process:
   Total: 9439 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33854
@@ -3215,7 +3215,7 @@ Process:
   Total: 16281 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51216
@@ -3225,7 +3225,7 @@ Process:
   Total: 15137 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46422
@@ -3235,7 +3235,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59592
@@ -3245,7 +3245,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:39472
@@ -3255,7 +3255,7 @@ Process:
   Total: 36286 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37094
@@ -3265,7 +3265,7 @@ Process:
   Total: 9496 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36890
@@ -3275,7 +3275,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33810
@@ -3285,7 +3285,7 @@ Process:
   Total: 107773 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:44194
@@ -3295,7 +3295,7 @@ Process:
   Total: 128920 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46392
@@ -3305,7 +3305,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36056
@@ -3315,7 +3315,7 @@ Process:
   Total: 11525 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37202
@@ -3325,7 +3325,7 @@ Process:
   Total: 9530 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56326
@@ -3335,7 +3335,7 @@ Process:
   Total: 75047 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46848
@@ -3345,7 +3345,7 @@ Process:
   Total: 6727 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:52362
@@ -3355,7 +3355,7 @@ Process:
   Total: 6779 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59968
@@ -3365,7 +3365,7 @@ Process:
   Total: 9657 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33688
@@ -3375,7 +3375,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:43864
@@ -3385,7 +3385,7 @@ Process:
   Total: 6479 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51232
@@ -3395,7 +3395,7 @@ Process:
   Total: 7983 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36934
@@ -3405,7 +3405,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34406
@@ -3415,7 +3415,7 @@ Process:
   Total: 9362 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:42600
@@ -3425,7 +3425,7 @@ Process:
   Total: 9458 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59918
@@ -3435,7 +3435,7 @@ Process:
   Total: 7171 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59684
@@ -3445,7 +3445,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:50532
@@ -3455,7 +3455,7 @@ Process:
   Total: 6779 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:39094
@@ -3465,7 +3465,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51316
@@ -3475,7 +3475,7 @@ Process:
   Total: 8520 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51274
@@ -3485,7 +3485,7 @@ Process:
   Total: 8128 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33992
@@ -3495,7 +3495,7 @@ Process:
   Total: 8748 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:37338
@@ -3505,7 +3505,7 @@ Process:
   Total: 496 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:43616
@@ -3515,7 +3515,7 @@ Process:
   Total: 9731 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34012
@@ -3525,7 +3525,7 @@ Process:
   Total: 8175 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37188
@@ -3535,7 +3535,7 @@ Process:
   Total: 9426 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33934
@@ -3545,7 +3545,7 @@ Process:
   Total: 9156 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36886
@@ -3555,7 +3555,7 @@ Process:
   Total: 9461 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:42388
@@ -3565,7 +3565,7 @@ Process:
   Total: 9567 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37360
@@ -3575,7 +3575,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51390
@@ -3585,7 +3585,7 @@ Process:
   Total: 8828 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:55774
@@ -3595,7 +3595,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:48142
@@ -3605,7 +3605,7 @@ Process:
   Total: 9374 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51270
@@ -3615,7 +3615,7 @@ Process:
   Total: 7937 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59642
@@ -3625,7 +3625,7 @@ Process:
   Total: 19005 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:42314
@@ -3635,7 +3635,7 @@ Process:
   Total: 430679 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38148
@@ -3645,7 +3645,7 @@ Process:
   Total: 161807 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:43260
@@ -3655,7 +3655,7 @@ Process:
   Total: 9211 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33624
@@ -3665,7 +3665,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36116
@@ -3675,7 +3675,7 @@ Process:
   Total: 9562 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37242
@@ -3685,7 +3685,7 @@ Process:
   Total: 9548 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33638
@@ -3695,7 +3695,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59658
@@ -3705,7 +3705,7 @@ Process:
   Total: 18931 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46506
@@ -3715,7 +3715,7 @@ Process:
   Total: 7510 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51154
@@ -3725,7 +3725,7 @@ Process:
   Total: 8603 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60614
@@ -3735,7 +3735,7 @@ Process:
   Total: 9374 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34752
@@ -3745,7 +3745,7 @@ Process:
   Total: 9774 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:44367
@@ -3755,7 +3755,7 @@ Process:
   Total: 208 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:55646
@@ -3765,7 +3765,7 @@ Process:
   Total: 312211 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:41988
@@ -3775,7 +3775,7 @@ Process:
   Total: 9354 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37000
@@ -3785,7 +3785,7 @@ Process:
   Total: 9513 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38184
@@ -3795,7 +3795,7 @@ Process:
   Total: 9650 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33698
@@ -3805,7 +3805,7 @@ Process:
   Total: 10199 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37292
@@ -3815,7 +3815,7 @@ Process:
   Total: 9530 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51276
@@ -3825,7 +3825,7 @@ Process:
   Total: 22280 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59752
@@ -3835,7 +3835,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47100
@@ -3845,7 +3845,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36880
@@ -3855,7 +3855,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:40897
@@ -3865,7 +3865,7 @@ Process:
   Total: 214 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59572
@@ -3875,7 +3875,7 @@ Process:
   Total: 9614 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:42008
@@ -3885,7 +3885,7 @@ Process:
   Total: 9510 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37208
@@ -3895,7 +3895,7 @@ Process:
   Total: 9478 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51456
@@ -3905,7 +3905,7 @@ Process:
   Total: 8720 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:41966
@@ -3915,7 +3915,7 @@ Process:
   Total: 6422 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:48070
@@ -3925,7 +3925,7 @@ Process:
   Total: 9719 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60562
@@ -3935,7 +3935,7 @@ Process:
   Total: 9340 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36748
@@ -3945,7 +3945,7 @@ Process:
   Total: 7096 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:42442
@@ -3955,7 +3955,7 @@ Process:
   Total: 9862 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34064
@@ -3965,7 +3965,7 @@ Process:
   Total: 9435 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33822
@@ -3975,7 +3975,7 @@ Process:
   Total: 32451 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60390
@@ -3985,7 +3985,7 @@ Process:
   Total: 6443 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:42378
@@ -3995,7 +3995,7 @@ Process:
   Total: 9780 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59534
@@ -4005,7 +4005,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:42626
@@ -4015,7 +4015,7 @@ Process:
   Total: 970109 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46368
@@ -4025,7 +4025,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33670
@@ -4035,7 +4035,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60622
@@ -4045,7 +4045,7 @@ Process:
   Total: 9426 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60450
@@ -4055,7 +4055,7 @@ Process:
   Total: 9614 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59518
@@ -4065,7 +4065,7 @@ Process:
   Total: 9461 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37346
@@ -4075,7 +4075,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60302
@@ -4085,7 +4085,7 @@ Process:
   Total: 9562 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:42180
@@ -4095,7 +4095,7 @@ Process:
   Total: 98200038 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:43624
@@ -4105,7 +4105,7 @@ Process:
   Total: 9537 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:42840
@@ -4115,7 +4115,7 @@ Process:
   Total: 13618 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60508
@@ -4125,7 +4125,7 @@ Process:
   Total: 7295 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51570
@@ -4135,7 +4135,7 @@ Process:
   Total: 9840 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:48104
@@ -4145,7 +4145,7 @@ Process:
   Total: 9458 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56738
@@ -4155,7 +4155,7 @@ Process:
   Total: 7535 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:41958
@@ -4165,7 +4165,7 @@ Process:
   Total: 9432 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:57482
@@ -4175,7 +4175,7 @@ Process:
   Total: 6765 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33904
@@ -4185,7 +4185,7 @@ Process:
   Total: 9323 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38172
@@ -4195,7 +4195,7 @@ Process:
   Total: 9502 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:50936
@@ -4205,7 +4205,7 @@ Process:
   Total: 9374 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59442
@@ -4215,7 +4215,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46398
@@ -4225,7 +4225,7 @@ Process:
   Total: 9461 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38120
@@ -4235,7 +4235,7 @@ Process:
   Total: 10875 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37102
@@ -4245,7 +4245,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:42610
@@ -4255,7 +4255,7 @@ Process:
   Total: 10261 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37184
@@ -4265,7 +4265,7 @@ Process:
   Total: 9478 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59772
@@ -4275,7 +4275,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:45916
@@ -4285,7 +4285,7 @@ Process:
   Total: 9674 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:44634
@@ -4295,7 +4295,7 @@ Process:
   Total: 259 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:43638
@@ -4305,7 +4305,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47014
@@ -4315,7 +4315,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51252
@@ -4325,7 +4325,7 @@ Process:
   Total: 12891 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37334
@@ -4335,7 +4335,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36772
@@ -4345,7 +4345,7 @@ Process:
   Total: 6764 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:42464
@@ -4355,7 +4355,7 @@ Process:
   Total: 7486 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59538
@@ -4365,7 +4365,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:43802
@@ -4375,7 +4375,7 @@ Process:
   Total: 8093 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51474
@@ -4385,7 +4385,7 @@ Process:
   Total: 8682 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51334
@@ -4395,7 +4395,7 @@ Process:
   Total: 9692 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46536
@@ -4405,7 +4405,7 @@ Process:
   Total: 6763 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56270
@@ -4415,7 +4415,7 @@ Process:
   Total: 9374 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34044
@@ -4425,7 +4425,7 @@ Process:
   Total: 12373 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37276
@@ -4435,7 +4435,7 @@ Process:
   Total: 9478 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:39668
@@ -4445,7 +4445,7 @@ Process:
   Total: 7069 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33824
@@ -4455,7 +4455,7 @@ Process:
   Total: 7046 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:57356
@@ -4465,7 +4465,7 @@ Process:
   Total: 9458 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47084
@@ -4475,7 +4475,7 @@ Process:
   Total: 7304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33608
@@ -4485,7 +4485,7 @@ Process:
   Total: 9774 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:53530
@@ -4495,7 +4495,7 @@ Process:
   Total: 337171 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46352
@@ -4505,7 +4505,7 @@ Process:
   Total: 9461 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38206
@@ -4515,7 +4515,7 @@ Process:
   Total: 9380 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51192
@@ -4525,7 +4525,7 @@ Process:
   Total: 11373 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:45816
@@ -4535,7 +4535,7 @@ Process:
   Total: 11424 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36002
@@ -4545,7 +4545,7 @@ Process:
   Total: 9967 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60598
@@ -4555,7 +4555,7 @@ Process:
   Total: 9530 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:45932
@@ -4565,7 +4565,7 @@ Process:
   Total: 9458 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:45298
@@ -4575,7 +4575,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:49772
@@ -4585,7 +4585,7 @@ Process:
   Total: 7132 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47098
@@ -4595,7 +4595,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47116
@@ -4605,7 +4605,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33800
@@ -4615,7 +4615,7 @@ Process:
   Total: 8903 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:41978
@@ -4625,7 +4625,7 @@ Process:
   Total: 9822 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46474
@@ -4635,7 +4635,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38160
@@ -4645,7 +4645,7 @@ Process:
   Total: 9614 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46180
@@ -4655,7 +4655,7 @@ Process:
   Total: 9562 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60110
@@ -4665,7 +4665,7 @@ Process:
   Total: 7206 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59672
@@ -4675,7 +4675,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46212
@@ -4685,7 +4685,7 @@ Process:
   Total: 8858 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38214
@@ -4695,7 +4695,7 @@ Process:
   Total: 9458 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34078
@@ -4705,7 +4705,7 @@ Process:
   Total: 11351 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:49976
@@ -4715,7 +4715,7 @@ Process:
   Total: 36756 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51464
@@ -4725,7 +4725,7 @@ Process:
   Total: 12116 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:35440
@@ -4735,7 +4735,7 @@ Process:
   Total: 7567 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33798
@@ -4745,7 +4745,7 @@ Process:
   Total: 9120 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60548
@@ -4755,7 +4755,7 @@ Process:
   Total: 9340 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:57340
@@ -4765,7 +4765,7 @@ Process:
   Total: 9443 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59568
@@ -4775,7 +4775,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:41113
@@ -4785,7 +4785,7 @@ Process:
   Total: 368 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33696
@@ -4795,7 +4795,7 @@ Process:
   Total: 11281 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:40294
@@ -4805,7 +4805,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46482
@@ -4815,7 +4815,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60626
@@ -4825,7 +4825,7 @@ Process:
   Total: 9510 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37060
@@ -4835,7 +4835,7 @@ Process:
   Total: 9530 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60684
@@ -4845,7 +4845,7 @@ Process:
   Total: 6783 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60584
@@ -4855,7 +4855,7 @@ Process:
   Total: 9374 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36994
@@ -4865,7 +4865,7 @@ Process:
   Total: 122462 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:50030
@@ -4875,7 +4875,7 @@ Process:
   Total: 9458 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46694
@@ -4885,7 +4885,7 @@ Process:
   Total: 6578 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:44127
@@ -4895,7 +4895,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60448
@@ -4905,7 +4905,7 @@ Process:
   Total: 9374 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56750
@@ -4915,7 +4915,7 @@ Process:
   Total: 6785 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60534
@@ -4925,7 +4925,7 @@ Process:
   Total: 9340 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:52372
@@ -4935,7 +4935,7 @@ Process:
   Total: 7160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56256
@@ -4945,7 +4945,7 @@ Process:
   Total: 9722 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37112
@@ -4955,7 +4955,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33718
@@ -4965,7 +4965,7 @@ Process:
   Total: 9702 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:45836
@@ -4975,7 +4975,7 @@ Process:
   Total: 12074 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56134
@@ -4985,7 +4985,7 @@ Process:
   Total: 9530 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46460
@@ -4995,7 +4995,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59716
@@ -5005,7 +5005,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34742
@@ -5015,7 +5015,7 @@ Process:
   Total: 9387 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:55904
@@ -5025,7 +5025,7 @@ Process:
   Total: 6573 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:55826
@@ -5035,7 +5035,7 @@ Process:
   Total: 6813 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:53538
@@ -5045,7 +5045,7 @@ Process:
   Total: 9614 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33978
@@ -5055,7 +5055,7 @@ Process:
   Total: 12370 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56200
@@ -5065,7 +5065,7 @@ Process:
   Total: 9724 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36902
@@ -5075,7 +5075,7 @@ Process:
   Total: 9461 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:53510
@@ -5085,7 +5085,7 @@ Process:
   Total: 10416 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:42944
@@ -5095,7 +5095,7 @@ Process:
   Total: 9525 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33736
@@ -5105,7 +5105,7 @@ Process:
   Total: 8620 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37146
@@ -5115,7 +5115,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59426
@@ -5125,7 +5125,7 @@ Process:
   Total: 982968 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34060
@@ -5135,7 +5135,7 @@ Process:
   Total: 10602 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:55810
@@ -5145,7 +5145,7 @@ Process:
   Total: 166118 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59484
@@ -5155,7 +5155,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60456
@@ -5165,7 +5165,7 @@ Process:
   Total: 9670 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:43234
@@ -5175,7 +5175,7 @@ Process:
   Total: 8753 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60444
@@ -5185,7 +5185,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:50446
@@ -5195,7 +5195,7 @@ Process:
   Total: 6779 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37226
@@ -5205,7 +5205,7 @@ Process:
   Total: 9444 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:46176
@@ -5215,7 +5215,7 @@ Process:
   Total: 9651 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:39692
@@ -5225,7 +5225,7 @@ Process:
   Total: 6839 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:50022
@@ -5235,7 +5235,7 @@ Process:
   Total: 1818533 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60684
@@ -5245,7 +5245,7 @@ Process:
   Total: 14007 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:47052
@@ -5255,7 +5255,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56242
@@ -5265,7 +5265,7 @@ Process:
   Total: 9458 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:49414
@@ -5275,7 +5275,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37228
@@ -5285,7 +5285,7 @@ Process:
   Total: 9530 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:56268
@@ -5295,7 +5295,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37308
@@ -5305,7 +5305,7 @@ Process:
   Total: 9426 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:44912
@@ -5315,7 +5315,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:34668
@@ -5325,7 +5325,7 @@ Process:
   Total: 259 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51372
@@ -5335,7 +5335,7 @@ Process:
   Total: 7819 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34028
@@ -5345,7 +5345,7 @@ Process:
   Total: 8820 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59470
@@ -5355,7 +5355,7 @@ Process:
   Total: 9409 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36100
@@ -5365,7 +5365,7 @@ Process:
   Total: 9671 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:35294
@@ -5375,7 +5375,7 @@ Process:
   Total: 9103 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:37262
@@ -5385,7 +5385,7 @@ Process:
   Total: 9392 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:48090
@@ -5395,7 +5395,7 @@ Process:
   Total: 9374 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51188
@@ -5405,7 +5405,7 @@ Process:
   Total: 9032 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:41356
@@ -5415,7 +5415,7 @@ Process:
   Total: 9680 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:45822
@@ -5425,7 +5425,7 @@ Process:
   Total: 36529 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59556
@@ -5435,7 +5435,7 @@ Process:
   Total: 9720 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:38862
@@ -5445,7 +5445,7 @@ Process:
   Total: 9562 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:51156
@@ -5455,7 +5455,7 @@ Process:
   Total: 9301 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:34020
@@ -5465,7 +5465,7 @@ Process:
   Total: 10685 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:52178
@@ -5475,7 +5475,7 @@ Process:
   Total: 7775 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:50854
@@ -5485,7 +5485,7 @@ Process:
   Total: 9416 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 127.0.0.1:48833
@@ -5495,7 +5495,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:33722
@@ -5505,7 +5505,7 @@ Process:
   Total: 7904 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:60434
@@ -5515,7 +5515,7 @@ Process:
   Total: 9719 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:59606
@@ -5525,7 +5525,7 @@ Process:
   Total: 9357 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 1000 | Username: ugo
 Process: 
   Source: 192.168.1.22:36984

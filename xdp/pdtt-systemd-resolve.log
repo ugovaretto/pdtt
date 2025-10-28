@@ -1,11 +1,11 @@
 
-=== Network Statistics Report [2025-10-28 22:03:10] ===
+=== Network Statistics Report [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: systemd-resolve
   Total: 147967 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38235
@@ -15,7 +15,7 @@ Process:
   Total: 320 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:60258
@@ -25,7 +25,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:37860
@@ -35,7 +35,7 @@ Process:
   Total: 372 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:55626
@@ -45,7 +45,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:55420
@@ -55,7 +55,7 @@ Process:
   Total: 158 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:52052
@@ -65,7 +65,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:49392
@@ -75,7 +75,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:35841
@@ -85,7 +85,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:58755
@@ -95,7 +95,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:34460
@@ -105,7 +105,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:52993
@@ -115,7 +115,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:44258
@@ -125,7 +125,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:41385
@@ -135,7 +135,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:58244
@@ -145,7 +145,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:42368
@@ -155,7 +155,7 @@ Process:
   Total: 252 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:41337
@@ -165,7 +165,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:56043
@@ -175,7 +175,7 @@ Process:
   Total: 283 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:41300
@@ -185,7 +185,7 @@ Process:
   Total: 236 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38169
@@ -195,7 +195,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:35695
@@ -205,7 +205,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:47876
@@ -215,7 +215,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:33058
@@ -225,7 +225,7 @@ Process:
   Total: 200 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:39613
@@ -235,7 +235,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:41947
@@ -245,7 +245,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:44359
@@ -255,7 +255,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:55719
@@ -265,7 +265,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -275,7 +275,7 @@ Process:
   Total: 228 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:49696
@@ -285,7 +285,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:34456
@@ -295,7 +295,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:60915
@@ -305,7 +305,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:47812
@@ -315,7 +315,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39773
@@ -325,7 +325,7 @@ Process:
   Total: 256 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:54611
@@ -335,7 +335,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:46765
@@ -345,7 +345,7 @@ Process:
   Total: 252 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:52430
@@ -355,7 +355,7 @@ Process:
   Total: 252 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:59110
@@ -365,7 +365,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:49992
@@ -375,7 +375,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:44030
@@ -385,7 +385,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:43338
@@ -395,7 +395,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:38249
@@ -405,7 +405,7 @@ Process:
   Total: 218 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:42303
@@ -415,7 +415,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:47900
@@ -425,7 +425,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:60784
@@ -435,7 +435,7 @@ Process:
   Total: 288 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:51342
@@ -445,7 +445,7 @@ Process:
   Total: 158 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:42058
@@ -455,7 +455,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:55633
@@ -465,7 +465,7 @@ Process:
   Total: 222 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:50135
@@ -475,7 +475,7 @@ Process:
   Total: 208 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:33536
@@ -485,7 +485,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:34124
@@ -495,7 +495,7 @@ Process:
   Total: 214 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:35818
@@ -505,7 +505,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:34010
@@ -515,7 +515,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:36724
@@ -525,7 +525,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:59169
@@ -535,7 +535,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:43485
@@ -545,7 +545,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:38786
@@ -555,7 +555,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:59511
@@ -565,7 +565,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:51418
@@ -575,7 +575,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:60142
@@ -585,7 +585,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:37717
@@ -595,7 +595,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:41955
@@ -605,7 +605,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:50512
@@ -615,7 +615,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:46019
@@ -625,7 +625,7 @@ Process:
   Total: 320 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:44868
@@ -635,7 +635,7 @@ Process:
   Total: 356 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:53864
@@ -645,7 +645,7 @@ Process:
   Total: 168 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -655,7 +655,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:37761
@@ -665,7 +665,7 @@ Process:
   Total: 252 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:34007
@@ -675,7 +675,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:53165
@@ -685,7 +685,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:37560
@@ -695,7 +695,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:46106
@@ -705,7 +705,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:53558
@@ -715,7 +715,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:49844
@@ -725,7 +725,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38045
@@ -735,7 +735,7 @@ Process:
   Total: 196 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:34581
@@ -745,7 +745,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:54917
@@ -755,7 +755,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:48486
@@ -765,7 +765,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:45295
@@ -775,7 +775,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:53825
@@ -785,7 +785,7 @@ Process:
   Total: 188 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:50403
@@ -795,7 +795,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:57628
@@ -805,7 +805,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39502
@@ -815,7 +815,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38986
@@ -825,7 +825,7 @@ Process:
   Total: 288 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:54876
@@ -835,7 +835,7 @@ Process:
   Total: 188 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39443
@@ -845,7 +845,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:36128
@@ -855,7 +855,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -865,7 +865,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:37969
@@ -875,7 +875,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:38507
@@ -885,7 +885,7 @@ Process:
   Total: 252 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:46387
@@ -895,7 +895,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -905,7 +905,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:48076
@@ -915,7 +915,7 @@ Process:
   Total: 372 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:50365
@@ -925,7 +925,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:53160
@@ -935,7 +935,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:45698
@@ -945,7 +945,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38885
@@ -955,7 +955,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:40230
@@ -965,7 +965,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:57244
@@ -975,7 +975,7 @@ Process:
   Total: 222 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:53511
@@ -985,7 +985,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:51110
@@ -995,7 +995,7 @@ Process:
   Total: 228 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:50607
@@ -1005,7 +1005,7 @@ Process:
   Total: 259 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:54066
@@ -1015,7 +1015,7 @@ Process:
   Total: 158 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:41127
@@ -1025,7 +1025,7 @@ Process:
   Total: 320 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:47778
@@ -1035,7 +1035,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -1045,7 +1045,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:37491
@@ -1055,7 +1055,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:58663
@@ -1065,7 +1065,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:47916
@@ -1075,7 +1075,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:44871
@@ -1085,7 +1085,7 @@ Process:
   Total: 266 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -1095,7 +1095,7 @@ Process:
   Total: 259 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39667
@@ -1105,7 +1105,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:51416
@@ -1115,7 +1115,7 @@ Process:
   Total: 196 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:60862
@@ -1125,7 +1125,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:54268
@@ -1135,7 +1135,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:53637
@@ -1145,7 +1145,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:56956
@@ -1155,7 +1155,7 @@ Process:
   Total: 368 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:33555
@@ -1165,7 +1165,7 @@ Process:
   Total: 372 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:56409
@@ -1175,7 +1175,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -1185,7 +1185,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:58640
@@ -1195,7 +1195,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:49055
@@ -1205,7 +1205,7 @@ Process:
   Total: 299 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:43846
@@ -1215,7 +1215,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:54607
@@ -1225,7 +1225,7 @@ Process:
   Total: 222 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:57516
@@ -1235,7 +1235,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:40681
@@ -1245,7 +1245,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39581
@@ -1255,7 +1255,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:50229
@@ -1265,7 +1265,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:52968
@@ -1275,7 +1275,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:48430
@@ -1285,7 +1285,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:53052
@@ -1295,7 +1295,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:55449
@@ -1305,7 +1305,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39804
@@ -1315,7 +1315,7 @@ Process:
   Total: 288 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:52584
@@ -1325,7 +1325,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:60905
@@ -1335,7 +1335,7 @@ Process:
   Total: 372 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:50593
@@ -1345,7 +1345,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:56081
@@ -1355,7 +1355,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:49667
@@ -1365,7 +1365,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:59811
@@ -1375,7 +1375,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:47820
@@ -1385,7 +1385,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:54263
@@ -1395,7 +1395,7 @@ Process:
   Total: 196 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:48629
@@ -1405,7 +1405,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:55212
@@ -1415,7 +1415,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:40370
@@ -1425,7 +1425,7 @@ Process:
   Total: 616 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:40438
@@ -1435,7 +1435,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:48028
@@ -1445,7 +1445,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:48320
@@ -1455,7 +1455,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:42823
@@ -1465,7 +1465,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38486
@@ -1475,7 +1475,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:49717
@@ -1485,7 +1485,7 @@ Process:
   Total: 222 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:60781
@@ -1495,7 +1495,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:37217
@@ -1505,7 +1505,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:44564
@@ -1515,7 +1515,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:53487
@@ -1525,7 +1525,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:39309
@@ -1535,7 +1535,7 @@ Process:
   Total: 236 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:47642
@@ -1545,7 +1545,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:52553
@@ -1555,7 +1555,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:44342
@@ -1565,7 +1565,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:48373
@@ -1575,7 +1575,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:57094
@@ -1585,7 +1585,7 @@ Process:
   Total: 180 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:40111
@@ -1595,7 +1595,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:36026
@@ -1605,7 +1605,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:45728
@@ -1615,7 +1615,7 @@ Process:
   Total: 180 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:60127
@@ -1625,7 +1625,7 @@ Process:
   Total: 256 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38519
@@ -1635,7 +1635,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:44046
@@ -1645,7 +1645,7 @@ Process:
   Total: 356 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:41899
@@ -1655,7 +1655,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:37322
@@ -1665,7 +1665,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:56721
@@ -1675,7 +1675,7 @@ Process:
   Total: 222 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:51760
@@ -1685,7 +1685,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:41700
@@ -1695,7 +1695,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -1705,7 +1705,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:38695
@@ -1715,7 +1715,7 @@ Process:
   Total: 259 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:33790
@@ -1725,7 +1725,7 @@ Process:
   Total: 320 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:57749
@@ -1735,7 +1735,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:37918
@@ -1745,7 +1745,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:46571
@@ -1755,7 +1755,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:54254
@@ -1765,7 +1765,7 @@ Process:
   Total: 236 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:44702
@@ -1775,7 +1775,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:55739
@@ -1785,7 +1785,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:59166
@@ -1795,7 +1795,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:52324
@@ -1805,7 +1805,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38672
@@ -1815,7 +1815,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:47796
@@ -1825,7 +1825,7 @@ Process:
   Total: 266 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:36134
@@ -1835,7 +1835,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39855
@@ -1845,7 +1845,7 @@ Process:
   Total: 283 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:60747
@@ -1855,7 +1855,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:43760
@@ -1865,7 +1865,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:37461
@@ -1875,7 +1875,7 @@ Process:
   Total: 218 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:35764
@@ -1885,7 +1885,7 @@ Process:
   Total: 214 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:56683
@@ -1895,7 +1895,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:47575
@@ -1905,7 +1905,7 @@ Process:
   Total: 320 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:48455
@@ -1915,7 +1915,7 @@ Process:
   Total: 288 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:43734
@@ -1925,7 +1925,7 @@ Process:
   Total: 222 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:58609
@@ -1935,7 +1935,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:36735
@@ -1945,7 +1945,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:54618
@@ -1955,7 +1955,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:49374
@@ -1965,7 +1965,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:43774
@@ -1975,7 +1975,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39408
@@ -1985,7 +1985,7 @@ Process:
   Total: 150 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:41670
@@ -1995,7 +1995,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:36500
@@ -2005,7 +2005,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:56248
@@ -2015,7 +2015,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:51244
@@ -2025,7 +2025,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:58411
@@ -2035,7 +2035,7 @@ Process:
   Total: 158 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:38748
@@ -2045,7 +2045,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:43638
@@ -2055,7 +2055,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39354
@@ -2065,7 +2065,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -2075,7 +2075,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:42128
@@ -2085,7 +2085,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:51358
@@ -2095,7 +2095,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:59200
@@ -2105,7 +2105,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:33091
@@ -2115,7 +2115,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:38345
@@ -2125,7 +2125,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:52663
@@ -2135,7 +2135,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:34705
@@ -2145,7 +2145,7 @@ Process:
   Total: 266 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:37377
@@ -2155,7 +2155,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:54134
@@ -2165,7 +2165,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -2175,7 +2175,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:49812
@@ -2185,7 +2185,7 @@ Process:
   Total: 356 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:52607
@@ -2195,7 +2195,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:60150
@@ -2205,7 +2205,7 @@ Process:
   Total: 196 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:47982
@@ -2215,7 +2215,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:35063
@@ -2225,7 +2225,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39775
@@ -2235,7 +2235,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:34137
@@ -2245,7 +2245,7 @@ Process:
   Total: 196 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:42600
@@ -2255,7 +2255,7 @@ Process:
   Total: 256 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:46982
@@ -2265,7 +2265,7 @@ Process:
   Total: 218 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:60889
@@ -2275,7 +2275,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -2285,7 +2285,7 @@ Process:
   Total: 368 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38418
@@ -2295,7 +2295,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39901
@@ -2305,7 +2305,7 @@ Process:
   Total: 356 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:50108
@@ -2315,7 +2315,7 @@ Process:
   Total: 356 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:59160
@@ -2325,7 +2325,7 @@ Process:
   Total: 150 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:57527
@@ -2335,7 +2335,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:50109
@@ -2345,7 +2345,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:43500
@@ -2355,7 +2355,7 @@ Process:
   Total: 158 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:51817
@@ -2365,7 +2365,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -2375,7 +2375,7 @@ Process:
   Total: 259 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:41851
@@ -2385,7 +2385,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:35842
@@ -2395,7 +2395,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:47377
@@ -2405,7 +2405,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:43923
@@ -2415,7 +2415,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:59102
@@ -2425,7 +2425,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:51207
@@ -2435,7 +2435,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:35481
@@ -2445,7 +2445,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:52791
@@ -2455,7 +2455,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:54851
@@ -2465,7 +2465,7 @@ Process:
   Total: 150 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:56863
@@ -2475,7 +2475,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:58887
@@ -2485,7 +2485,7 @@ Process:
   Total: 228 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:40461
@@ -2495,7 +2495,7 @@ Process:
   Total: 158 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:33111
@@ -2505,7 +2505,7 @@ Process:
   Total: 150 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:42964
@@ -2515,7 +2515,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:42184
@@ -2525,7 +2525,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:34797
@@ -2535,7 +2535,7 @@ Process:
   Total: 320 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:36016
@@ -2545,7 +2545,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38611
@@ -2555,7 +2555,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:44581
@@ -2565,7 +2565,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:36260
@@ -2575,7 +2575,7 @@ Process:
   Total: 188 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:54363
@@ -2585,7 +2585,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -2595,7 +2595,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:42213
@@ -2605,7 +2605,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -2615,7 +2615,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:41922
@@ -2625,7 +2625,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:38052
@@ -2635,7 +2635,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:55958
@@ -2645,7 +2645,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:56171
@@ -2655,7 +2655,7 @@ Process:
   Total: 208 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:59555
@@ -2665,7 +2665,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:46211
@@ -2675,7 +2675,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:49246
@@ -2685,7 +2685,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:43659
@@ -2695,7 +2695,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -2705,7 +2705,7 @@ Process:
   Total: 532 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:35198
@@ -2715,7 +2715,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:47277
@@ -2725,7 +2725,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:35388
@@ -2735,7 +2735,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:41358
@@ -2745,7 +2745,7 @@ Process:
   Total: 288 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:51108
@@ -2755,7 +2755,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:46707
@@ -2765,7 +2765,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:57042
@@ -2775,7 +2775,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:46102
@@ -2785,7 +2785,7 @@ Process:
   Total: 372 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -2795,7 +2795,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:41270
@@ -2805,7 +2805,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:49289
@@ -2815,7 +2815,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:59506
@@ -2825,7 +2825,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:53840
@@ -2835,7 +2835,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -2845,7 +2845,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:44987
@@ -2855,7 +2855,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:47059
@@ -2865,7 +2865,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:35603
@@ -2875,7 +2875,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:37044
@@ -2885,7 +2885,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:60664
@@ -2895,7 +2895,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:42693
@@ -2905,7 +2905,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:54997
@@ -2915,7 +2915,7 @@ Process:
   Total: 372 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:34414
@@ -2925,7 +2925,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:37938
@@ -2935,7 +2935,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -2945,7 +2945,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:37586
@@ -2955,7 +2955,7 @@ Process:
   Total: 196 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38054
@@ -2965,7 +2965,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:35134
@@ -2975,7 +2975,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:47379
@@ -2985,7 +2985,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39699
@@ -2995,7 +2995,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:51504
@@ -3005,7 +3005,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:45799
@@ -3015,7 +3015,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:41653
@@ -3025,7 +3025,7 @@ Process:
   Total: 266 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:54402
@@ -3035,7 +3035,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:32847
@@ -3045,7 +3045,7 @@ Process:
   Total: 158 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:53178
@@ -3055,7 +3055,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:45729
@@ -3065,7 +3065,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:37354
@@ -3075,7 +3075,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:43341
@@ -3085,7 +3085,7 @@ Process:
   Total: 200 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:41807
@@ -3095,7 +3095,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:40218
@@ -3105,7 +3105,7 @@ Process:
   Total: 252 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:33992
@@ -3115,7 +3115,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:56630
@@ -3125,7 +3125,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:33931
@@ -3135,7 +3135,7 @@ Process:
   Total: 150 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:37822
@@ -3145,7 +3145,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:48142
@@ -3155,7 +3155,7 @@ Process:
   Total: 252 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:39654
@@ -3165,7 +3165,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:51912
@@ -3175,7 +3175,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:59446
@@ -3185,7 +3185,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -3195,7 +3195,7 @@ Process:
   Total: 208 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:59246
@@ -3205,7 +3205,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:45121
@@ -3215,7 +3215,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:39459
@@ -3225,7 +3225,7 @@ Process:
   Total: 256 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39613
@@ -3235,7 +3235,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:56475
@@ -3245,7 +3245,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:49149
@@ -3255,7 +3255,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -3265,7 +3265,7 @@ Process:
   Total: 182 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:58846
@@ -3275,7 +3275,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:44427
@@ -3285,7 +3285,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:37388
@@ -3295,7 +3295,7 @@ Process:
   Total: 372 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:60833
@@ -3305,7 +3305,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:46188
@@ -3315,7 +3315,7 @@ Process:
   Total: 356 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:33825
@@ -3325,7 +3325,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38464
@@ -3335,7 +3335,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:45249
@@ -3345,7 +3345,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:51541
@@ -3355,7 +3355,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:49422
@@ -3365,7 +3365,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38908
@@ -3375,7 +3375,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:41609
@@ -3385,7 +3385,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:41651
@@ -3395,7 +3395,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:37536
@@ -3405,7 +3405,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:45412
@@ -3415,7 +3415,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:55058
@@ -3425,7 +3425,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:56195
@@ -3435,7 +3435,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:56698
@@ -3445,7 +3445,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:43450
@@ -3455,7 +3455,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:60584
@@ -3465,7 +3465,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:58268
@@ -3475,7 +3475,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:48779
@@ -3485,7 +3485,7 @@ Process:
   Total: 320 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:39479
@@ -3495,7 +3495,7 @@ Process:
   Total: 288 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:41798
@@ -3505,7 +3505,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:52865
@@ -3515,7 +3515,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:58069
@@ -3525,7 +3525,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:54353
@@ -3535,7 +3535,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:40801
@@ -3545,7 +3545,7 @@ Process:
   Total: 320 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:43615
@@ -3555,7 +3555,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39734
@@ -3565,7 +3565,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:46589
@@ -3575,7 +3575,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:53742
@@ -3585,7 +3585,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:57378
@@ -3595,7 +3595,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -3605,7 +3605,7 @@ Process:
   Total: 182 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:54290
@@ -3615,7 +3615,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:41721
@@ -3625,7 +3625,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:49629
@@ -3635,7 +3635,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:38017
@@ -3645,7 +3645,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:43634
@@ -3655,7 +3655,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:33376
@@ -3665,7 +3665,7 @@ Process:
   Total: 228 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:52595
@@ -3675,7 +3675,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:37453
@@ -3685,7 +3685,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -3695,7 +3695,7 @@ Process:
   Total: 182 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:41021
@@ -3705,7 +3705,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:50563
@@ -3715,7 +3715,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:52127
@@ -3725,7 +3725,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:48532
@@ -3735,7 +3735,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:45782
@@ -3745,7 +3745,7 @@ Process:
   Total: 256 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:44300
@@ -3755,7 +3755,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:43191
@@ -3765,7 +3765,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:49441
@@ -3775,7 +3775,7 @@ Process:
   Total: 372 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39944
@@ -3785,7 +3785,7 @@ Process:
   Total: 218 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:35861
@@ -3795,7 +3795,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:56509
@@ -3805,7 +3805,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:55386
@@ -3815,7 +3815,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:51468
@@ -3825,7 +3825,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:57436
@@ -3835,7 +3835,7 @@ Process:
   Total: 158 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:51310
@@ -3845,7 +3845,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:54767
@@ -3855,7 +3855,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:54725
@@ -3865,7 +3865,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:60994
@@ -3875,7 +3875,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:58142
@@ -3885,7 +3885,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:49716
@@ -3895,7 +3895,7 @@ Process:
   Total: 356 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:43236
@@ -3905,7 +3905,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:36206
@@ -3915,7 +3915,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:45855
@@ -3925,7 +3925,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:50268
@@ -3935,7 +3935,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:45757
@@ -3945,7 +3945,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:55500
@@ -3955,7 +3955,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:47042
@@ -3965,7 +3965,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -3975,7 +3975,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:48410
@@ -3985,7 +3985,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:35538
@@ -3995,7 +3995,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:37480
@@ -4005,7 +4005,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:35651
@@ -4015,7 +4015,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:55014
@@ -4025,7 +4025,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:57003
@@ -4035,7 +4035,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:59898
@@ -4045,7 +4045,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:33097
@@ -4055,7 +4055,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:42244
@@ -4065,7 +4065,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:37395
@@ -4075,7 +4075,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:39401
@@ -4085,7 +4085,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:54333
@@ -4095,7 +4095,7 @@ Process:
   Total: 252 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:46632
@@ -4105,7 +4105,7 @@ Process:
   Total: 158 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:52092
@@ -4115,7 +4115,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:56086
@@ -4125,7 +4125,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:36701
@@ -4135,7 +4135,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:52172
@@ -4145,7 +4145,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:54464
@@ -4155,7 +4155,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:34789
@@ -4165,7 +4165,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:41206
@@ -4175,7 +4175,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:53512
@@ -4185,7 +4185,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -4195,7 +4195,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:41118
@@ -4205,7 +4205,7 @@ Process:
   Total: 236 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -4215,7 +4215,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:43206
@@ -4225,7 +4225,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:42546
@@ -4235,7 +4235,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -4245,7 +4245,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:60953
@@ -4255,7 +4255,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:42925
@@ -4265,7 +4265,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:51191
@@ -4275,7 +4275,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -4285,7 +4285,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38376
@@ -4295,7 +4295,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:37372
@@ -4305,7 +4305,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:54296
@@ -4315,7 +4315,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:51173
@@ -4325,7 +4325,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:35826
@@ -4335,7 +4335,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:45229
@@ -4345,7 +4345,7 @@ Process:
   Total: 188 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:55512
@@ -4355,7 +4355,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:57180
@@ -4365,7 +4365,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:57256
@@ -4375,7 +4375,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:37758
@@ -4385,7 +4385,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:49761
@@ -4395,7 +4395,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:40549
@@ -4405,7 +4405,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:44037
@@ -4415,7 +4415,7 @@ Process:
   Total: 356 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:35829
@@ -4425,7 +4425,7 @@ Process:
   Total: 356 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:36762
@@ -4435,7 +4435,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:34289
@@ -4445,7 +4445,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:39092
@@ -4455,7 +4455,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:45917
@@ -4465,7 +4465,7 @@ Process:
   Total: 356 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:36907
@@ -4475,7 +4475,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:42378
@@ -4485,7 +4485,7 @@ Process:
   Total: 299 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:60759
@@ -4495,7 +4495,7 @@ Process:
   Total: 214 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:56437
@@ -4505,7 +4505,7 @@ Process:
   Total: 288 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:34186
@@ -4515,7 +4515,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:56709
@@ -4525,7 +4525,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:41308
@@ -4535,7 +4535,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:35651
@@ -4545,7 +4545,7 @@ Process:
   Total: 188 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:54661
@@ -4555,7 +4555,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:45049
@@ -4565,7 +4565,7 @@ Process:
   Total: 320 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:56740
@@ -4575,7 +4575,7 @@ Process:
   Total: 218 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:40173
@@ -4585,7 +4585,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:44490
@@ -4595,7 +4595,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38703
@@ -4605,7 +4605,7 @@ Process:
   Total: 196 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:60089
@@ -4615,7 +4615,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:59148
@@ -4625,7 +4625,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:32928
@@ -4635,7 +4635,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:59826
@@ -4645,7 +4645,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38281
@@ -4655,7 +4655,7 @@ Process:
   Total: 182 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:45107
@@ -4665,7 +4665,7 @@ Process:
   Total: 196 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:34141
@@ -4675,7 +4675,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:57104
@@ -4685,7 +4685,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:53049
@@ -4695,7 +4695,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:34095
@@ -4705,7 +4705,7 @@ Process:
   Total: 158 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:46371
@@ -4715,7 +4715,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:33983
@@ -4725,7 +4725,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:57291
@@ -4735,7 +4735,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:47116
@@ -4745,7 +4745,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:45143
@@ -4755,7 +4755,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:40089
@@ -4765,7 +4765,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:51506
@@ -4775,7 +4775,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:60630
@@ -4785,7 +4785,7 @@ Process:
   Total: 228 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:37406
@@ -4795,7 +4795,7 @@ Process:
   Total: 252 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:34475
@@ -4805,7 +4805,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:46781
@@ -4815,7 +4815,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:41006
@@ -4825,7 +4825,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:48442
@@ -4835,7 +4835,7 @@ Process:
   Total: 320 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:47871
@@ -4845,7 +4845,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:44799
@@ -4855,7 +4855,7 @@ Process:
   Total: 196 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:53292
@@ -4865,7 +4865,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39910
@@ -4875,7 +4875,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:56938
@@ -4885,7 +4885,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:48896
@@ -4895,7 +4895,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:57942
@@ -4905,7 +4905,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:60198
@@ -4915,7 +4915,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:54626
@@ -4925,7 +4925,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -4935,7 +4935,7 @@ Process:
   Total: 259 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38160
@@ -4945,7 +4945,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:33993
@@ -4955,7 +4955,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:51764
@@ -4965,7 +4965,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:40717
@@ -4975,7 +4975,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:36036
@@ -4985,7 +4985,7 @@ Process:
   Total: 372 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:47055
@@ -4995,7 +4995,7 @@ Process:
   Total: 288 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:40510
@@ -5005,7 +5005,7 @@ Process:
   Total: 214 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:43865
@@ -5015,7 +5015,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:37016
@@ -5025,7 +5025,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:55731
@@ -5035,7 +5035,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:49840
@@ -5045,7 +5045,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:53696
@@ -5055,7 +5055,7 @@ Process:
   Total: 368 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:39265
@@ -5065,7 +5065,7 @@ Process:
   Total: 168 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:58727
@@ -5075,7 +5075,7 @@ Process:
   Total: 150 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:32931
@@ -5085,7 +5085,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:57144
@@ -5095,7 +5095,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -5105,7 +5105,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:51754
@@ -5115,7 +5115,7 @@ Process:
   Total: 320 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:45789
@@ -5125,7 +5125,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:46129
@@ -5135,7 +5135,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:47117
@@ -5145,7 +5145,7 @@ Process:
   Total: 372 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:32919
@@ -5155,7 +5155,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:37075
@@ -5165,7 +5165,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:58374
@@ -5175,7 +5175,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:35214
@@ -5185,7 +5185,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:55620
@@ -5195,7 +5195,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39997
@@ -5205,7 +5205,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -5215,7 +5215,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:59157
@@ -5225,7 +5225,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:60367
@@ -5235,7 +5235,7 @@ Process:
   Total: 372 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:41739
@@ -5245,7 +5245,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:48863
@@ -5255,7 +5255,7 @@ Process:
   Total: 200 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:57507
@@ -5265,7 +5265,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:51646
@@ -5275,7 +5275,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:56154
@@ -5285,7 +5285,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:48724
@@ -5295,7 +5295,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:45767
@@ -5305,7 +5305,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:43206
@@ -5315,7 +5315,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:43998
@@ -5325,7 +5325,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:42274
@@ -5335,7 +5335,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:40283
@@ -5345,7 +5345,7 @@ Process:
   Total: 196 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:55417
@@ -5355,7 +5355,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:32833
@@ -5365,7 +5365,7 @@ Process:
   Total: 288 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:53169
@@ -5375,7 +5375,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:60438
@@ -5385,7 +5385,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:36882
@@ -5395,7 +5395,7 @@ Process:
   Total: 252 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:60916
@@ -5405,7 +5405,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:37735
@@ -5415,7 +5415,7 @@ Process:
   Total: 252 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:54165
@@ -5425,7 +5425,7 @@ Process:
   Total: 188 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:57036
@@ -5435,7 +5435,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:50197
@@ -5445,7 +5445,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:33223
@@ -5455,7 +5455,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:42718
@@ -5465,7 +5465,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:48101
@@ -5475,7 +5475,7 @@ Process:
   Total: 218 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:53094
@@ -5485,7 +5485,7 @@ Process:
   Total: 158 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:41131
@@ -5495,7 +5495,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:41301
@@ -5505,7 +5505,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:40848
@@ -5515,7 +5515,7 @@ Process:
   Total: 222 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:48622
@@ -5525,7 +5525,7 @@ Process:
   Total: 356 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:34352
@@ -5535,7 +5535,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:35852
@@ -5545,7 +5545,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38468
@@ -5555,7 +5555,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:54010
@@ -5565,7 +5565,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:57702
@@ -5575,7 +5575,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:41666
@@ -5585,7 +5585,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:42728
@@ -5595,7 +5595,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:49082
@@ -5605,7 +5605,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:40506
@@ -5615,7 +5615,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:45691
@@ -5625,7 +5625,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:36210
@@ -5635,7 +5635,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:38460
@@ -5645,7 +5645,7 @@ Process:
   Total: 252 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:48246
@@ -5655,7 +5655,7 @@ Process:
   Total: 288 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:42825
@@ -5665,7 +5665,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:37102
@@ -5675,7 +5675,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:39285
@@ -5685,7 +5685,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:39802
@@ -5695,7 +5695,7 @@ Process:
   Total: 256 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:60998
@@ -5705,7 +5705,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:32953
@@ -5715,7 +5715,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:33320
@@ -5725,7 +5725,7 @@ Process:
   Total: 158 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:35409
@@ -5735,7 +5735,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:34672
@@ -5745,7 +5745,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:46027
@@ -5755,7 +5755,7 @@ Process:
   Total: 256 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:43256
@@ -5765,7 +5765,7 @@ Process:
   Total: 222 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:44285
@@ -5775,7 +5775,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:58637
@@ -5785,7 +5785,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -5795,7 +5795,7 @@ Process:
   Total: 496 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:35305
@@ -5805,7 +5805,7 @@ Process:
   Total: 356 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:37625
@@ -5815,7 +5815,7 @@ Process:
   Total: 200 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:40263
@@ -5825,7 +5825,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:50642
@@ -5835,7 +5835,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:42798
@@ -5845,7 +5845,7 @@ Process:
   Total: 372 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:53023
@@ -5855,7 +5855,7 @@ Process:
   Total: 164 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:46717
@@ -5865,7 +5865,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:33287
@@ -5875,7 +5875,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:46839
@@ -5885,7 +5885,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:53692
@@ -5895,7 +5895,7 @@ Process:
   Total: 288 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:51833
@@ -5905,7 +5905,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:49871
@@ -5915,7 +5915,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:54494
@@ -5925,7 +5925,7 @@ Process:
   Total: 182 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:44812
@@ -5935,7 +5935,7 @@ Process:
   Total: 226 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:47624
@@ -5945,7 +5945,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:49857
@@ -5955,7 +5955,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:53932
@@ -5965,7 +5965,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:52703
@@ -5975,7 +5975,7 @@ Process:
   Total: 288 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:35395
@@ -5985,7 +5985,7 @@ Process:
   Total: 288 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 127.0.0.53:53
@@ -5995,7 +5995,7 @@ Process:
   Total: 214 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:57867
@@ -6005,7 +6005,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:55585
@@ -6015,7 +6015,7 @@ Process:
   Total: 160 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:37508
@@ -6025,7 +6025,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:34067
@@ -6035,7 +6035,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:44780
@@ -6045,7 +6045,7 @@ Process:
   Total: 194 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:33472
@@ -6055,7 +6055,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:38232
@@ -6065,7 +6065,7 @@ Process:
   Total: 260 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:46612
@@ -6075,7 +6075,7 @@ Process:
   Total: 244 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:41565
@@ -6085,7 +6085,7 @@ Process:
   Total: 320 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:39615
@@ -6095,7 +6095,7 @@ Process:
   Total: 224 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.22:44475
@@ -6105,7 +6105,7 @@ Process:
   Total: 304 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 193 | Username: systemd-resolve
 Process: 
   Source: 192.168.1.34:60021

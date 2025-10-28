@@ -1,11 +1,11 @@
 
-=== Network Statistics Report [2025-10-28 22:03:10] ===
+=== Network Statistics Report [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: chronyd
   Total: 6080 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:52146
@@ -15,7 +15,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:33936
@@ -25,7 +25,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:34530
@@ -35,7 +35,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:54369
@@ -45,7 +45,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:51959
@@ -55,7 +55,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:40701
@@ -65,7 +65,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:53100
@@ -75,7 +75,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:39443
@@ -85,7 +85,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:52582
@@ -95,7 +95,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:49355
@@ -105,7 +105,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:33345
@@ -115,7 +115,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:60163
@@ -125,7 +125,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:44398
@@ -135,7 +135,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:47227
@@ -145,7 +145,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:47835
@@ -155,7 +155,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:33215
@@ -165,7 +165,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:54483
@@ -175,7 +175,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:36186
@@ -185,7 +185,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:38187
@@ -195,7 +195,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:53958
@@ -205,7 +205,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:58484
@@ -215,7 +215,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:51810
@@ -225,7 +225,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:33102
@@ -235,7 +235,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:57107
@@ -245,7 +245,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:48226
@@ -255,7 +255,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:38129
@@ -265,7 +265,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:57390
@@ -275,7 +275,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:51130
@@ -285,7 +285,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:52191
@@ -295,7 +295,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:50125
@@ -305,7 +305,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:50281
@@ -315,7 +315,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:44635
@@ -325,7 +325,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:41207
@@ -335,7 +335,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:44073
@@ -345,7 +345,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:51596
@@ -355,7 +355,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:36539
@@ -365,7 +365,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:34381
@@ -375,7 +375,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:50178
@@ -385,7 +385,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:45700
@@ -395,7 +395,7 @@ Process:
   Total: 152 bytes
 ---
 
-=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+=== Per-Connection Statistics [2025-10-28 22:04:10] ===
 UID: 996 | Username: chrony
 Process: 
   Source: 192.168.1.22:55298
