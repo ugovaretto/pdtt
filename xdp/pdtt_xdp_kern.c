@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: BSD-3-Clause
+// SPDX-License-Identifier: GPL-2.0
 // Copyright (c) 2025 Ugo Varetto <ugo.varetto@pawsey.org.au>
 
 /**
@@ -25,6 +25,9 @@
  */
 
 #include <linux/types.h>
+#include <bpf/bpf_endian.h>
+#include <bpf/bpf_helpers.h>
+#include <bpf/bpf_tracing.h>
 #include <linux/bpf.h>
 #include <linux/if_ether.h>
 #include <linux/in.h>
@@ -34,9 +37,6 @@
 #include <linux/socket.h>
 #include <linux/tcp.h>
 #include <linux/udp.h>
-#include <bpf/bpf_endian.h>
-#include <bpf/bpf_helpers.h>
-#include <bpf/bpf_tracing.h>
 
 #define XDP_ACT_PASS 2
 #define MAX_USERS 1024
@@ -49,12 +49,12 @@
  * their network connections.
  */
 struct user_data_stats {
-  __u32 uid;           /** User ID */
-  __u64 tx_bytes;      /** Total bytes transmitted */
-  __u64 rx_bytes;      /** Total bytes received */
-  __u64 tx_packets;    /** Total packets transmitted */
-  __u64 rx_packets;    /** Total packets received */
-  char username[16];   /** Username (cached for convenience) */
+  __u32 uid;         /** User ID */
+  __u64 tx_bytes;    /** Total bytes transmitted */
+  __u64 rx_bytes;    /** Total bytes received */
+  __u64 tx_packets;  /** Total packets transmitted */
+  __u64 rx_packets;  /** Total packets received */
+  char username[16]; /** Username (cached for convenience) */
 };
 
 /**
@@ -66,10 +66,10 @@ struct user_data_stats {
  * consistency.
  */
 struct sock_key {
-  __u32 saddr;  /** Source IP address (network byte order) */
-  __u32 daddr;  /** Destination IP address (network byte order) */
-  __u16 sport;  /** Source port (network byte order) */
-  __u16 dport;  /** Destination port (network byte order) */
+  __u32 saddr; /** Source IP address (network byte order) */
+  __u32 daddr; /** Destination IP address (network byte order) */
+  __u16 sport; /** Source port (network byte order) */
+  __u16 dport; /** Destination port (network byte order) */
 };
 
 /**
@@ -80,15 +80,15 @@ struct sock_key {
  * including which user owns the connection.
  */
 struct conn_stats {
-  __u32 uid;          /** User ID owning this connection */
-  __u32 saddr;        /** Source IP address */
-  __u32 daddr;        /** Destination IP address */
-  __u16 sport;        /** Source port */
-  __u16 dport;        /** Destination port */
-  __u64 tx_bytes;     /** Bytes transmitted on this connection */
-  __u64 rx_bytes;     /** Bytes received on this connection */
-  __u64 tx_packets;   /** Packets transmitted on this connection */
-  __u64 rx_packets;   /** Packets received on this connection */
+  __u32 uid;        /** User ID owning this connection */
+  __u32 saddr;      /** Source IP address */
+  __u32 daddr;      /** Destination IP address */
+  __u16 sport;      /** Source port */
+  __u16 dport;      /** Destination port */
+  __u64 tx_bytes;   /** Bytes transmitted on this connection */
+  __u64 rx_bytes;   /** Bytes received on this connection */
+  __u64 tx_packets; /** Packets transmitted on this connection */
+  __u64 rx_packets; /** Packets received on this connection */
 };
 
 /**
@@ -224,18 +224,16 @@ int xdp_tracker_func(struct xdp_md *ctx) {
   __u32 *uid_ptr = bpf_map_lookup_elem(&conn_uid_map, &key);
   if (uid_ptr) {
     __u32 uid = *uid_ptr;
-    
+
     /* Update per-user statistics atomically */
-    struct user_data_stats *stats =
-        bpf_map_lookup_elem(&user_stats_map, &uid);
+    struct user_data_stats *stats = bpf_map_lookup_elem(&user_stats_map, &uid);
     if (stats) {
       __sync_fetch_and_add(&stats->rx_bytes, bytes);
       __sync_fetch_and_add(&stats->rx_packets, 1);
     }
 
     /* Update per-connection statistics atomically */
-    struct conn_stats *conn_stats =
-        bpf_map_lookup_elem(&conn_stats_map, &key);
+    struct conn_stats *conn_stats = bpf_map_lookup_elem(&conn_stats_map, &key);
     if (conn_stats) {
       __sync_fetch_and_add(&conn_stats->rx_bytes, bytes);
       __sync_fetch_and_add(&conn_stats->rx_packets, 1);
@@ -281,9 +279,9 @@ int sockops_tracker(struct bpf_sock_ops *skops) {
 
   /* Handle connection establishment events */
   switch (skops->op) {
-  case BPF_SOCK_OPS_ACTIVE_ESTABLISHED_CB:   /* Outgoing connection */
+  case BPF_SOCK_OPS_ACTIVE_ESTABLISHED_CB:    /* Outgoing connection */
   case BPF_SOCK_OPS_PASSIVE_ESTABLISHED_CB: { /* Incoming connection */
-    
+
     /* Build connection key from socket 4-tuple */
     struct sock_key key = {
         .saddr = skops->local_ip4,
@@ -295,8 +293,8 @@ int sockops_tracker(struct bpf_sock_ops *skops) {
 
     /* Debug logging */
     bpf_printk("SOCKOPS: local=%pI4:%d remote=%pI4:%d uid=%u",
-               &skops->local_ip4, skops->local_port,
-               &skops->remote_ip4, skops->remote_port, uid);
+               &skops->local_ip4, skops->local_port, &skops->remote_ip4,
+               skops->remote_port, uid);
 
     /* Store UID for this connection (enables XDP tracking) */
     bpf_map_update_elem(&conn_uid_map, &key, &uid, BPF_ANY);
@@ -313,12 +311,10 @@ int sockops_tracker(struct bpf_sock_ops *skops) {
         .tx_packets = 0,
         .rx_packets = 0,
     };
-    bpf_map_update_elem(&conn_stats_map, &key, &new_conn_stats,
-                        BPF_ANY);
+    bpf_map_update_elem(&conn_stats_map, &key, &new_conn_stats, BPF_ANY);
 
     /* Initialize per-user statistics if this is first connection */
-    struct user_data_stats *stats =
-        bpf_map_lookup_elem(&user_stats_map, &uid);
+    struct user_data_stats *stats = bpf_map_lookup_elem(&user_stats_map, &uid);
     if (!stats) {
       struct user_data_stats new_stats = {
           .uid = uid,
@@ -328,8 +324,7 @@ int sockops_tracker(struct bpf_sock_ops *skops) {
           .rx_packets = 0,
       };
       /* Cache process name for user-friendly display */
-      bpf_get_current_comm(&new_stats.username,
-                           sizeof(new_stats.username));
+      bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
       bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
     }
     break;
@@ -354,8 +349,7 @@ int sock_create_tracker(struct bpf_sock *sk __attribute__((unused))) {
   __u32 uid = bpf_get_current_uid_gid() & 0xFFFFFFFF;
 
   /* Initialize user stats entry if not exists */
-  struct user_data_stats *stats =
-      bpf_map_lookup_elem(&user_stats_map, &uid);
+  struct user_data_stats *stats = bpf_map_lookup_elem(&user_stats_map, &uid);
   if (!stats) {
     struct user_data_stats new_stats = {
         .uid = uid,
@@ -364,8 +358,7 @@ int sock_create_tracker(struct bpf_sock *sk __attribute__((unused))) {
         .tx_packets = 0,
         .rx_packets = 0,
     };
-    bpf_get_current_comm(&new_stats.username,
-                         sizeof(new_stats.username));
+    bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
     bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
   }
 
@@ -427,8 +420,8 @@ int cgroup_skb_ingress(struct __sk_buff *skb) {
    * (packet direction is remote→local, but we want local→remote key)
    */
   struct sock_key key = {
-      .saddr = iph->daddr,  /* Local (destination in packet) */
-      .daddr = iph->saddr,  /* Remote (source in packet) */
+      .saddr = iph->daddr, /* Local (destination in packet) */
+      .daddr = iph->saddr, /* Remote (source in packet) */
       .sport = 0,
       .dport = 0,
   };
@@ -438,8 +431,8 @@ int cgroup_skb_ingress(struct __sk_buff *skb) {
     struct tcphdr *tcph = (struct tcphdr *)(iph + 1);
     if ((void *)(tcph + 1) > data_end)
       return 1;
-    key.sport = tcph->dest;    /* Local port */
-    key.dport = tcph->source;  /* Remote port */
+    key.sport = tcph->dest;   /* Local port */
+    key.dport = tcph->source; /* Remote port */
   } else if (iph->protocol == IPPROTO_UDP) {
     struct udphdr *udph = (struct udphdr *)(iph + 1);
     if ((void *)(udph + 1) > data_end)
@@ -449,8 +442,7 @@ int cgroup_skb_ingress(struct __sk_buff *skb) {
   }
 
   /* Update or create per-user statistics */
-  struct user_data_stats *stats =
-      bpf_map_lookup_elem(&user_stats_map, &uid);
+  struct user_data_stats *stats = bpf_map_lookup_elem(&user_stats_map, &uid);
   if (!stats) {
     struct user_data_stats new_stats = {
         .uid = uid,
@@ -459,8 +451,7 @@ int cgroup_skb_ingress(struct __sk_buff *skb) {
         .tx_packets = 0,
         .rx_packets = 1,
     };
-    bpf_get_current_comm(&new_stats.username,
-                         sizeof(new_stats.username));
+    bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
     bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
   } else {
     __sync_fetch_and_add(&stats->rx_bytes, bytes);
@@ -468,8 +459,7 @@ int cgroup_skb_ingress(struct __sk_buff *skb) {
   }
 
   /* Update or create per-connection statistics */
-  struct conn_stats *conn_stats =
-      bpf_map_lookup_elem(&conn_stats_map, &key);
+  struct conn_stats *conn_stats = bpf_map_lookup_elem(&conn_stats_map, &key);
   if (!conn_stats) {
     struct conn_stats new_conn_stats = {
         .uid = uid,
@@ -482,8 +472,7 @@ int cgroup_skb_ingress(struct __sk_buff *skb) {
         .tx_packets = 0,
         .rx_packets = 1,
     };
-    bpf_map_update_elem(&conn_stats_map, &key, &new_conn_stats,
-                        BPF_ANY);
+    bpf_map_update_elem(&conn_stats_map, &key, &new_conn_stats, BPF_ANY);
   } else {
     __sync_fetch_and_add(&conn_stats->rx_bytes, bytes);
     __sync_fetch_and_add(&conn_stats->rx_packets, 1);
@@ -539,8 +528,8 @@ int cgroup_skb_egress(struct __sk_buff *skb) {
    * (no swapping needed for egress)
    */
   struct sock_key key = {
-      .saddr = iph->saddr,  /* Local (source in packet) */
-      .daddr = iph->daddr,  /* Remote (destination in packet) */
+      .saddr = iph->saddr, /* Local (source in packet) */
+      .daddr = iph->daddr, /* Remote (destination in packet) */
       .sport = 0,
       .dport = 0,
   };
@@ -560,8 +549,7 @@ int cgroup_skb_egress(struct __sk_buff *skb) {
   }
 
   /* Update or create per-user statistics */
-  struct user_data_stats *stats =
-      bpf_map_lookup_elem(&user_stats_map, &uid);
+  struct user_data_stats *stats = bpf_map_lookup_elem(&user_stats_map, &uid);
   if (!stats) {
     struct user_data_stats new_stats = {
         .uid = uid,
@@ -570,8 +558,7 @@ int cgroup_skb_egress(struct __sk_buff *skb) {
         .tx_packets = 1,
         .rx_packets = 0,
     };
-    bpf_get_current_comm(&new_stats.username,
-                         sizeof(new_stats.username));
+    bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
     bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
   } else {
     __sync_fetch_and_add(&stats->tx_bytes, bytes);
@@ -579,8 +566,7 @@ int cgroup_skb_egress(struct __sk_buff *skb) {
   }
 
   /* Update or create per-connection statistics */
-  struct conn_stats *conn_stats =
-      bpf_map_lookup_elem(&conn_stats_map, &key);
+  struct conn_stats *conn_stats = bpf_map_lookup_elem(&conn_stats_map, &key);
   if (!conn_stats) {
     struct conn_stats new_conn_stats = {
         .uid = uid,
@@ -593,8 +579,7 @@ int cgroup_skb_egress(struct __sk_buff *skb) {
         .tx_packets = 1,
         .rx_packets = 0,
     };
-    bpf_map_update_elem(&conn_stats_map, &key, &new_conn_stats,
-                        BPF_ANY);
+    bpf_map_update_elem(&conn_stats_map, &key, &new_conn_stats, BPF_ANY);
   } else {
     __sync_fetch_and_add(&conn_stats->tx_bytes, bytes);
     __sync_fetch_and_add(&conn_stats->tx_packets, 1);
@@ -621,15 +606,14 @@ int cgroup_skb_egress(struct __sk_buff *skb) {
 SEC("kprobe/tcp_sendmsg")
 int kprobe_tcp_sendmsg(struct pt_regs *ctx) {
   __u32 uid = bpf_get_current_uid_gid() & 0xFFFFFFFF;
-  __u64 size = PT_REGS_PARM3(ctx);  /* Third parameter = size */
+  __u64 size = PT_REGS_PARM3(ctx); /* Third parameter = size */
 
   /* Skip root and invalid UIDs */
   if (uid == 0 || uid == 0xFFFFFFFF)
     return 0;
 
   /* Update or create user statistics */
-  struct user_data_stats *stats =
-      bpf_map_lookup_elem(&user_stats_map, &uid);
+  struct user_data_stats *stats = bpf_map_lookup_elem(&user_stats_map, &uid);
   if (!stats) {
     struct user_data_stats new_stats = {
         .uid = uid,
@@ -638,8 +622,7 @@ int kprobe_tcp_sendmsg(struct pt_regs *ctx) {
         .tx_packets = 1,
         .rx_packets = 0,
     };
-    bpf_get_current_comm(&new_stats.username,
-                         sizeof(new_stats.username));
+    bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
     bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
   } else {
     __sync_fetch_and_add(&stats->tx_bytes, size);
@@ -668,14 +651,13 @@ int kprobe_tcp_sendmsg(struct pt_regs *ctx) {
 SEC("kprobe/tcp_cleanup_rbuf")
 int kprobe_tcp_cleanup_rbuf(struct pt_regs *ctx) {
   __u32 uid = bpf_get_current_uid_gid() & 0xFFFFFFFF;
-  __u64 copied = PT_REGS_PARM2(ctx);  /* Second parameter = copied */
+  __u64 copied = PT_REGS_PARM2(ctx); /* Second parameter = copied */
 
   /* Skip invalid cases */
   if (uid == 0 || uid == 0xFFFFFFFF || copied <= 0)
     return 0;
 
-  struct user_data_stats *stats =
-      bpf_map_lookup_elem(&user_stats_map, &uid);
+  struct user_data_stats *stats = bpf_map_lookup_elem(&user_stats_map, &uid);
   if (!stats) {
     struct user_data_stats new_stats = {
         .uid = uid,
@@ -684,8 +666,7 @@ int kprobe_tcp_cleanup_rbuf(struct pt_regs *ctx) {
         .tx_packets = 0,
         .rx_packets = 1,
     };
-    bpf_get_current_comm(&new_stats.username,
-                         sizeof(new_stats.username));
+    bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
     bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
   } else {
     __sync_fetch_and_add(&stats->rx_bytes, copied);
@@ -715,8 +696,7 @@ int kprobe_udp_sendmsg(struct pt_regs *ctx) {
   if (uid == 0 || uid == 0xFFFFFFFF)
     return 0;
 
-  struct user_data_stats *stats =
-      bpf_map_lookup_elem(&user_stats_map, &uid);
+  struct user_data_stats *stats = bpf_map_lookup_elem(&user_stats_map, &uid);
   if (!stats) {
     struct user_data_stats new_stats = {
         .uid = uid,
@@ -725,8 +705,7 @@ int kprobe_udp_sendmsg(struct pt_regs *ctx) {
         .tx_packets = 1,
         .rx_packets = 0,
     };
-    bpf_get_current_comm(&new_stats.username,
-                         sizeof(new_stats.username));
+    bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
     bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
   } else {
     __sync_fetch_and_add(&stats->tx_bytes, len);
@@ -756,8 +735,7 @@ int kprobe_udp_recvmsg(struct pt_regs *ctx) {
   if (uid == 0 || uid == 0xFFFFFFFF)
     return 0;
 
-  struct user_data_stats *stats =
-      bpf_map_lookup_elem(&user_stats_map, &uid);
+  struct user_data_stats *stats = bpf_map_lookup_elem(&user_stats_map, &uid);
   if (!stats) {
     struct user_data_stats new_stats = {
         .uid = uid,
@@ -766,8 +744,7 @@ int kprobe_udp_recvmsg(struct pt_regs *ctx) {
         .tx_packets = 0,
         .rx_packets = 1,
     };
-    bpf_get_current_comm(&new_stats.username,
-                         sizeof(new_stats.username));
+    bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
     bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
   } else {
     __sync_fetch_and_add(&stats->rx_bytes, len);
@@ -778,4 +755,4 @@ int kprobe_udp_recvmsg(struct pt_regs *ctx) {
 }
 
 /* License declaration required by eBPF verifier */
-char _license[] SEC("license") = "BSD-3-Clause";
+char _license[] SEC("license") = "GPL";

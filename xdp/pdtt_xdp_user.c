@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: BSD-3-Clause
+// SPDX-License-Identifier: GPL-2.0
 // Copyright (c) 2025 Ugo Varetto <ugo.varetto@pawsey.org.au>
 
 /**

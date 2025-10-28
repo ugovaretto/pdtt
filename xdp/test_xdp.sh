@@ -1,6 +1,6 @@
-# SPDX-License-Identifier: BSD-3-Clause
-# Copyright (c) 2025 Ugo Varetto <ugo.varetto@pawsey.org.au>
 #!/bin/bash
+# SPDX-License-Identifier: GPL-2.0
+# Copyright (c) 2025 Ugo Varetto <ugo.varetto@pawsey.org.au>
 
 set -e
 
@@ -27,11 +27,11 @@ if ! ip link show "$INTERFACE" >/dev/null 2>&1; then
 fi
 
 echo "Building the tool..."
-make build-xdp
+make build
 
 echo
 echo "Starting tracker in background (10 seconds)..."
-timeout 10 ./pdtt_xdp_user -i "$INTERFACE" -l "$LOG_FILE" -t 3 &
+timeout 10 ./pdtt_xdp_user -i "$INTERFACE" -p "$LOG_FILE" -t 3 &
 PID=$!
 
 sleep 2
