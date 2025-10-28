@@ -54,6 +54,7 @@ struct user_data_stats {
   __u64 rx_bytes;    /** Total bytes received */
   __u64 tx_packets;  /** Total packets transmitted */
   __u64 rx_packets;  /** Total packets received */
+  __u32 pid;         /** Process ID (from last connection) */
   char username[16]; /** Username (cached for convenience) */
 };
 
@@ -77,7 +78,7 @@ struct sock_key {
  * @brief Per-connection network statistics with user association
  *
  * Stores detailed statistics for individual network connections,
- * including which user owns the connection.
+ * including which user owns the connection and the process name.
  */
 struct conn_stats {
   __u32 uid;        /** User ID owning this connection */
@@ -89,6 +90,8 @@ struct conn_stats {
   __u64 rx_bytes;   /** Bytes received on this connection */
   __u64 tx_packets; /** Packets transmitted on this connection */
   __u64 rx_packets; /** Packets received on this connection */
+  __u32 pid;        /** Process ID */
+  char username[16]; /** Process name (cached for convenience) */
 };
 
 /**
@@ -310,7 +313,12 @@ int sockops_tracker(struct bpf_sock_ops *skops) {
         .rx_bytes = 0,
         .tx_packets = 0,
         .rx_packets = 0,
+        .pid = 0,
+        .username = "",
     };
+    /* Cache process ID and name for user-friendly display */
+    new_conn_stats.pid = bpf_get_current_pid_tgid() >> 32;
+    bpf_get_current_comm(&new_conn_stats.username, sizeof(new_conn_stats.username));
     bpf_map_update_elem(&conn_stats_map, &key, &new_conn_stats, BPF_ANY);
 
     /* Initialize per-user statistics if this is first connection */
@@ -322,8 +330,11 @@ int sockops_tracker(struct bpf_sock_ops *skops) {
           .rx_bytes = 0,
           .tx_packets = 0,
           .rx_packets = 0,
+          .pid = 0,
+          .username = "",
       };
-      /* Cache process name for user-friendly display */
+      /* Cache process ID and name for user-friendly display */
+      new_stats.pid = bpf_get_current_pid_tgid() >> 32;
       bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
       bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
     }
@@ -357,6 +368,8 @@ int sock_create_tracker(struct bpf_sock *sk __attribute__((unused))) {
         .rx_bytes = 0,
         .tx_packets = 0,
         .rx_packets = 0,
+        .pid = 0,
+        .username = "",
     };
     bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
     bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
@@ -450,6 +463,8 @@ int cgroup_skb_ingress(struct __sk_buff *skb) {
         .rx_bytes = bytes,
         .tx_packets = 0,
         .rx_packets = 1,
+        .pid = 0,
+        .username = "",
     };
     bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
     bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
@@ -471,6 +486,8 @@ int cgroup_skb_ingress(struct __sk_buff *skb) {
         .rx_bytes = bytes,
         .tx_packets = 0,
         .rx_packets = 1,
+        .pid = 0,
+        .username = "",
     };
     bpf_map_update_elem(&conn_stats_map, &key, &new_conn_stats, BPF_ANY);
   } else {
@@ -557,6 +574,8 @@ int cgroup_skb_egress(struct __sk_buff *skb) {
         .rx_bytes = 0,
         .tx_packets = 1,
         .rx_packets = 0,
+        .pid = 0,
+        .username = "",
     };
     bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
     bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
@@ -578,6 +597,8 @@ int cgroup_skb_egress(struct __sk_buff *skb) {
         .rx_bytes = 0,
         .tx_packets = 1,
         .rx_packets = 0,
+        .pid = 0,
+        .username = "",
     };
     bpf_map_update_elem(&conn_stats_map, &key, &new_conn_stats, BPF_ANY);
   } else {
@@ -621,6 +642,8 @@ int kprobe_tcp_sendmsg(struct pt_regs *ctx) {
         .rx_bytes = 0,
         .tx_packets = 1,
         .rx_packets = 0,
+        .pid = 0,
+        .username = "",
     };
     bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
     bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
@@ -665,6 +688,8 @@ int kprobe_tcp_cleanup_rbuf(struct pt_regs *ctx) {
         .rx_bytes = copied,
         .tx_packets = 0,
         .rx_packets = 1,
+        .pid = 0,
+        .username = "",
     };
     bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
     bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
@@ -704,6 +729,8 @@ int kprobe_udp_sendmsg(struct pt_regs *ctx) {
         .rx_bytes = 0,
         .tx_packets = 1,
         .rx_packets = 0,
+        .pid = 0,
+        .username = "",
     };
     bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
     bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);
@@ -743,6 +770,8 @@ int kprobe_udp_recvmsg(struct pt_regs *ctx) {
         .rx_bytes = len,
         .tx_packets = 0,
         .rx_packets = 1,
+        .pid = 0,
+        .username = "",
     };
     bpf_get_current_comm(&new_stats.username, sizeof(new_stats.username));
     bpf_map_update_elem(&user_stats_map, &uid, &new_stats, BPF_ANY);

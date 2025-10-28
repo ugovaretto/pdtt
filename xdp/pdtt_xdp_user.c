@@ -49,6 +49,7 @@ struct user_data_stats {
   __u64 rx_bytes;     /** Total bytes received */
   __u64 tx_packets;   /** Total packets transmitted */
   __u64 rx_packets;   /** Total packets received */
+  __u32 pid;          /** Process ID (from last connection) */
   char username[16];  /** Username (cached) */
 };
 
@@ -66,6 +67,9 @@ struct sock_key {
 /**
  * @struct conn_stats
  * @brief Per-connection statistics (matches kernel structure)
+ *
+ * Stores detailed statistics for individual network connections,
+ * including which user owns the connection and the process name.
  */
 struct conn_stats {
   __u32 uid;         /** User ID owning connection */
@@ -77,6 +81,8 @@ struct conn_stats {
   __u64 rx_bytes;    /** Bytes received */
   __u64 tx_packets;  /** Packets transmitted */
   __u64 rx_packets;  /** Packets received */
+  __u32 pid;         /** Process ID */
+  char username[16]; /** Process name */
 };
 
 #define DEFAULT_LOG_PREFIX "/var/log/pdtt"
@@ -172,7 +178,7 @@ void log_user_stats(int map_fd) {
               timestamp);
       fprintf(log_file, "UID: %u | Username: %s\n", stats.uid,
               username);
-      fprintf(log_file, "Process: %s\n", stats.username);
+      fprintf(log_file, "Process: %s (PID: %u)\n", stats.username, stats.pid);
       fprintf(log_file, "  Total: %llu bytes\n", total_bytes);
       fprintf(log_file, "---\n");
 
@@ -253,6 +259,7 @@ void log_connection_stats(int conn_map_fd) {
               timestamp);
       fprintf(log_file, "UID: %u | Username: %s\n", stats.uid,
               username);
+      fprintf(log_file, "Process: %s (PID: %u)\n", stats.username, stats.pid);
       fprintf(log_file, "  Source: %s:%u\n", saddr_str,
               ntohs(stats.sport));
       fprintf(log_file, "  Destination: %s:%u\n", daddr_str,

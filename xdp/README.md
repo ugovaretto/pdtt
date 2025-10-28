@@ -68,7 +68,7 @@ Each log file contains two types of entries:
 ```
 === Network Statistics Report [2024-01-15 10:30:00] ===
 UID: 1000 | Username: john
-Process: firefox
+Process: firefox (PID: 12345)
   Total: 1572864 bytes
 ---
 ```
@@ -77,6 +77,7 @@ Process: firefox
 ```
 === Per-Connection Statistics [2024-01-15 10:30:00] ===
 UID: 1000 | Username: john
+Process: firefox (PID: 12345)
   Source: 192.168.1.100:54321
   Destination: 93.184.216.34:80
   TX: 524288 bytes (1234 packets)
