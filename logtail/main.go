@@ -18,98 +18,125 @@ import (
 	"github.com/gorilla/websocket"
 )
 
-// Message represents data sent to clients
+// Message represents the JSON structure for WebSocket communication with clients
+// This is sent when files are modified or when listing monitored files
 type Message struct {
-	Type    string `json:"type"`
-	Path    string `json:"path"`
-	Content string `json:"content,omitempty"`
-	Size    int64  `json:"size,omitempty"`
-	Time    int64  `json:"time"`
+	Type    string `json:"type"`              // "change" for file updates, "files" for initial file list
+	Path    string `json:"path"`              // File path(s) - comma-separated for files type
+	Content string `json:"content,omitempty"` // New file content (only for "change" type)
+	Size    int64  `json:"size,omitempty"`    // Current file size (only for "change" type)
+	Time    int64  `json:"time"`              // Unix timestamp of the event
 }
 
-// Client represents a WebSocket client connection
+// Client represents an individual WebSocket client connection
+// Uses channels for thread-safe communication with the server's event loop
 type Client struct {
-	conn   *websocket.Conn
-	send   chan []byte
-	server *Server
+	conn   *websocket.Conn        // Active WebSocket connection
+	send   chan []byte           // Buffered channel for outgoing messages (prevent blocking)
+	server *Server               // Reference to parent server for unregistration
 }
 
-// Server holds the application state
+// Server manages all client connections and file monitoring
+// Uses channel-based architecture for thread-safe coordination
 type Server struct {
-	clients    map[*Client]bool
-	broadcast  chan []byte
-	register   chan *Client
-	unregister chan *Client
-	watcher    *fsnotify.Watcher
-	paths      map[string]bool
-	fileStates map[string]int64
-	mu         sync.RWMutex
+	clients    map[*Client]bool   // Set of active clients (using map for O(1) lookup/delete)
+	broadcast  chan []byte       // Channel for broadcasting messages to all clients
+	register   chan *Client      // Channel for new client connections
+	unregister chan *Client      // Channel for client disconnections
+	watcher    *fsnotify.Watcher // File system watcher for monitoring file changes
+	paths      map[string]bool   // Set of monitored file paths
+	fileStates map[string]int64  // Tracks file reading positions (for incremental reading)
+	mu         sync.RWMutex      // Mutex for thread-safe access to shared state
 }
 
+// upgrader handles HTTP to WebSocket upgrade requests
+// Configured to allow connections from any origin (for development/demo purposes)
+// In production, you should implement proper origin checking
 var upgrader = websocket.Upgrader{
-	ReadBufferSize:  1024,
-	WriteBufferSize: 1024,
+	ReadBufferSize:  1024,  // Size of read buffer for WebSocket frames
+	WriteBufferSize: 1024,  // Size of write buffer for WebSocket frames
 	CheckOrigin: func(r *http.Request) bool {
-		return true // Allow all origins for simplicity
+		return true // Allow all origins for simplicity - SECURITY: Restrict this in production!
 	},
 }
 
+// verbose is a global flag for enabling detailed logging across all functions
+// Set via -v command line flag
 var verbose *bool
 
+// NewServer creates and initializes a new Server instance
+// Sets up all necessary channels and the file system watcher
+// Returns a fully configured server ready to start
 func NewServer() *Server {
+	// Create file system watcher for monitoring file changes
+	// Uses inotify on Linux, kqueue on macOS, etc.
 	watcher, err := fsnotify.NewWatcher()
 	if err != nil {
-		log.Fatal(err)
+		log.Fatal(err) // Fatal error - cannot proceed without file watching capability
 	}
 
 	return &Server{
-		clients:    make(map[*Client]bool),
-		broadcast:  make(chan []byte),
-		register:   make(chan *Client),
-		unregister: make(chan *Client),
-		watcher:    watcher,
-		paths:      make(map[string]bool),
-		fileStates: make(map[string]int64),
+		clients:    make(map[*Client]bool),      // Map for O(1) client lookup and removal
+		broadcast:  make(chan []byte),           // Buffered channel to prevent broadcast blocking
+		register:   make(chan *Client),          // Channel for new client registration
+		unregister: make(chan *Client),          // Channel for client disconnection
+		watcher:    watcher,                     // File system event watcher
+		paths:      make(map[string]bool),       // Set for tracking monitored files
+		fileStates: make(map[string]int64),      // Map for tracking file read positions
 	}
 }
 
+// addPath adds a file, directory, or glob pattern to the monitoring list
+// Handles multiple input types:
+// - Regular files: directly added to watcher
+// - Directories: recursively walks and adds all files
+// - Glob patterns: expands pattern and adds matching files
+// Returns error if path doesn't exist and isn't a valid glob pattern
 func (s *Server) addPath(path string) error {
 	info, err := os.Stat(path)
 	if err != nil {
+		// Path doesn't exist - check if it's a glob pattern
 		if !os.IsNotExist(err) {
-			return err
+			return err // Return other stat errors (permissions, etc.)
 		}
-		// Check if it's a glob pattern
+
+		// Try to expand as glob pattern (e.g., *.log, /var/log/*.log)
 		matches, err := filepath.Glob(path)
 		if err != nil {
-			return err
+			return err // Invalid glob pattern
 		}
 		if len(matches) == 0 {
 			return fmt.Errorf("no files match pattern: %s", path)
 		}
+
+		// Recursively add all matching files/directories
 		for _, match := range matches {
 			if err := s.addPath(match); err != nil {
-				log.Printf("Warning: %v", err)
+				log.Printf("Warning: %v", err) // Log but continue processing other matches
 			}
 		}
 		return nil
 	}
 
+	// Handle directory vs file
 	if info.IsDir() {
+		// Recursively walk directory and add all files (not subdirectories)
 		return filepath.Walk(path, func(filePath string, info os.FileInfo, err error) error {
 			if err != nil {
-				return err
+				return err // Skip files that can't be accessed
 			}
 			if !info.IsDir() {
-				fullPath, _ := filepath.Abs(filePath)
+				// Add file to watcher and tracking
+				fullPath, _ := filepath.Abs(filePath) // Convert to absolute path for consistency
 				s.paths[fullPath] = true
 				s.watcher.Add(fullPath)
 				return nil
 			}
-			return nil
+			return nil // Skip directories during walk
 		})
 	} else {
-		fullPath, _ := filepath.Abs(path)
+		// Handle single file
+		fullPath, _ := filepath.Abs(path) // Convert to absolute path for consistency
 		s.paths[fullPath] = true
 		s.watcher.Add(fullPath)
 		return nil

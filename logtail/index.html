@@ -179,28 +179,35 @@
     </div>
 
     <script>
+        // Global variables for WebSocket connection and reconnection logic
         let ws;
         let reconnectAttempts = 0;
-        const maxReconnectAttempts = 5;
-        const reconnectDelay = 3000;
+        const maxReconnectAttempts = 5;  // Maximum number of reconnection attempts
+        const reconnectDelay = 3000;     // Delay between reconnection attempts (milliseconds)
 
+        // Establish WebSocket connection with automatic reconnection logic
         function connect() {
+            // Determine WebSocket protocol based on current page protocol (ws:// or wss://)
             const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
             const wsUrl = `${protocol}//${window.location.host}/ws`;
-            
+
             console.log('Connecting to:', wsUrl);
-            
+
             try {
+                // Create new WebSocket connection
                 ws = new WebSocket(wsUrl);
-                
+
+                // Handle successful connection
                 ws.onopen = function() {
                     console.log('WebSocket connected');
                     updateConnectionStatus(true);
-                    reconnectAttempts = 0;
+                    reconnectAttempts = 0;  // Reset reconnection counter on successful connect
                 };
-                
+
+                // Handle incoming messages from server
                 ws.onmessage = function(event) {
                     try {
+                        // Parse JSON message from server
                         const message = JSON.parse(event.data);
                         handleMessage(message);
                     } catch (e) {
@@ -208,11 +215,13 @@
                         addLogEntry('system', 'error', 'Invalid JSON received: ' + event.data);
                     }
                 };
-                
+
+                // Handle connection closure
                 ws.onclose = function(event) {
                     console.log('WebSocket closed:', event.code, event.reason);
                     updateConnectionStatus(false);
-                    
+
+                    // Attempt reconnection if under max attempts
                     if (reconnectAttempts < maxReconnectAttempts) {
                         setTimeout(() => {
                             reconnectAttempts++;
@@ -221,7 +230,8 @@
                         }, reconnectDelay);
                     }
                 };
-                
+
+                // Handle WebSocket errors
                 ws.onerror = function(error) {
                     console.error('WebSocket error:', error);
                     updateConnectionStatus(false);
@@ -232,17 +242,20 @@
             }
         }
 
+        // Update UI elements to reflect current WebSocket connection status
         function updateConnectionStatus(connected) {
             const indicator = document.getElementById('statusIndicator');
             const statusText = document.getElementById('statusText');
             const connectionStatus = document.getElementById('connectionStatus');
-            
+
             if (connected) {
+                // Update UI to show connected state
                 indicator.classList.add('connected');
                 statusText.textContent = 'Connected';
                 connectionStatus.textContent = 'Connected';
                 connectionStatus.classList.add('connected');
             } else {
+                // Update UI to show disconnected state
                 indicator.classList.remove('connected');
                 statusText.textContent = reconnectAttempts > 0 ? `Reconnecting... (${reconnectAttempts}/${maxReconnectAttempts})` : 'Offline';
                 connectionStatus.textContent = 'Disconnected';
@@ -250,12 +263,15 @@
             }
         }
 
+        // Route incoming messages to appropriate handlers based on message type
         function handleMessage(message) {
             switch (message.type) {
                 case 'change':
+                    // Handle file change notification from server
                     handleFileChange(message);
                     break;
                 case 'files':
+                    // Handle list of monitored files from server
                     handleFileList(message);
                     break;
                 default:
@@ -263,13 +279,15 @@
             }
         }
 
+        // Process file change notifications and display them as log entries
         function handleFileChange(message) {
-            const timestamp = new Date(message.time * 1000);
+            const timestamp = new Date(message.time * 1000);  // Convert Unix timestamp to Date object
             addLogEntry(message.path, 'change', message.content, timestamp);
         }
 
+        // Process the list of files being monitored by the server
         function handleFileList(message) {
-            const files = message.path.split(',').filter(file => file.trim());
+            const files = message.path.split(',').filter(file => file.trim());  // Split comma-separated file paths
             displayFileList(files);
         }
 
