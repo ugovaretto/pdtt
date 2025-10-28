@@ -1,0 +1,406 @@
+
+=== Network Statistics Report [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: chronyd
+  Total: 6080 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:52146
+  Destination: 13.55.50.68:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:33936
+  Destination: 159.196.3.239:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:34530
+  Destination: 162.159.200.1:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:54369
+  Destination: 159.196.3.239:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:51959
+  Destination: 13.55.50.68:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:40701
+  Destination: 159.196.3.239:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:53100
+  Destination: 159.196.3.239:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:39443
+  Destination: 162.159.200.1:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:52582
+  Destination: 159.196.3.239:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:49355
+  Destination: 13.55.50.68:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:33345
+  Destination: 139.180.160.82:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:60163
+  Destination: 159.196.3.239:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:44398
+  Destination: 13.55.50.68:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:47227
+  Destination: 162.159.200.1:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:47835
+  Destination: 13.55.50.68:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:33215
+  Destination: 139.180.160.82:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:54483
+  Destination: 159.196.3.239:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:36186
+  Destination: 159.196.3.239:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:38187
+  Destination: 13.55.50.68:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:53958
+  Destination: 13.55.50.68:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:58484
+  Destination: 139.180.160.82:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:51810
+  Destination: 139.180.160.82:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:33102
+  Destination: 139.180.160.82:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:57107
+  Destination: 162.159.200.1:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:48226
+  Destination: 162.159.200.1:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:38129
+  Destination: 162.159.200.1:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:57390
+  Destination: 162.159.200.1:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:51130
+  Destination: 162.159.200.1:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:52191
+  Destination: 139.180.160.82:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:50125
+  Destination: 159.196.3.239:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:50281
+  Destination: 13.55.50.68:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:44635
+  Destination: 139.180.160.82:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:41207
+  Destination: 159.196.3.239:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:44073
+  Destination: 139.180.160.82:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:51596
+  Destination: 162.159.200.1:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:36539
+  Destination: 139.180.160.82:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:34381
+  Destination: 162.159.200.1:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:50178
+  Destination: 13.55.50.68:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:45700
+  Destination: 13.55.50.68:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 996 | Username: chrony
+Process: 
+  Source: 192.168.1.22:55298
+  Destination: 139.180.160.82:123
+  TX: 76 bytes (1 packets)
+  RX: 76 bytes (1 packets)
+  Total: 152 bytes
+---

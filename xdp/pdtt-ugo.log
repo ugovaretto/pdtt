@@ -1,0 +1,5536 @@
+
+=== Network Statistics Report [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: swapper/0
+  Total: 133417155 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:48136
+  Destination: 13.227.180.4:443
+  TX: 2925 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9340 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33834
+  Destination: 4.237.22.38:443
+  TX: 2059 bytes (15 packets)
+  RX: 6335 bytes (14 packets)
+  Total: 8394 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:50944
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9458 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36108
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46550
+  Destination: 104.192.143.13:443
+  TX: 1789 bytes (10 packets)
+  RX: 4971 bytes (7 packets)
+  Total: 6760 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56168
+  Destination: 13.227.180.4:443
+  TX: 2991 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9458 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33614
+  Destination: 13.227.180.4:443
+  TX: 2994 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:45699
+  Destination: 127.0.0.53:53
+  TX: 73 bytes (1 packets)
+  RX: 121 bytes (1 packets)
+  Total: 194 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47076
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34588
+  Destination: 140.82.114.21:443
+  TX: 2109 bytes (17 packets)
+  RX: 11871 bytes (15 packets)
+  Total: 13980 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:41934
+  Destination: 13.227.180.4:443
+  TX: 3302 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9821 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37042
+  Destination: 13.227.180.4:443
+  TX: 3011 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9478 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56218
+  Destination: 34.128.128.0:443
+  TX: 1641 bytes (11 packets)
+  RX: 5498 bytes (7 packets)
+  Total: 7139 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:33759
+  Destination: 127.0.0.53:53
+  TX: 73 bytes (1 packets)
+  RX: 151 bytes (1 packets)
+  Total: 224 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37028
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59584
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37898
+  Destination: 4.237.22.41:443
+  TX: 8072 bytes (22 packets)
+  RX: 17640 bytes (23 packets)
+  Total: 25712 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33976
+  Destination: 4.237.22.38:443
+  TX: 2142 bytes (16 packets)
+  RX: 6639 bytes (16 packets)
+  Total: 8781 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33794
+  Destination: 4.237.22.38:443
+  TX: 2193 bytes (18 packets)
+  RX: 12013 bytes (17 packets)
+  Total: 14206 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47112
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9562 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:53976
+  Destination: 104.192.143.12:443
+  TX: 1789 bytes (10 packets)
+  RX: 4994 bytes (7 packets)
+  Total: 6783 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:35270
+  Destination: 13.227.180.4:443
+  TX: 2028 bytes (11 packets)
+  RX: 6725 bytes (9 packets)
+  Total: 8753 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37022
+  Destination: 13.227.180.4:443
+  TX: 2994 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9513 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46206
+  Destination: 13.227.180.4:443
+  TX: 2744 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9211 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:42944
+  Destination: 104.192.143.12:443
+  TX: 2047 bytes (13 packets)
+  RX: 5555 bytes (9 packets)
+  Total: 7602 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47114
+  Destination: 13.227.180.4:443
+  TX: 3256 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9671 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:50394
+  Destination: 52.71.220.158:443
+  TX: 5119 bytes (43 packets)
+  RX: 9918 bytes (44 packets)
+  Total: 15037 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46342
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:43622
+  Destination: 13.227.180.4:443
+  TX: 2984 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9451 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36120
+  Destination: 13.227.180.4:443
+  TX: 2939 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9354 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56152
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9562 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33796
+  Destination: 4.237.22.38:443
+  TX: 2107 bytes (16 packets)
+  RX: 10683 bytes (15 packets)
+  Total: 12790 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:43274
+  Destination: 13.227.180.4:443
+  TX: 2256 bytes (12 packets)
+  RX: 6550 bytes (9 packets)
+  Total: 8806 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56286
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9458 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33874
+  Destination: 4.237.22.38:443
+  TX: 2236 bytes (18 packets)
+  RX: 7261 bytes (18 packets)
+  Total: 9497 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46386
+  Destination: 13.227.180.4:443
+  TX: 2994 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59468
+  Destination: 13.227.180.4:443
+  TX: 2994 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38166
+  Destination: 13.227.180.4:443
+  TX: 3234 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9701 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34738
+  Destination: 13.227.180.4:443
+  TX: 2939 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9406 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36870
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59984
+  Destination: 13.227.180.4:443
+  TX: 2371 bytes (14 packets)
+  RX: 7223 bytes (11 packets)
+  Total: 9594 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38852
+  Destination: 13.227.180.4:443
+  TX: 2973 bytes (12 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9492 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33930
+  Destination: 4.237.22.38:443
+  TX: 2055 bytes (15 packets)
+  RX: 5884 bytes (14 packets)
+  Total: 7939 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37074
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59554
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:41090
+  Destination: 104.18.3.115:443
+  TX: 19980984 bytes (3062 packets)
+  RX: 879846 bytes (6110 packets)
+  Total: 20860830 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33746
+  Destination: 4.237.22.38:443
+  TX: 2413 bytes (22 packets)
+  RX: 20321 bytes (21 packets)
+  Total: 22734 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38850
+  Destination: 13.227.180.4:443
+  TX: 2939 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9406 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59466
+  Destination: 34.120.195.249:443
+  TX: 6580 bytes (14 packets)
+  RX: 5113 bytes (20 packets)
+  Total: 11693 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:32810
+  Destination: 127.0.0.53:53
+  TX: 83 bytes (1 packets)
+  RX: 176 bytes (1 packets)
+  Total: 259 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60330
+  Destination: 13.227.180.4:443
+  TX: 2939 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9406 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46858
+  Destination: 34.128.128.0:443
+  TX: 1641 bytes (11 packets)
+  RX: 5611 bytes (9 packets)
+  Total: 7252 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36952
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59536
+  Destination: 13.227.180.4:443
+  TX: 3029 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9548 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47908
+  Destination: 13.227.180.4:443
+  TX: 2939 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9354 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59668
+  Destination: 13.227.180.4:443
+  TX: 3029 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9496 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:42932
+  Destination: 13.227.180.4:443
+  TX: 3255 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9722 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38698
+  Destination: 140.82.112.22:443
+  TX: 4169 bytes (15 packets)
+  RX: 7203 bytes (13 packets)
+  Total: 11372 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47038
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:34113
+  Destination: 127.0.0.53:53
+  TX: 73 bytes (1 packets)
+  RX: 151 bytes (1 packets)
+  Total: 224 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60842
+  Destination: 34.128.128.0:443
+  TX: 1641 bytes (11 packets)
+  RX: 5589 bytes (8 packets)
+  Total: 7230 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:49978
+  Destination: 13.227.180.4:443
+  TX: 3001 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9468 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51444
+  Destination: 4.237.22.38:443
+  TX: 2117 bytes (16 packets)
+  RX: 5973 bytes (12 packets)
+  Total: 8090 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:35318
+  Destination: 13.227.180.4:443
+  TX: 2744 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9211 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47956
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9458 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59552
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46168
+  Destination: 13.227.180.4:443
+  TX: 2408 bytes (12 packets)
+  RX: 6531 bytes (10 packets)
+  Total: 8939 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46374
+  Destination: 13.227.180.4:443
+  TX: 2994 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9513 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37098
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36954
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59506
+  Destination: 13.227.180.4:443
+  TX: 2994 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:50016
+  Destination: 13.227.180.4:443
+  TX: 2452 bytes (12 packets)
+  RX: 6531 bytes (10 packets)
+  Total: 8983 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36762
+  Destination: 104.192.143.13:443
+  TX: 1789 bytes (10 packets)
+  RX: 5024 bytes (8 packets)
+  Total: 6813 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34748
+  Destination: 13.227.180.4:443
+  TX: 3095 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9614 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51298
+  Destination: 4.237.22.38:443
+  TX: 2251 bytes (19 packets)
+  RX: 12902 bytes (16 packets)
+  Total: 15153 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51248
+  Destination: 4.237.22.38:443
+  TX: 2189 bytes (18 packets)
+  RX: 8205 bytes (15 packets)
+  Total: 10394 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:44093
+  Destination: 127.0.0.53:53
+  TX: 83 bytes (1 packets)
+  RX: 99 bytes (1 packets)
+  Total: 182 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51346
+  Destination: 4.237.22.38:443
+  TX: 3534 bytes (23 packets)
+  RX: 11088 bytes (18 packets)
+  Total: 14622 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38174
+  Destination: 13.227.180.4:443
+  TX: 2965 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9380 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51410
+  Destination: 4.237.22.38:443
+  TX: 2133 bytes (16 packets)
+  RX: 10236 bytes (15 packets)
+  Total: 12369 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51314
+  Destination: 4.237.22.38:443
+  TX: 2153 bytes (17 packets)
+  RX: 12018 bytes (17 packets)
+  Total: 14171 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59730
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:43244
+  Destination: 13.227.180.4:443
+  TX: 2028 bytes (11 packets)
+  RX: 6725 bytes (9 packets)
+  Total: 8753 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:35284
+  Destination: 13.227.180.4:443
+  TX: 2001 bytes (11 packets)
+  RX: 6390 bytes (10 packets)
+  Total: 8391 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:43896
+  Destination: 13.227.180.4:443
+  TX: 1612 bytes (14 packets)
+  RX: 6990 bytes (13 packets)
+  Total: 8602 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:50916
+  Destination: 13.227.180.4:443
+  TX: 2925 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9340 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:57290
+  Destination: 4.237.22.34:443
+  TX: 1584 bytes (14 packets)
+  RX: 7625 bytes (11 packets)
+  Total: 9209 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59524
+  Destination: 13.227.180.4:443
+  TX: 3029 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9496 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:57390
+  Destination: 127.0.0.53:53
+  TX: 73 bytes (1 packets)
+  RX: 121 bytes (1 packets)
+  Total: 194 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51208
+  Destination: 4.237.22.38:443
+  TX: 2147 bytes (17 packets)
+  RX: 6783 bytes (15 packets)
+  Total: 8930 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56176
+  Destination: 13.227.180.4:443
+  TX: 2973 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9388 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36864
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:41992
+  Destination: 13.227.180.4:443
+  TX: 2972 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9439 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33900
+  Destination: 4.237.22.38:443
+  TX: 2224 bytes (18 packets)
+  RX: 12902 bytes (16 packets)
+  Total: 15126 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60536
+  Destination: 13.227.180.4:443
+  TX: 2925 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9340 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33918
+  Destination: 4.237.22.38:443
+  TX: 2138 bytes (16 packets)
+  RX: 6564 bytes (16 packets)
+  Total: 8702 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:47775
+  Destination: 127.0.0.53:53
+  TX: 73 bytes (1 packets)
+  RX: 151 bytes (1 packets)
+  Total: 224 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46520
+  Destination: 104.192.143.13:443
+  TX: 1935 bytes (11 packets)
+  RX: 5111 bytes (8 packets)
+  Total: 7046 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33640
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:60588
+  Destination: 127.0.0.53:53
+  TX: 73 bytes (1 packets)
+  RX: 121 bytes (1 packets)
+  Total: 194 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51484
+  Destination: 4.237.22.38:443
+  TX: 2143 bytes (17 packets)
+  RX: 8950 bytes (14 packets)
+  Total: 11093 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37222
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51260
+  Destination: 4.237.22.38:443
+  TX: 2141 bytes (17 packets)
+  RX: 6855 bytes (14 packets)
+  Total: 8996 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60358
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9562 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:48074
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46436
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33772
+  Destination: 4.237.22.38:443
+  TX: 2147 bytes (17 packets)
+  RX: 8245 bytes (15 packets)
+  Total: 10392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:40406
+  Destination: 140.82.113.22:443
+  TX: 2484 bytes (23 packets)
+  RX: 34170 bytes (21 packets)
+  Total: 36654 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37128
+  Destination: 13.227.180.4:443
+  TX: 3011 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9426 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:48568
+  Destination: 104.192.143.16:443
+  TX: 66020 bytes (92 packets)
+  RX: 42424 bytes (118 packets)
+  Total: 108444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56762
+  Destination: 104.192.143.14:443
+  TX: 2163 bytes (15 packets)
+  RX: 5765 bytes (13 packets)
+  Total: 7928 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:43640
+  Destination: 13.227.180.4:443
+  TX: 3095 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9562 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33760
+  Destination: 4.237.22.38:443
+  TX: 2059 bytes (15 packets)
+  RX: 5701 bytes (14 packets)
+  Total: 7760 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:35330
+  Destination: 13.227.180.4:443
+  TX: 2308 bytes (13 packets)
+  RX: 6602 bytes (10 packets)
+  Total: 8910 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33936
+  Destination: 4.237.22.38:443
+  TX: 2077 bytes (15 packets)
+  RX: 5827 bytes (14 packets)
+  Total: 7904 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37050
+  Destination: 13.227.180.4:443
+  TX: 3011 bytes (12 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9530 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59540
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9458 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:57330
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:52402
+  Destination: 140.82.113.21:443
+  TX: 9099 bytes (17 packets)
+  RX: 7160 bytes (14 packets)
+  Total: 16259 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59712
+  Destination: 13.227.180.4:443
+  TX: 3011 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9426 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:49960
+  Destination: 13.227.180.4:443
+  TX: 2984 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9503 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56142
+  Destination: 13.227.180.4:443
+  TX: 3029 bytes (13 packets)
+  RX: 6571 bytes (12 packets)
+  Total: 9600 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:53098
+  Destination: 140.82.114.22:443
+  TX: 60 bytes (1 packets)
+  RX: 0 bytes (0 packets)
+  Total: 60 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47892
+  Destination: 13.227.180.4:443
+  TX: 2931 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9346 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56162
+  Destination: 13.227.180.4:443
+  TX: 3256 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9671 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33794
+  Destination: 104.192.143.14:443
+  TX: 1793 bytes (10 packets)
+  RX: 4971 bytes (7 packets)
+  Total: 6764 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33656
+  Destination: 13.227.180.4:443
+  TX: 3011 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9478 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:53850
+  Destination: 140.82.113.21:443
+  TX: 4169 bytes (15 packets)
+  RX: 7179 bytes (13 packets)
+  Total: 11348 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36910
+  Destination: 13.227.180.4:443
+  TX: 2994 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9513 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56232
+  Destination: 13.227.180.4:443
+  TX: 2994 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47088
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:49120
+  Destination: 140.82.113.21:443
+  TX: 2213 bytes (19 packets)
+  RX: 11950 bytes (16 packets)
+  Total: 14163 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:57845
+  Destination: 127.0.0.53:53
+  TX: 73 bytes (1 packets)
+  RX: 121 bytes (1 packets)
+  Total: 194 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59702
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:50002
+  Destination: 13.227.180.4:443
+  TX: 3385 bytes (12 packets)
+  RX: 6889 bytes (10 packets)
+  Total: 10274 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60578
+  Destination: 13.227.180.4:443
+  TX: 2959 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9374 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:41948
+  Destination: 13.227.180.4:443
+  TX: 2983 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9502 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34336
+  Destination: 104.192.143.16:443
+  TX: 258808 bytes (317 packets)
+  RX: 162470 bytes (483 packets)
+  Total: 421278 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59582
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36046
+  Destination: 140.82.113.22:443
+  TX: 6457 bytes (14 packets)
+  RX: 7031 bytes (12 packets)
+  Total: 13488 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:45716
+  Destination: 34.120.195.249:443
+  TX: 6571 bytes (16 packets)
+  RX: 5061 bytes (19 packets)
+  Total: 11632 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36126
+  Destination: 13.227.180.4:443
+  TX: 3953 bytes (29 packets)
+  RX: 14211 bytes (18 packets)
+  Total: 18164 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:47367
+  Destination: 127.0.0.53:53
+  TX: 134 bytes (2 packets)
+  RX: 398 bytes (2 packets)
+  Total: 532 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:53858
+  Destination: 140.82.113.21:443
+  TX: 2326 bytes (20 packets)
+  RX: 34033 bytes (19 packets)
+  Total: 36359 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59690
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36756
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9458 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51198
+  Destination: 4.237.22.38:443
+  TX: 2151 bytes (17 packets)
+  RX: 5689 bytes (14 packets)
+  Total: 7840 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38844
+  Destination: 13.227.180.4:443
+  TX: 3261 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9728 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:50702
+  Destination: 140.82.114.22:443
+  TX: 1828 bytes (16 packets)
+  RX: 20209 bytes (14 packets)
+  Total: 22037 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34074
+  Destination: 4.237.22.38:443
+  TX: 2067 bytes (15 packets)
+  RX: 5878 bytes (14 packets)
+  Total: 7945 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:40198
+  Destination: 13.227.180.4:443
+  TX: 3264 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9731 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:53198
+  Destination: 4.237.22.41:443
+  TX: 12369 bytes (54 packets)
+  RX: 130196 bytes (95 packets)
+  Total: 142565 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34058
+  Destination: 13.227.180.4:443
+  TX: 3255 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9722 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37374
+  Destination: 104.192.143.12:443
+  TX: 3591 bytes (43 packets)
+  RX: 104097 bytes (43 packets)
+  Total: 107688 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60316
+  Destination: 13.227.180.4:443
+  TX: 3251 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9718 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:35266
+  Destination: 13.227.180.4:443
+  TX: 2233 bytes (27 packets)
+  RX: 7143 bytes (14 packets)
+  Total: 9376 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33884
+  Destination: 4.237.22.38:443
+  TX: 2049 bytes (15 packets)
+  RX: 6170 bytes (15 packets)
+  Total: 8219 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46328
+  Destination: 13.227.180.4:443
+  TX: 3313 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9832 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51480
+  Destination: 4.237.22.38:443
+  TX: 2159 bytes (17 packets)
+  RX: 5869 bytes (14 packets)
+  Total: 8028 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51224
+  Destination: 4.237.22.38:443
+  TX: 2089 bytes (16 packets)
+  RX: 7719 bytes (13 packets)
+  Total: 9808 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:50454
+  Destination: 34.128.128.0:443
+  TX: 1641 bytes (11 packets)
+  RX: 5697 bytes (9 packets)
+  Total: 7338 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33966
+  Destination: 4.237.22.38:443
+  TX: 2140 bytes (16 packets)
+  RX: 6788 bytes (16 packets)
+  Total: 8928 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33682
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60470
+  Destination: 13.227.180.4:443
+  TX: 2925 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46170
+  Destination: 13.227.180.4:443
+  TX: 2028 bytes (11 packets)
+  RX: 6777 bytes (10 packets)
+  Total: 8805 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36110
+  Destination: 13.227.180.4:443
+  TX: 3011 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9478 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:52539
+  Destination: 127.0.0.53:53
+  TX: 83 bytes (1 packets)
+  RX: 99 bytes (1 packets)
+  Total: 182 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47890
+  Destination: 13.227.180.4:443
+  TX: 3234 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9649 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59738
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34010
+  Destination: 4.237.22.38:443
+  TX: 2065 bytes (15 packets)
+  RX: 6171 bytes (14 packets)
+  Total: 8236 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:52194
+  Destination: 104.192.143.16:443
+  TX: 764 bytes (7 packets)
+  RX: 3374 bytes (5 packets)
+  Total: 4138 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:44922
+  Destination: 4.237.22.38:443
+  TX: 8786 bytes (17 packets)
+  RX: 6632 bytes (17 packets)
+  Total: 15418 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59562
+  Destination: 13.227.180.4:443
+  TX: 2925 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9340 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33524
+  Destination: 140.82.114.22:443
+  TX: 7532 bytes (22 packets)
+  RX: 12723 bytes (21 packets)
+  Total: 20255 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:40394
+  Destination: 140.82.113.22:443
+  TX: 4169 bytes (15 packets)
+  RX: 7203 bytes (13 packets)
+  Total: 11372 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59858
+  Destination: 104.192.143.16:443
+  TX: 141814 bytes (182 packets)
+  RX: 86891 bytes (200 packets)
+  Total: 228705 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:57496
+  Destination: 104.192.143.14:443
+  TX: 1935 bytes (11 packets)
+  RX: 5110 bytes (8 packets)
+  Total: 7045 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:41360
+  Destination: 104.192.143.16:443
+  TX: 2079 bytes (14 packets)
+  RX: 4474 bytes (10 packets)
+  Total: 6553 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:53518
+  Destination: 13.227.180.4:443
+  TX: 2496 bytes (13 packets)
+  RX: 6531 bytes (10 packets)
+  Total: 9027 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37036
+  Destination: 13.227.180.4:443
+  TX: 3115 bytes (14 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9634 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:48592
+  Destination: 140.82.112.22:443
+  TX: 33926 bytes (26 packets)
+  RX: 8321 bytes (26 packets)
+  Total: 42247 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36118
+  Destination: 13.227.180.4:443
+  TX: 3255 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9670 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59652
+  Destination: 13.227.180.4:443
+  TX: 275056 bytes (397 packets)
+  RX: 74410 bytes (423 packets)
+  Total: 349466 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59498
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46408
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46414
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33868
+  Destination: 4.237.22.38:443
+  TX: 2188 bytes (17 packets)
+  RX: 8005 bytes (17 packets)
+  Total: 10193 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51288
+  Destination: 4.237.22.38:443
+  TX: 2111 bytes (16 packets)
+  RX: 6388 bytes (15 packets)
+  Total: 8499 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36866
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38200
+  Destination: 13.227.180.4:443
+  TX: 2931 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9346 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51430
+  Destination: 4.237.22.38:443
+  TX: 2157 bytes (17 packets)
+  RX: 6094 bytes (13 packets)
+  Total: 8251 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:48582
+  Destination: 140.82.112.22:443
+  TX: 1723 bytes (15 packets)
+  RX: 8154 bytes (11 packets)
+  Total: 9877 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37156
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51426
+  Destination: 4.237.22.38:443
+  TX: 2089 bytes (16 packets)
+  RX: 6409 bytes (13 packets)
+  Total: 8498 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:35304
+  Destination: 13.227.180.4:443
+  TX: 2152 bytes (13 packets)
+  RX: 7154 bytes (11 packets)
+  Total: 9306 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59756
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47934
+  Destination: 13.227.180.4:443
+  TX: 2973 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9440 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51354
+  Destination: 4.237.22.38:443
+  TX: 2099 bytes (16 packets)
+  RX: 5632 bytes (13 packets)
+  Total: 7731 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37318
+  Destination: 13.227.180.4:443
+  TX: 3115 bytes (14 packets)
+  RX: 6571 bytes (12 packets)
+  Total: 9686 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60300
+  Destination: 13.227.180.4:443
+  TX: 2965 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9380 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:40214
+  Destination: 13.227.180.4:443
+  TX: 2255 bytes (12 packets)
+  RX: 7217 bytes (10 packets)
+  Total: 9472 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47130
+  Destination: 13.227.180.4:443
+  TX: 2959 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9374 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51470
+  Destination: 4.237.22.38:443
+  TX: 2099 bytes (16 packets)
+  RX: 8353 bytes (15 packets)
+  Total: 10452 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47064
+  Destination: 13.227.180.4:443
+  TX: 2976 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9391 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33288
+  Destination: 104.192.143.15:443
+  TX: 79567 bytes (100 packets)
+  RX: 49382 bytes (106 packets)
+  Total: 128949 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46438
+  Destination: 13.227.180.4:443
+  TX: 2994 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46186
+  Destination: 13.227.180.4:443
+  TX: 2028 bytes (11 packets)
+  RX: 6673 bytes (8 packets)
+  Total: 8701 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:43980
+  Destination: 104.192.143.15:443
+  TX: 63998 bytes (91 packets)
+  RX: 40970 bytes (111 packets)
+  Total: 104968 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34070
+  Destination: 4.237.22.38:443
+  TX: 2105 bytes (16 packets)
+  RX: 6600 bytes (15 packets)
+  Total: 8705 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33770
+  Destination: 4.237.22.38:443
+  TX: 2059 bytes (15 packets)
+  RX: 5697 bytes (14 packets)
+  Total: 7756 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56472
+  Destination: 34.128.128.0:443
+  TX: 1641 bytes (11 packets)
+  RX: 5565 bytes (8 packets)
+  Total: 7206 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37246
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59456
+  Destination: 13.227.180.4:443
+  TX: 2994 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33950
+  Destination: 4.237.22.38:443
+  TX: 2053 bytes (15 packets)
+  RX: 5838 bytes (14 packets)
+  Total: 7891 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:45936
+  Destination: 13.227.180.4:443
+  TX: 2973 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9388 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:48762
+  Destination: 4.237.22.34:443
+  TX: 1636 bytes (15 packets)
+  RX: 7680 bytes (12 packets)
+  Total: 9316 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34762
+  Destination: 34.128.128.0:443
+  TX: 1641 bytes (11 packets)
+  RX: 5627 bytes (7 packets)
+  Total: 7268 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:33317
+  Destination: 127.0.0.53:53
+  TX: 73 bytes (1 packets)
+  RX: 121 bytes (1 packets)
+  Total: 194 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47912
+  Destination: 13.227.180.4:443
+  TX: 2939 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9354 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38176
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9458 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:53332
+  Destination: 34.128.128.0:443
+  TX: 1641 bytes (11 packets)
+  RX: 5427 bytes (7 packets)
+  Total: 7068 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33712
+  Destination: 4.237.22.38:443
+  TX: 2350 bytes (20 packets)
+  RX: 13083 bytes (19 packets)
+  Total: 15433 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:40006
+  Destination: 127.0.0.53:53
+  TX: 73 bytes (1 packets)
+  RX: 151 bytes (1 packets)
+  Total: 224 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:39690
+  Destination: 104.192.143.13:443
+  TX: 1935 bytes (11 packets)
+  RX: 5134 bytes (8 packets)
+  Total: 7069 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:48120
+  Destination: 13.227.180.4:443
+  TX: 3255 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9670 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:42696
+  Destination: 127.0.0.53:53
+  TX: 74 bytes (1 packets)
+  RX: 90 bytes (1 packets)
+  Total: 164 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33994
+  Destination: 4.237.22.38:443
+  TX: 2134 bytes (16 packets)
+  RX: 9010 bytes (16 packets)
+  Total: 11144 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:49072
+  Destination: 104.192.143.17:443
+  TX: 115538 bytes (138 packets)
+  RX: 69813 bytes (143 packets)
+  Total: 185351 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46454
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38136
+  Destination: 13.227.180.4:443
+  TX: 2398 bytes (12 packets)
+  RX: 6531 bytes (10 packets)
+  Total: 8929 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37362
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56470
+  Destination: 34.128.128.0:443
+  TX: 1651 bytes (11 packets)
+  RX: 5128 bytes (8 packets)
+  Total: 6779 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:48144
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9510 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46164
+  Destination: 13.227.180.4:443
+  TX: 3342 bytes (12 packets)
+  RX: 6943 bytes (11 packets)
+  Total: 10285 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:50932
+  Destination: 13.227.180.4:443
+  TX: 89795 bytes (625 packets)
+  RX: 178063 bytes (727 packets)
+  Total: 267858 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:45658
+  Destination: 104.192.143.12:443
+  TX: 2047 bytes (12 packets)
+  RX: 5596 bytes (10 packets)
+  Total: 7643 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47970
+  Destination: 13.227.180.4:443
+  TX: 3238 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9653 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:39674
+  Destination: 104.192.143.13:443
+  TX: 1793 bytes (10 packets)
+  RX: 4996 bytes (7 packets)
+  Total: 6789 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51258
+  Destination: 4.237.22.38:443
+  TX: 2115 bytes (16 packets)
+  RX: 8695 bytes (15 packets)
+  Total: 10810 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:39676
+  Destination: 104.192.143.13:443
+  TX: 3643 bytes (44 packets)
+  RX: 104174 bytes (43 packets)
+  Total: 107817 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:35996
+  Destination: 140.82.112.22:443
+  TX: 4168 bytes (15 packets)
+  RX: 7229 bytes (14 packets)
+  Total: 11397 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36140
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9458 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:49990
+  Destination: 13.227.180.4:443
+  TX: 3095 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9614 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47976
+  Destination: 13.227.180.4:443
+  TX: 2931 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9346 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37232
+  Destination: 13.227.180.4:443
+  TX: 3011 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9478 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37134
+  Destination: 13.227.180.4:443
+  TX: 3063 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9530 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37002
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37172
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33740
+  Destination: 4.237.22.38:443
+  TX: 2184 bytes (17 packets)
+  RX: 8335 bytes (17 packets)
+  Total: 10519 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56662
+  Destination: 104.192.143.16:443
+  TX: 2006 bytes (11 packets)
+  RX: 4499 bytes (10 packets)
+  Total: 6505 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34054
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9510 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:46638
+  Destination: 127.0.0.53:53
+  TX: 73 bytes (1 packets)
+  RX: 121 bytes (1 packets)
+  Total: 194 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34724
+  Destination: 13.227.180.4:443
+  TX: 3257 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9672 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37086
+  Destination: 13.227.180.4:443
+  TX: 3063 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9582 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37160
+  Destination: 13.227.180.4:443
+  TX: 3063 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9582 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37006
+  Destination: 13.227.180.4:443
+  TX: 2994 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:42646
+  Destination: 104.192.143.16:443
+  TX: 45314 bytes (57 packets)
+  RX: 29759 bytes (63 packets)
+  Total: 75073 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60512
+  Destination: 34.128.128.0:443
+  TX: 1693 bytes (12 packets)
+  RX: 5598 bytes (9 packets)
+  Total: 7291 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:43246
+  Destination: 13.227.180.4:443
+  TX: 2088 bytes (12 packets)
+  RX: 7197 bytes (11 packets)
+  Total: 9285 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51362
+  Destination: 4.237.22.38:443
+  TX: 2192 bytes (17 packets)
+  RX: 6941 bytes (15 packets)
+  Total: 9133 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47018
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51402
+  Destination: 4.237.22.38:443
+  TX: 2147 bytes (17 packets)
+  RX: 6511 bytes (14 packets)
+  Total: 8658 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60480
+  Destination: 13.227.180.4:443
+  TX: 2959 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9426 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:55546
+  Destination: 140.82.113.22:443
+  TX: 2109 bytes (17 packets)
+  RX: 11895 bytes (15 packets)
+  Total: 14004 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59700
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60284
+  Destination: 13.227.180.4:443
+  TX: 3251 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9718 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:57316
+  Destination: 13.227.180.4:443
+  TX: 3258 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9673 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:50528
+  Destination: 34.128.128.0:443
+  TX: 1717 bytes (12 packets)
+  RX: 4951 bytes (11 packets)
+  Total: 6668 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46172
+  Destination: 13.227.180.4:443
+  TX: 102261 bytes (88 packets)
+  RX: 22434 bytes (85 packets)
+  Total: 124695 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37220
+  Destination: 13.227.180.4:443
+  TX: 3063 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9582 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46458
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:37518
+  Destination: 127.0.0.53:53
+  TX: 75 bytes (1 packets)
+  RX: 153 bytes (1 packets)
+  Total: 228 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59868
+  Destination: 104.192.143.16:443
+  TX: 146983 bytes (189 packets)
+  RX: 93177 bytes (279 packets)
+  Total: 240160 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36968
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33814
+  Destination: 104.192.143.14:443
+  TX: 2047 bytes (12 packets)
+  RX: 5519 bytes (9 packets)
+  Total: 7566 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47944
+  Destination: 13.227.180.4:443
+  TX: 2973 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9388 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33704
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9510 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59632
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38840
+  Destination: 140.82.112.21:443
+  TX: 15597 bytes (18 packets)
+  RX: 7263 bytes (16 packets)
+  Total: 22860 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59766
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47032
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51428
+  Destination: 4.237.22.38:443
+  TX: 2099 bytes (16 packets)
+  RX: 8969 bytes (15 packets)
+  Total: 11068 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36066
+  Destination: 140.82.113.21:443
+  TX: 2536 bytes (24 packets)
+  RX: 34234 bytes (23 packets)
+  Total: 36770 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60484
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9510 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60540
+  Destination: 13.227.180.4:443
+  TX: 2925 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33844
+  Destination: 4.237.22.38:443
+  TX: 2204 bytes (17 packets)
+  RX: 7817 bytes (17 packets)
+  Total: 10021 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60294
+  Destination: 13.227.180.4:443
+  TX: 2931 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9346 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47010
+  Destination: 13.227.180.4:443
+  TX: 3259 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9726 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36946
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:42598
+  Destination: 13.227.180.4:443
+  TX: 2397 bytes (12 packets)
+  RX: 6535 bytes (10 packets)
+  Total: 8932 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51386
+  Destination: 4.237.22.38:443
+  TX: 2093 bytes (16 packets)
+  RX: 5773 bytes (13 packets)
+  Total: 7866 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56118
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51158
+  Destination: 4.237.22.38:443
+  TX: 2145 bytes (17 packets)
+  RX: 7220 bytes (13 packets)
+  Total: 9365 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:43240
+  Destination: 13.227.180.4:443
+  TX: 2001 bytes (11 packets)
+  RX: 6338 bytes (9 packets)
+  Total: 8339 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36990
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59564
+  Destination: 13.227.180.4:443
+  TX: 2959 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9426 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:57272
+  Destination: 34.120.195.249:443
+  TX: 6684 bytes (16 packets)
+  RX: 4945 bytes (17 packets)
+  Total: 11629 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33932
+  Destination: 4.237.22.38:443
+  TX: 2192 bytes (17 packets)
+  RX: 7411 bytes (16 packets)
+  Total: 9603 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:49004
+  Destination: 4.237.22.34:443
+  TX: 1636 bytes (15 packets)
+  RX: 7680 bytes (12 packets)
+  Total: 9316 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:49966
+  Destination: 13.227.180.4:443
+  TX: 674064 bytes (310 packets)
+  RX: 518165 bytes (463 packets)
+  Total: 1192229 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56216
+  Destination: 13.227.180.4:443
+  TX: 2925 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9340 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:45948
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9458 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:57742
+  Destination: 104.192.143.13:443
+  TX: 1983 bytes (12 packets)
+  RX: 5580 bytes (10 packets)
+  Total: 7563 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36924
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:33204
+  Destination: 127.0.0.53:53
+  TX: 83 bytes (1 packets)
+  RX: 99 bytes (1 packets)
+  Total: 182 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:50900
+  Destination: 13.227.180.4:443
+  TX: 3256 bytes (12 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9775 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51306
+  Destination: 4.237.22.38:443
+  TX: 2095 bytes (16 packets)
+  RX: 7678 bytes (12 packets)
+  Total: 9773 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56184
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9510 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59618
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47922
+  Destination: 13.227.180.4:443
+  TX: 2965 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9432 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51324
+  Destination: 4.237.22.38:443
+  TX: 2536 bytes (24 packets)
+  RX: 29919 bytes (22 packets)
+  Total: 32455 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51454
+  Destination: 4.237.22.38:443
+  TX: 2155 bytes (17 packets)
+  RX: 8450 bytes (14 packets)
+  Total: 10605 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46196
+  Destination: 13.227.180.4:443
+  TX: 2088 bytes (12 packets)
+  RX: 7130 bytes (10 packets)
+  Total: 9218 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38748
+  Destination: 104.192.143.15:443
+  TX: 2058 bytes (12 packets)
+  RX: 4395 bytes (8 packets)
+  Total: 6453 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:39470
+  Destination: 140.82.112.21:443
+  TX: 1638 bytes (13 packets)
+  RX: 6586 bytes (11 packets)
+  Total: 8224 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33938
+  Destination: 4.237.22.38:443
+  TX: 2081 bytes (15 packets)
+  RX: 6072 bytes (14 packets)
+  Total: 8153 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47070
+  Destination: 13.227.180.4:443
+  TX: 3259 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9726 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51382
+  Destination: 4.237.22.38:443
+  TX: 2173 bytes (17 packets)
+  RX: 6060 bytes (14 packets)
+  Total: 8233 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36970
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60344
+  Destination: 13.227.180.4:443
+  TX: 2972 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9439 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33854
+  Destination: 4.237.22.38:443
+  TX: 3626 bytes (23 packets)
+  RX: 12655 bytes (21 packets)
+  Total: 16281 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51216
+  Destination: 4.237.22.38:443
+  TX: 2241 bytes (19 packets)
+  RX: 12896 bytes (16 packets)
+  Total: 15137 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46422
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59592
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:39472
+  Destination: 140.82.112.21:443
+  TX: 2272 bytes (19 packets)
+  RX: 34014 bytes (18 packets)
+  Total: 36286 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37094
+  Destination: 13.227.180.4:443
+  TX: 3029 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9496 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36890
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33810
+  Destination: 104.192.143.14:443
+  TX: 3591 bytes (43 packets)
+  RX: 104182 bytes (43 packets)
+  Total: 107773 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:44194
+  Destination: 52.71.220.158:443
+  TX: 34762 bytes (414 packets)
+  RX: 94158 bytes (581 packets)
+  Total: 128920 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46392
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36056
+  Destination: 140.82.113.21:443
+  TX: 4220 bytes (16 packets)
+  RX: 7305 bytes (15 packets)
+  Total: 11525 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37202
+  Destination: 13.227.180.4:443
+  TX: 3063 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9530 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56326
+  Destination: 104.192.143.16:443
+  TX: 45637 bytes (62 packets)
+  RX: 29410 bytes (56 packets)
+  Total: 75047 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46848
+  Destination: 34.128.128.0:443
+  TX: 1651 bytes (11 packets)
+  RX: 5076 bytes (7 packets)
+  Total: 6727 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:52362
+  Destination: 34.128.128.0:443
+  TX: 1651 bytes (11 packets)
+  RX: 5128 bytes (8 packets)
+  Total: 6779 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59968
+  Destination: 13.227.180.4:443
+  TX: 3242 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9657 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33688
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:43864
+  Destination: 104.192.143.16:443
+  TX: 2056 bytes (12 packets)
+  RX: 4423 bytes (9 packets)
+  Total: 6479 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51232
+  Destination: 4.237.22.38:443
+  TX: 2153 bytes (17 packets)
+  RX: 5830 bytes (14 packets)
+  Total: 7983 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36934
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34406
+  Destination: 4.237.22.34:443
+  TX: 1636 bytes (15 packets)
+  RX: 7726 bytes (13 packets)
+  Total: 9362 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:42600
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9458 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59918
+  Destination: 34.128.128.0:443
+  TX: 1641 bytes (11 packets)
+  RX: 5530 bytes (8 packets)
+  Total: 7171 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59684
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:50532
+  Destination: 34.128.128.0:443
+  TX: 1651 bytes (11 packets)
+  RX: 5128 bytes (8 packets)
+  Total: 6779 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:39094
+  Destination: 127.0.0.53:53
+  TX: 73 bytes (1 packets)
+  RX: 121 bytes (1 packets)
+  Total: 194 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51316
+  Destination: 4.237.22.38:443
+  TX: 2070 bytes (16 packets)
+  RX: 6450 bytes (15 packets)
+  Total: 8520 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51274
+  Destination: 4.237.22.38:443
+  TX: 2089 bytes (16 packets)
+  RX: 6039 bytes (13 packets)
+  Total: 8128 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33992
+  Destination: 4.237.22.38:443
+  TX: 2136 bytes (16 packets)
+  RX: 6612 bytes (16 packets)
+  Total: 8748 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:37338
+  Destination: 127.0.0.53:53
+  TX: 134 bytes (2 packets)
+  RX: 362 bytes (2 packets)
+  Total: 496 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:43616
+  Destination: 13.227.180.4:443
+  TX: 3264 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9731 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34012
+  Destination: 4.237.22.38:443
+  TX: 2077 bytes (15 packets)
+  RX: 6098 bytes (14 packets)
+  Total: 8175 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37188
+  Destination: 13.227.180.4:443
+  TX: 3011 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9426 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33934
+  Destination: 4.237.22.38:443
+  TX: 2152 bytes (16 packets)
+  RX: 7004 bytes (16 packets)
+  Total: 9156 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36886
+  Destination: 13.227.180.4:443
+  TX: 2994 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:42388
+  Destination: 13.227.180.4:443
+  TX: 2307 bytes (13 packets)
+  RX: 7260 bytes (11 packets)
+  Total: 9567 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37360
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51390
+  Destination: 4.237.22.38:443
+  TX: 2105 bytes (16 packets)
+  RX: 6723 bytes (15 packets)
+  Total: 8828 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:55774
+  Destination: 127.0.0.53:53
+  TX: 73 bytes (1 packets)
+  RX: 151 bytes (1 packets)
+  Total: 224 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:48142
+  Destination: 13.227.180.4:443
+  TX: 2959 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9374 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51270
+  Destination: 4.237.22.38:443
+  TX: 2055 bytes (15 packets)
+  RX: 5882 bytes (14 packets)
+  Total: 7937 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59642
+  Destination: 13.227.180.4:443
+  TX: 6019 bytes (24 packets)
+  RX: 12986 bytes (21 packets)
+  Total: 19005 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:42314
+  Destination: 104.192.143.15:443
+  TX: 267206 bytes (328 packets)
+  RX: 163473 bytes (398 packets)
+  Total: 430679 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38148
+  Destination: 13.227.180.4:443
+  TX: 124025 bytes (157 packets)
+  RX: 37782 bytes (162 packets)
+  Total: 161807 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:43260
+  Destination: 13.227.180.4:443
+  TX: 2744 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9211 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33624
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36116
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9562 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37242
+  Destination: 13.227.180.4:443
+  TX: 3029 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9548 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33638
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59658
+  Destination: 13.227.180.4:443
+  TX: 5997 bytes (25 packets)
+  RX: 12934 bytes (20 packets)
+  Total: 18931 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46506
+  Destination: 104.192.143.13:443
+  TX: 1983 bytes (12 packets)
+  RX: 5527 bytes (9 packets)
+  Total: 7510 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51154
+  Destination: 4.237.22.38:443
+  TX: 2103 bytes (16 packets)
+  RX: 6500 bytes (15 packets)
+  Total: 8603 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60614
+  Destination: 13.227.180.4:443
+  TX: 2959 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9374 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34752
+  Destination: 13.227.180.4:443
+  TX: 3307 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9774 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:44367
+  Destination: 127.0.0.53:53
+  TX: 72 bytes (1 packets)
+  RX: 136 bytes (1 packets)
+  Total: 208 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:55646
+  Destination: 4.237.22.41:443
+  TX: 24104 bytes (77 packets)
+  RX: 288107 bytes (195 packets)
+  Total: 312211 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:41988
+  Destination: 13.227.180.4:443
+  TX: 2939 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9354 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37000
+  Destination: 13.227.180.4:443
+  TX: 2994 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9513 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38184
+  Destination: 13.227.180.4:443
+  TX: 3235 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9650 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33698
+  Destination: 4.237.22.38:443
+  TX: 2199 bytes (18 packets)
+  RX: 8000 bytes (16 packets)
+  Total: 10199 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37292
+  Destination: 13.227.180.4:443
+  TX: 3011 bytes (12 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9530 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51276
+  Destination: 4.237.22.38:443
+  TX: 2297 bytes (20 packets)
+  RX: 19983 bytes (16 packets)
+  Total: 22280 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59752
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47100
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36880
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:40897
+  Destination: 127.0.0.53:53
+  TX: 75 bytes (1 packets)
+  RX: 139 bytes (1 packets)
+  Total: 214 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59572
+  Destination: 13.227.180.4:443
+  TX: 3095 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9614 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:42008
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9510 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37208
+  Destination: 13.227.180.4:443
+  TX: 3011 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9478 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51456
+  Destination: 4.237.22.38:443
+  TX: 2107 bytes (16 packets)
+  RX: 6613 bytes (15 packets)
+  Total: 8720 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:41966
+  Destination: 13.227.180.4:443
+  TX: 6062 bytes (17 packets)
+  RX: 360 bytes (6 packets)
+  Total: 6422 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:48070
+  Destination: 13.227.180.4:443
+  TX: 3252 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9719 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60562
+  Destination: 13.227.180.4:443
+  TX: 2925 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9340 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36748
+  Destination: 104.192.143.13:443
+  TX: 1935 bytes (11 packets)
+  RX: 5161 bytes (9 packets)
+  Total: 7096 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:42442
+  Destination: 3.175.96.101:443
+  TX: 3156 bytes (14 packets)
+  RX: 6706 bytes (11 packets)
+  Total: 9862 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34064
+  Destination: 13.227.180.4:443
+  TX: 2255 bytes (12 packets)
+  RX: 7180 bytes (10 packets)
+  Total: 9435 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33822
+  Destination: 4.237.22.38:443
+  TX: 2496 bytes (23 packets)
+  RX: 29955 bytes (23 packets)
+  Total: 32451 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60390
+  Destination: 104.192.143.17:443
+  TX: 1999 bytes (13 packets)
+  RX: 4444 bytes (9 packets)
+  Total: 6443 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:42378
+  Destination: 13.227.180.4:443
+  TX: 3313 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9780 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59534
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:42626
+  Destination: 13.227.180.4:443
+  TX: 876412 bytes (614 packets)
+  RX: 93697 bytes (571 packets)
+  Total: 970109 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46368
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33670
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60622
+  Destination: 13.227.180.4:443
+  TX: 2959 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9426 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60450
+  Destination: 13.227.180.4:443
+  TX: 3095 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9614 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59518
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37346
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60302
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9562 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:42180
+  Destination: 3.175.96.46:443
+  TX: 1117037 bytes (16355 packets)
+  RX: 97083001 bytes (14246 packets)
+  Total: 98200038 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:43624
+  Destination: 13.227.180.4:443
+  TX: 3018 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9537 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:42840
+  Destination: 140.82.113.22:443
+  TX: 6562 bytes (16 packets)
+  RX: 7056 bytes (12 packets)
+  Total: 13618 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60508
+  Destination: 34.128.128.0:443
+  TX: 1641 bytes (11 packets)
+  RX: 5654 bytes (9 packets)
+  Total: 7295 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51570
+  Destination: 4.237.22.34:443
+  TX: 1839 bytes (17 packets)
+  RX: 8001 bytes (17 packets)
+  Total: 9840 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:48104
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9458 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56738
+  Destination: 104.192.143.14:443
+  TX: 1983 bytes (12 packets)
+  RX: 5552 bytes (9 packets)
+  Total: 7535 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:41958
+  Destination: 13.227.180.4:443
+  TX: 2965 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9432 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:57482
+  Destination: 104.192.143.14:443
+  TX: 1793 bytes (10 packets)
+  RX: 4972 bytes (7 packets)
+  Total: 6765 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33904
+  Destination: 4.237.22.38:443
+  TX: 2188 bytes (17 packets)
+  RX: 7135 bytes (16 packets)
+  Total: 9323 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38172
+  Destination: 13.227.180.4:443
+  TX: 2983 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9502 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:50936
+  Destination: 13.227.180.4:443
+  TX: 2959 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9374 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59442
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46398
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38120
+  Destination: 13.227.180.4:443
+  TX: 3500 bytes (15 packets)
+  RX: 7375 bytes (13 packets)
+  Total: 10875 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37102
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:42610
+  Destination: 13.227.180.4:443
+  TX: 3383 bytes (12 packets)
+  RX: 6878 bytes (10 packets)
+  Total: 10261 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37184
+  Destination: 13.227.180.4:443
+  TX: 3011 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9478 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59772
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:45916
+  Destination: 13.227.180.4:443
+  TX: 3259 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9674 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:44634
+  Destination: 127.0.0.53:53
+  TX: 83 bytes (1 packets)
+  RX: 176 bytes (1 packets)
+  Total: 259 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:43638
+  Destination: 127.0.0.53:53
+  TX: 74 bytes (1 packets)
+  RX: 90 bytes (1 packets)
+  Total: 164 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47014
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51252
+  Destination: 4.237.22.38:443
+  TX: 2199 bytes (18 packets)
+  RX: 10692 bytes (15 packets)
+  Total: 12891 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37334
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36772
+  Destination: 104.192.143.13:443
+  TX: 1793 bytes (10 packets)
+  RX: 4971 bytes (7 packets)
+  Total: 6764 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:42464
+  Destination: 34.128.128.0:443
+  TX: 1641 bytes (11 packets)
+  RX: 5845 bytes (9 packets)
+  Total: 7486 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59538
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:43802
+  Destination: 104.192.143.12:443
+  TX: 2255 bytes (17 packets)
+  RX: 5838 bytes (14 packets)
+  Total: 8093 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51474
+  Destination: 4.237.22.38:443
+  TX: 2145 bytes (17 packets)
+  RX: 6537 bytes (14 packets)
+  Total: 8682 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51334
+  Destination: 4.237.22.38:443
+  TX: 2065 bytes (15 packets)
+  RX: 7627 bytes (14 packets)
+  Total: 9692 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46536
+  Destination: 104.192.143.13:443
+  TX: 1793 bytes (10 packets)
+  RX: 4970 bytes (7 packets)
+  Total: 6763 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56270
+  Destination: 13.227.180.4:443
+  TX: 2959 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9374 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34044
+  Destination: 4.237.22.38:443
+  TX: 2192 bytes (17 packets)
+  RX: 10181 bytes (17 packets)
+  Total: 12373 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37276
+  Destination: 13.227.180.4:443
+  TX: 3011 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9478 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:39668
+  Destination: 104.192.143.13:443
+  TX: 1935 bytes (11 packets)
+  RX: 5134 bytes (8 packets)
+  Total: 7069 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33824
+  Destination: 104.192.143.14:443
+  TX: 1935 bytes (11 packets)
+  RX: 5111 bytes (8 packets)
+  Total: 7046 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:57356
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9458 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47084
+  Destination: 34.128.128.0:443
+  TX: 1641 bytes (11 packets)
+  RX: 5663 bytes (8 packets)
+  Total: 7304 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33608
+  Destination: 13.227.180.4:443
+  TX: 3307 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9774 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:53530
+  Destination: 13.227.180.4:443
+  TX: 320022 bytes (123 packets)
+  RX: 17149 bytes (116 packets)
+  Total: 337171 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46352
+  Destination: 13.227.180.4:443
+  TX: 2994 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38206
+  Destination: 13.227.180.4:443
+  TX: 2965 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9380 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51192
+  Destination: 4.237.22.38:443
+  TX: 2249 bytes (19 packets)
+  RX: 9124 bytes (16 packets)
+  Total: 11373 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:45816
+  Destination: 140.82.114.22:443
+  TX: 4169 bytes (15 packets)
+  RX: 7255 bytes (14 packets)
+  Total: 11424 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36002
+  Destination: 140.82.112.22:443
+  TX: 1774 bytes (13 packets)
+  RX: 8193 bytes (10 packets)
+  Total: 9967 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60598
+  Destination: 13.227.180.4:443
+  TX: 3011 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9530 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:45932
+  Destination: 13.227.180.4:443
+  TX: 2991 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9458 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:45298
+  Destination: 127.0.0.53:53
+  TX: 73 bytes (1 packets)
+  RX: 151 bytes (1 packets)
+  Total: 224 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:49772
+  Destination: 34.128.128.0:443
+  TX: 1641 bytes (11 packets)
+  RX: 5491 bytes (7 packets)
+  Total: 7132 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47098
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47116
+  Destination: 13.227.180.4:443
+  TX: 2925 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33800
+  Destination: 4.237.22.38:443
+  TX: 2107 bytes (16 packets)
+  RX: 6796 bytes (15 packets)
+  Total: 8903 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:41978
+  Destination: 13.227.180.4:443
+  TX: 3303 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9822 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46474
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38160
+  Destination: 13.227.180.4:443
+  TX: 3095 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9614 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46180
+  Destination: 13.227.180.4:443
+  TX: 3095 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9562 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60110
+  Destination: 34.128.128.0:443
+  TX: 1641 bytes (11 packets)
+  RX: 5565 bytes (8 packets)
+  Total: 7206 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59672
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46212
+  Destination: 13.227.180.4:443
+  TX: 2256 bytes (12 packets)
+  RX: 6602 bytes (10 packets)
+  Total: 8858 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38214
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9458 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34078
+  Destination: 4.237.22.38:443
+  TX: 2190 bytes (17 packets)
+  RX: 9161 bytes (17 packets)
+  Total: 11351 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:49976
+  Destination: 140.82.114.21:443
+  TX: 2536 bytes (24 packets)
+  RX: 34220 bytes (22 packets)
+  Total: 36756 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51464
+  Destination: 4.237.22.38:443
+  TX: 2145 bytes (17 packets)
+  RX: 9971 bytes (14 packets)
+  Total: 12116 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:35440
+  Destination: 104.192.143.14:443
+  TX: 2047 bytes (12 packets)
+  RX: 5520 bytes (9 packets)
+  Total: 7567 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33798
+  Destination: 4.237.22.38:443
+  TX: 2136 bytes (16 packets)
+  RX: 6984 bytes (16 packets)
+  Total: 9120 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60548
+  Destination: 13.227.180.4:443
+  TX: 2925 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9340 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:57340
+  Destination: 13.227.180.4:443
+  TX: 2976 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9443 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59568
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:41113
+  Destination: 127.0.0.53:53
+  TX: 72 bytes (1 packets)
+  RX: 296 bytes (1 packets)
+  Total: 368 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33696
+  Destination: 4.237.22.38:443
+  TX: 2157 bytes (17 packets)
+  RX: 9124 bytes (16 packets)
+  Total: 11281 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:40294
+  Destination: 127.0.0.53:53
+  TX: 74 bytes (1 packets)
+  RX: 152 bytes (1 packets)
+  Total: 226 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46482
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60626
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9510 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37060
+  Destination: 13.227.180.4:443
+  TX: 3063 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9530 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60684
+  Destination: 104.192.143.12:443
+  TX: 1789 bytes (10 packets)
+  RX: 4994 bytes (7 packets)
+  Total: 6783 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60584
+  Destination: 13.227.180.4:443
+  TX: 2959 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9374 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36994
+  Destination: 104.192.143.15:443
+  TX: 74566 bytes (107 packets)
+  RX: 47896 bytes (140 packets)
+  Total: 122462 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:50030
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9458 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46694
+  Destination: 104.192.143.17:443
+  TX: 2079 bytes (14 packets)
+  RX: 4499 bytes (10 packets)
+  Total: 6578 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:44127
+  Destination: 127.0.0.53:53
+  TX: 74 bytes (1 packets)
+  RX: 152 bytes (1 packets)
+  Total: 226 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60448
+  Destination: 13.227.180.4:443
+  TX: 2959 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9374 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56750
+  Destination: 104.192.143.14:443
+  TX: 1789 bytes (10 packets)
+  RX: 4996 bytes (7 packets)
+  Total: 6785 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60534
+  Destination: 13.227.180.4:443
+  TX: 2925 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9340 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:52372
+  Destination: 34.128.128.0:443
+  TX: 1641 bytes (11 packets)
+  RX: 5519 bytes (8 packets)
+  Total: 7160 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56256
+  Destination: 13.227.180.4:443
+  TX: 3255 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9722 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37112
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33718
+  Destination: 4.237.22.34:443
+  TX: 1763 bytes (16 packets)
+  RX: 7939 bytes (17 packets)
+  Total: 9702 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:45836
+  Destination: 140.82.114.22:443
+  TX: 1986 bytes (16 packets)
+  RX: 10088 bytes (14 packets)
+  Total: 12074 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56134
+  Destination: 13.227.180.4:443
+  TX: 3063 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9530 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46460
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59716
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34742
+  Destination: 13.227.180.4:443
+  TX: 2972 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9387 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:55904
+  Destination: 104.192.143.15:443
+  TX: 2100 bytes (14 packets)
+  RX: 4473 bytes (10 packets)
+  Total: 6573 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:55826
+  Destination: 104.192.143.12:443
+  TX: 1789 bytes (10 packets)
+  RX: 5024 bytes (8 packets)
+  Total: 6813 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:53538
+  Destination: 13.227.180.4:443
+  TX: 3095 bytes (13 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9614 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33978
+  Destination: 4.237.22.38:443
+  TX: 2133 bytes (16 packets)
+  RX: 10237 bytes (15 packets)
+  Total: 12370 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56200
+  Destination: 13.227.180.4:443
+  TX: 3257 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9724 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36902
+  Destination: 13.227.180.4:443
+  TX: 2994 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9461 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:53510
+  Destination: 13.227.180.4:443
+  TX: 3480 bytes (12 packets)
+  RX: 6936 bytes (11 packets)
+  Total: 10416 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:42944
+  Destination: 13.227.180.4:443
+  TX: 2307 bytes (13 packets)
+  RX: 7218 bytes (10 packets)
+  Total: 9525 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33736
+  Destination: 4.237.22.38:443
+  TX: 2105 bytes (16 packets)
+  RX: 6515 bytes (16 packets)
+  Total: 8620 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37146
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59426
+  Destination: 13.227.180.4:443
+  TX: 843091 bytes (583 packets)
+  RX: 139877 bytes (602 packets)
+  Total: 982968 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34060
+  Destination: 4.237.22.38:443
+  TX: 2186 bytes (17 packets)
+  RX: 8416 bytes (16 packets)
+  Total: 10602 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:55810
+  Destination: 3.175.96.11:443
+  TX: 127782 bytes (239 packets)
+  RX: 38336 bytes (242 packets)
+  Total: 166118 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59484
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60456
+  Destination: 13.227.180.4:443
+  TX: 3255 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9670 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:43234
+  Destination: 13.227.180.4:443
+  TX: 2028 bytes (11 packets)
+  RX: 6725 bytes (9 packets)
+  Total: 8753 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60444
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:50446
+  Destination: 34.128.128.0:443
+  TX: 1651 bytes (11 packets)
+  RX: 5128 bytes (8 packets)
+  Total: 6779 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37226
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9444 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:46176
+  Destination: 13.227.180.4:443
+  TX: 3125 bytes (15 packets)
+  RX: 6526 bytes (10 packets)
+  Total: 9651 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:39692
+  Destination: 104.192.143.13:443
+  TX: 1793 bytes (10 packets)
+  RX: 5046 bytes (8 packets)
+  Total: 6839 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:50022
+  Destination: 13.227.180.4:443
+  TX: 1393189 bytes (1025 packets)
+  RX: 425344 bytes (1012 packets)
+  Total: 1818533 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60684
+  Destination: 140.82.112.21:443
+  TX: 2109 bytes (17 packets)
+  RX: 11898 bytes (15 packets)
+  Total: 14007 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:47052
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56242
+  Destination: 13.227.180.4:443
+  TX: 3043 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9458 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:49414
+  Destination: 127.0.0.53:53
+  TX: 73 bytes (1 packets)
+  RX: 151 bytes (1 packets)
+  Total: 224 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37228
+  Destination: 13.227.180.4:443
+  TX: 3011 bytes (12 packets)
+  RX: 6519 bytes (11 packets)
+  Total: 9530 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:56268
+  Destination: 13.227.180.4:443
+  TX: 2925 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37308
+  Destination: 13.227.180.4:443
+  TX: 3011 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9426 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:44912
+  Destination: 127.0.0.53:53
+  TX: 73 bytes (1 packets)
+  RX: 121 bytes (1 packets)
+  Total: 194 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:34668
+  Destination: 127.0.0.53:53
+  TX: 83 bytes (1 packets)
+  RX: 176 bytes (1 packets)
+  Total: 259 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51372
+  Destination: 4.237.22.38:443
+  TX: 2117 bytes (16 packets)
+  RX: 5702 bytes (12 packets)
+  Total: 7819 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34028
+  Destination: 4.237.22.38:443
+  TX: 2142 bytes (16 packets)
+  RX: 6678 bytes (16 packets)
+  Total: 8820 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59470
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9409 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36100
+  Destination: 13.227.180.4:443
+  TX: 3256 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9671 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:35294
+  Destination: 13.227.180.4:443
+  TX: 2092 bytes (12 packets)
+  RX: 7011 bytes (10 packets)
+  Total: 9103 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:37262
+  Destination: 13.227.180.4:443
+  TX: 2977 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9392 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:48090
+  Destination: 13.227.180.4:443
+  TX: 2959 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9374 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51188
+  Destination: 4.237.22.38:443
+  TX: 2085 bytes (16 packets)
+  RX: 6947 bytes (13 packets)
+  Total: 9032 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:41356
+  Destination: 13.227.180.4:443
+  TX: 3265 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9680 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:45822
+  Destination: 140.82.114.22:443
+  TX: 2380 bytes (21 packets)
+  RX: 34149 bytes (20 packets)
+  Total: 36529 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59556
+  Destination: 13.227.180.4:443
+  TX: 3253 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9720 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:38862
+  Destination: 13.227.180.4:443
+  TX: 3095 bytes (13 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9562 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:51156
+  Destination: 4.237.22.38:443
+  TX: 2228 bytes (18 packets)
+  RX: 7073 bytes (15 packets)
+  Total: 9301 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:34020
+  Destination: 4.237.22.38:443
+  TX: 2155 bytes (17 packets)
+  RX: 8530 bytes (15 packets)
+  Total: 10685 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:52178
+  Destination: 104.192.143.16:443
+  TX: 3019 bytes (13 packets)
+  RX: 4756 bytes (10 packets)
+  Total: 7775 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:50854
+  Destination: 4.237.22.34:443
+  TX: 1688 bytes (16 packets)
+  RX: 7728 bytes (13 packets)
+  Total: 9416 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 127.0.0.1:48833
+  Destination: 127.0.0.53:53
+  TX: 73 bytes (1 packets)
+  RX: 151 bytes (1 packets)
+  Total: 224 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:33722
+  Destination: 4.237.22.38:443
+  TX: 2061 bytes (15 packets)
+  RX: 5843 bytes (14 packets)
+  Total: 7904 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:60434
+  Destination: 13.227.180.4:443
+  TX: 3252 bytes (12 packets)
+  RX: 6467 bytes (10 packets)
+  Total: 9719 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:59606
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
+
+=== Per-Connection Statistics [2025-10-28 22:03:10] ===
+UID: 1000 | Username: ugo
+Process: 
+  Source: 192.168.1.22:36984
+  Destination: 13.227.180.4:443
+  TX: 2942 bytes (12 packets)
+  RX: 6415 bytes (9 packets)
+  Total: 9357 bytes
+---
